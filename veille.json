@@ -1,0 +1,430 @@
+{
+ "updated": "2026-11-13T09:20:58.038Z",
+ "sources": [
+  {
+   "nom": "CERT-FR (ANSSI)",
+   "ok": true
+  },
+  {
+   "nom": "IT-Connect",
+   "ok": true
+  },
+  {
+   "nom": "Le Monde Informatique",
+   "ok": true
+  },
+  {
+   "nom": "ZATAZ",
+   "ok": true
+  },
+  {
+   "nom": "01net",
+   "ok": true
+  },
+  {
+   "nom": "UnderNews",
+   "ok": true
+  }
+ ],
+ "items": [
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
+   "description": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle. Présentés le 12 novembre 2026, Daybreak Red Team et Daybreak Defense Factory visent respectivement à automatiser les tests d’intrusion et à accélérer la préparation des correctifs. Avec cette nouvelle offre, l’éditeur entend renforcer les capacités des équipes de sécurité ",
+   "date": "2026-11-13T06:37:37.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM",
+   "link": "https://www.it-connect.fr/signdrop-zero-day-windows-clfs-system/",
+   "description": "SignDrop, nouvelle zero-day publiée par Nightmare Eclipse, détourne l'authentification CLFS de Windows pour obtenir les droits SYSTEM. Voici ce que l'on sait. Le post SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM a été publié sur IT-Connect .",
+   "date": "2026-11-13T05:56:31.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance",
+   "link": "https://www.it-connect.fr/faille-apache-http2-cve-2026-119618-rce/",
+   "description": "CVE-2026-119618 : une faille critique dans le module HTTP/2 d'Apache permet d'exécuter du code à distance. Voici comment protéger votre serveur Web. Le post Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance a été publié sur IT-Connect .",
+   "date": "2026-11-12T19:40:50.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026",
+   "link": "https://www.it-connect.fr/reactiv-anssi-point-situation-fuites-donnees-caf-france-travail/",
+   "description": "64 violations de données signalées depuis fin septembre : l'ANSSI publie son 2e point REACTIV. CAF, France Travail, OFB... avec toujours les mêmes failles. Le post CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026 a été publié sur IT-Connect .",
+   "date": "2026-11-12T16:51:27.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "« Un problème au niveau d’iOS » : Binance alerte sur une faille de l’iPhone qui menace tous les portefeuilles crypto",
+   "link": "https://www.01net.com/actualites/un-probleme-au-niveau-dios-binance-alerte-sur-une-faille-de-liphone-qui-menace-tous-les-portefeuilles-crypto.html",
+   "description": "Binance met en garde les propriétaires d'iPhone. Une faille, baptisée worse_query, vient d’être découverte dans le système d’exploitation iOS. Elle permet à une application malveillante de lire les fichiers des autres applications, y compris les phrases de récupération des portefeuilles crypto. Selon les chercheurs, la brèche n'a toujours pas été corrigée par Apple, ce qui met en danger les invest",
+   "date": "2026-11-12T16:31:07.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Google corrige d’urgence une 8e faille Chrome exploitée par des pirates, installez vite la mise à jour",
+   "link": "https://www.01net.com/actualites/google-corrige-urgence-8e-faille-chrome-exploitee-pirates-installez-vite-mise-jour.html",
+   "description": "Google vient de déployer une mise à jour de sécurité d'urgence sur Chrome. Le géant de Mountain View corrige ainsi une faille zero-day déjà exploitée par des pirates dans des cyberattaques. C'est déjà la huitième faille zero-day de l'année identifiée sur le navigateur.",
+   "date": "2026-11-12T13:01:07.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Après les frigos des supermarchés, l’Europe s’inquiète des cyberattaques contre « les appareils ménagers »",
+   "link": "https://www.01net.com/actualites/apres-les-frigos-des-supermarches-leurope-sinquiete-des-cyberattaques-contre-les-appareils-menagers.html",
+   "description": "L'agence européenne de cybersécurité est sur le qui-vive. Après les frigos des supermarchés, les appareils électroménagers des citoyens pourraient être les prochaines cibles des pirates, estime l'agence. Cet avertissement survient à la suite de plusieurs semaines de cyberattaques, allant des supermarchés européens à une poignée d'établissements de santé.",
+   "date": "2026-11-12T12:00:32.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
+   "description": "Zoom a publié des correctifs pour deux vulnérabilités affectant Workplace sous Windows, dont une faille critique d’élévation de privilèges notée 9,6 sur l’échelle CVSS. Référencées CVE-2026-108186 et CVE-2026-108187, elles pourraient permettre à un attaquant non authentifié d’obtenir des privilèges supplémentaires à distance, à condition que l’utilisateur interagisse. Les entreprises sont invitées",
+   "date": "2026-11-12T10:46:15.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Les menaces par hameçonnage progressent trois fois plus vite en Europe que dans le reste du monde",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/les-menaces-par-hameconnage-progressent-trois-fois-plus-vite-en-europe-que-dans-le-reste-du-monde.html",
+   "description": "Les nouvelles recherches révèlent une multiplication par 4,5 des détections de tentatives d’hameçonnage en Europe sur un an, contre 1,5 à l’échelle mondiale, dans un contexte d’essor des menaces liées au cloud et à l’IA. Tribune – Proofpoint, Inc., leader mondial de la cybersécurité centrée sur l’humain et les agents d’IA, a dévoilé aujourd’hui, à […] The post Les menaces par hameçonnage progresse",
+   "date": "2026-11-12T10:41:42.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL",
+   "link": "https://www.it-connect.fr/nas-synology-dsm-failles-sans-authentification-novembre-2026/",
+   "description": "Synology a corrigé deux failles dans DSM exploitables sans authentification, dont une injection SQL critique. Voici les versions à installer sur votre NAS. Le post NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL a été publié sur IT-Connect .",
+   "date": "2026-11-12T10:15:00.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cybersécurité : construire une protection adaptée plutôt que multiplier les outils",
+   "link": "https://www.undernews.fr/reseau-securite/cybersecurite-construire-une-protection-adaptee-plutot-que-multiplier-les-outils.html",
+   "description": "La cybersécurité est encore trop souvent abordée sous l’angle des solutions technologiques à déployer. Pourtant, multiplier les dispositifs ne garantit pas une protection cohérente. Chaque entreprise possède son environnement technique, ses contraintes opérationnelles et son niveau de maturité. Une réponse standardisée ne couvre donc pas nécessairement ses besoins. L’audit des infrastructures, l’a",
+   "date": "2026-11-12T10:08:02.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Notion AI : le piratage de Fireworks AI a exposé des conversations de clients",
+   "link": "https://www.it-connect.fr/notion-ai-fuite-conversations-fireworks/",
+   "description": "Le piratage de Fireworks AI, sous-traitant de Notion, a exposé des conversations Notion AI. Moins de 1 % des espaces de travail sont touchés. Le post Notion AI : le piratage de Fireworks AI a exposé des conversations de clients a été publié sur IT-Connect .",
+   "date": "2026-11-12T09:50:00.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Formation IA : pourquoi l’intelligence artificielle s’intègre désormais dans tous les métiers",
+   "link": "https://www.undernews.fr/undernews/formation-ia-pourquoi-lintelligence-artificielle-sintegre-desormais-dans-tous-les-metiers.html",
+   "description": "La formation IA attire un intérêt croissant à mesure que l’intelligence artificielle s’installe dans les usages quotidiens des entreprises. Longtemps associée à des expérimentations ciblées, elle est désormais utilisée dans des tâches concrètes : gestion documentaire, relation client, suivi commercial ou automatisation administrative. Dans cette évolution, les outils no-code IA occupent une place ",
+   "date": "2026-11-12T09:33:17.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Maersk confirme une fuite de données : WhiteArmor réclame 5 millions de dollars",
+   "link": "https://www.it-connect.fr/maersk-fuite-de-donnees-whitearmor/",
+   "description": "Maersk reconnaît un vol de données sur un système hérité d'un rachat. WhiteArmor revendique 100 Go de données volées et exige 5 millions de dollars en bitcoins. Le post Maersk confirme une fuite de données : WhiteArmor réclame 5 millions de dollars a été publié sur IT-Connect .",
+   "date": "2026-11-12T09:30:00.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Windows : deux failles BitLocker permettent de lire les fichiers protégés",
+   "link": "https://www.01net.com/actualites/windows-deux-failles-bitlocker-permettent-de-lire-les-fichiers-proteges.html",
+   "description": "Microsoft vient de corriger deux failles de sécurité dans BitLocker, l'outil qui chiffre le disque dur des PC sous Windows. En exploitant ces brèches, un pirate peut contourner le chiffrement et accéder aux données protégées sur l'ordinateur.",
+   "date": "2026-11-12T09:01:03.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Grok Build : plus de 35 000 applications IA accessibles sans authentification",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/grok-build-plus-de-35-000-applications-ia-accessib",
+   "description": "Une étude de la société de cybersécurité Claroc révèle d’importants défauts de confidentialité dans des applications créées avec Grok Build, l’outil de création d’applications assistée par IA de SpaceXSI, l’éditeur de Grok anciennement appelé xAI. Sur les 37 571 applications actives examinées, 35 578 étaient accessibles sans authentification, exposant potentiellement des données personnelles, des ",
+   "date": "2026-11-12T07:45:45.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Microsoft corrige plus de 1 200 failles Windows, dont une brèche d’Outlook déjà exploitée par des pirates",
+   "link": "https://www.01net.com/actualites/microsoft-corrige-plus-de-1-200-failles-windows-dont-une-breche-doutlook-deja-exploitee-par-des-pirates.html",
+   "description": "Microsoft vient de publier son Patch Tuesday mensuel. La mise à jour corrige 1 235 failles de sécurité dans Windows, Office et les autres logiciels de l'éditeur. Parmi les vulnérabilités colmatées, on trouve une brèche d'Outlook. Celle-ci est déjà utilisée par des pirates pour dérober des identifiants.",
+   "date": "2026-11-11T08:30:45.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook",
+   "link": "https://www.it-connect.fr/patch-tuesday-novembre-2026-recapitulatif/",
+   "description": "Microsoft a corrigé 1 093 failles avec le Patch Tuesday de novembre 2026. Une faille zero-day est déjà exploitée dans Outlook : voici le récapitulatif complet. Le post Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook a été publié sur IT-Connect .",
+   "date": "2026-11-11T07:16:01.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Un singe, un canard et Elon Musk : les pirates nord-coréens blanchissent le butin de Binance d’une façon inattendue",
+   "link": "https://www.01net.com/actualites/un-singe-un-canard-et-elon-musk-les-pirates-nord-coreens-blanchissent-le-butin-de-binance-dune-facon-inattendue.html",
+   "description": "Pour écouler les 6,4 milliards de dollars volés à Binance, les pirates nord-coréens ont trouvé une astuce plutôt inattendue. Les truands ont en effet créé leurs propres memecoins, des cryptomonnaies parodiques, et ils s'en servent massivement pour brouiller les pistes. Les memecoins utilisés par les hackers représentent notamment des singes, un canard et Elon Musk.",
+   "date": "2026-11-11T07:11:47.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Scality devient autorité de numérotation CVE sous l’égide de l’ENISA",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/scality-devient-autorite-de-numerotation-cve-sous-",
+   "description": "Scality a annoncé le 10 novembre 2026 son entrée dans le programme CVE en tant qu’autorité de numérotation, ou CNA (CVE Numbering Authority). L’éditeur peut désormais attribuer directement des identifiants aux vulnérabilités de ses logiciels et publier les enregistrements associés. Cette évolution intervient alors que les obligations de signalement du Cyber Resilience Act sont applicables depuis s",
+   "date": "2026-11-10T14:56:07.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "La confiance des salariés dans les communications numériques progresse à l’ère des deepfakes, mais les pratiques de vérification restent insuffisantes",
+   "link": "https://www.undernews.fr/culture-web-emploi/la-confiance-des-salaries-dans-les-communications-numeriques-progresse-a-lere-des-deepfakes-mais-les-pratiques-de-verification-restent-insuffisantes.html",
+   "description": "Le nouveau Cyber Trust Index de WatchGuard révèle que plus d’un salarié sur deux ne vérifie pas systématiquement l’identité de son interlocuteur avant de donner suite à une demande sensible, malgré la multiplication des risques d’usurpation d’identité liés à l’IA. Tribune – WatchGuard Technologies, leader mondial de la cybersécurité unifiée pour les fournisseurs de services […] The post La confian",
+   "date": "2026-11-10T14:41:50.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Supermarchés, centrales hydroélectriques : la France ciblée par des cyberattaques attribuées à l’Iran",
+   "link": "https://www.undernews.fr/hacking-hacktivisme/supermarches-centrales-hydroelectriques-la-france-ciblee-par-des-cyberattaques-attribuees-a-liran.html",
+   "description": "Le parquet de Paris a ouvert une information judiciaire visant une unité des Gardiens de la révolution iraniens, soupçonnée d’avoir compromis les systèmes de réfrigération d’environ 700 supermarchés français en octobre. Un rapport de l’ANSSI et de ses partenaires s’appuie sur plusieurs indices techniques reliant ces cyberattaques à Téhéran. Les investigations révèlent également que de […] The post",
+   "date": "2026-11-10T13:08:44.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Jfrog révèle une fausse campagne de recrutement ciblant les développeurs",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/jfrog-revele-une-fausse-campagne-de-recrutement-ciblant-les-developpeurs.html",
+   "description": "L’équipe de recherche en sécurité de JFrog vient de mettre au jour une opération de cyberattaque jusqu’alors inconnue, baptisée « AccuraSoftHire », parmi plusieurs autres campagnes similaires. Celle-ci repose sur une méthode utilisée par les cybercriminels depuis 2023 : le recours à de faux entretiens d’embauche pour piéger leurs victimes. Une technique récemment mise en lumière par la […] The pos",
+   "date": "2026-11-10T13:04:13.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cybersécurité – Rapport Acronis Cyberpulse 2026",
+   "link": "https://www.undernews.fr/reseau-securite/cybersecurite-rapport-acronis-cyberpulse-2026.html",
+   "description": "Cybersécurité : Avec son premier rapport TRU Cyber Pulse 2026, Acronis cartographie les menaces actuelles et futures. Acronis analyse les grandes tendances de la cybercriminalité, les attaques s’appuyant sur l’IA et l’évolution des méthodes des ransomwares à partir des recherches menées au cours de l’année écoulée. Tribune – Acronis, fournisseur mondial d’une plateforme cyber native […] The post C",
+   "date": "2026-11-10T13:02:27.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware",
+   "link": "https://www.it-connect.fr/teams-faux-support-it-email-bombing/",
+   "description": "Plus de 400 attaques au faux support IT via le chat externe de Teams : l'ordinateur de la victime peut être compromis en moins de 15 minutes. Le post Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware a été publié sur IT-Connect .",
+   "date": "2026-11-10T13:00:00.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Fraude à la carte bancaire : sur le dark web, les cybercriminels vendent désormais des méthodes clés en main pour pirater les distributeurs",
+   "link": "https://www.undernews.fr/banque-cartes-bancaires/fraude-a-la-carte-bancaire-sur-le-dark-web-les-cybercriminels-vendent-desormais-des-methodes-cles-en-main-pour-pirater-les-distributeurs.html",
+   "description": "Une enquête menée par Assaf Morag, chercheur en cybersécurité chez Flare, et portant sur plus de 1 000 publications issues de forums clandestins, révèle comment le skimming, une technique de vol de données bancaires, s’est transformé en un véritable marché organisé, où les cybercriminels vendent désormais des méthodes de fraude clés en main. Tribune Flare […] The post Fraude à la carte bancaire : ",
+   "date": "2026-11-10T12:58:48.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "BluePhishing, une nouvelle technique potentielle sur le détournement des identités d’agents IA via Microsoft Entra",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/bluephishing-une-nouvelle-technique-potentielle-sur-le-detournement-des-identites-dagents-ia-via-microsoft-entra.html",
+   "description": "Les chercheurs de Proofpoint ont identifié une nouvelle technique d’attaque potentielle, baptisée BluePhishing, qui pourrait permettre à des cybercriminels d’exploiter les identités d’agents IA pour accéder sans autorisation aux environnements d’entreprise. Tribune Proofpoint. Les principaux enseignements : Un nouveau vecteur d’attaque : BluePhishing étend le phishing OAuth traditionnel aux agents",
+   "date": "2026-11-10T12:55:59.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Comment faire face aux cyberattaques pilotées par l’IA ?",
+   "link": "https://www.undernews.fr/reseau-securite/comment-faire-face-aux-cyberattaques-pilotees-par-lia.html",
+   "description": "Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé. Pour faire face aux cyberattaques pilotées par l’IA, les entreprises doivent accélérer leur capacité de détection et de réponse, en s’appuyant sur une analyse contextualisée des comportements et des protections automatisées, ciblées et réversibles",
+   "date": "2026-11-10T12:53:12.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cisco et IBM vont intégrer Mythos à leurs outils de cybersécurité",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cisco-et-ibm-vont-integrer-mythos-a-leurs-outils-d",
+   "description": "Cisco et IBM préparent l’intégration de Claude Mythos dans leurs produits de sécurité. Le premier utilisera le modèle d’Anthropic pour renforcer les tests offensifs des systèmes d’IA. Le second vise la détection et la correction de vulnérabilités logicielles. Ces projets élargissent l’accès aux capacités de Mythos, avec des conditions d’utilisation et des calendriers distincts.",
+   "date": "2026-11-10T10:58:58.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Installez vite iOS 27.2.1 : Apple colmate des failles dans iMessage et le Bluetooth de votre iPhone",
+   "link": "https://www.01net.com/actualites/installez-vite-ios-27-2-1-apple-colmate-des-failles-dans-imessage-bluetooth-iphone.html",
+   "description": "Apple vient de déployer la mise à jour iOS 27.2.1 sur tous les iPhone compatibles. Cette mise à jour corrige un total de neuf failles de sécurité, dont une vulnérabilité d'iMessage. Des failles dans le Bluetooth et le protocole AirPlay ont aussi été colmatées par le géant de Cupertino.",
+   "date": "2026-11-10T09:00:25.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Qubole : des accès cloud oubliés exposent les entreprises au vol de données",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep",
+   "description": "Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes. Certaines avaient abandonné la plateforme sans révoquer ses autorisations. Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre",
+   "date": "2026-11-10T07:47:39.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Frigos piratés : la France accuse les Gardiens de la révolution iraniens",
+   "link": "https://www.it-connect.fr/frigos-supermarches-france-impute-iran-cgri-shahid-kaveh/",
+   "description": "Frigos réglés à haute température dans 700 supermarchés : la France attribue cette attaque, et d'autres incidents, aux Gardiens de la révolution iraniens. Le post Frigos piratés : la France accuse les Gardiens de la révolution iraniens a été publié sur IT-Connect .",
+   "date": "2026-11-10T07:16:26.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "NIS 2 : la loi Résilience arrive enfin à l’Assemblée",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
+   "description": "Le projet de loi Résilience est examiné en séance publique après plusieurs reports. Son adoption doit permettre de préciser le cadre réglementaire applicable aux milliers d’organisations concernées.",
+   "date": "2026-11-10T06:30:04.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Ray-Ban Meta piratées : une chercheuse obtient un shell, puis contourne le correctif de Meta",
+   "link": "https://www.it-connect.fr/lunettes-ray-ban-meta-piratees-shell/",
+   "description": "Une chercheuse a obtenu un shell sur des lunettes Ray-Ban Meta en détournant le Device Access Toolkit, puis a contourné le correctif de Meta. Voici comment. Le post Ray-Ban Meta piratées : une chercheuse obtient un shell, puis contourne le correctif de Meta a été publié sur IT-Connect .",
+   "date": "2026-11-10T06:30:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits SAP (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1497/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Atlassian Confluence Data Center (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1492/",
+   "description": "Une vulnérabilité a été découverte dans Atlassian Confluence Data Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Roundcube (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1489/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une falsification de requêtes côté serveur (SSRF) et une injection de requêtes illégitimes par rebond (CSRF).",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Synology DSM (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1493/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Siemens SIMATIC (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1495/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Siemens SIMATIC. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1487/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1490/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans OpenSSL (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1496/",
+   "description": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Schneider Electric EcoStruxure (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1494/",
+   "description": "Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth (10 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1491/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "date": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cybersécurité : la CNIL sanctionne dix collectivités",
+   "link": "https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/",
+   "description": "La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.",
+   "date": "2026-11-09T21:50:33.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Cyberattaques contre les supermarchés : la France pense avoir démasqué les coupables",
+   "link": "https://www.01net.com/actualites/cyberattaques-contre-supermarches-france-demasque-coupables.html",
+   "description": "La justice française soupçonne des hackers iraniens d'avoir piraté les frigos de centaines de supermarchés. Le parquet de Paris a même ouvert une information judiciaire contre plusieurs individus, considérés comme des cybercriminels mandatés par Téhéran. Quelques jours plus tôt, des pirates prorusses avaient pourtant revendiqué des attaques similaires en Europe.",
+   "date": "2026-11-09T17:01:35.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque des frigos : la piste iranienne se précise",
+   "link": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
+   "description": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
+   "date": "2026-11-09T16:28:21.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Bornes d’arcade paralysées au Japon : une cyberattaque contre Sega prive les joueurs de plusieurs jeux",
+   "link": "https://www.01net.com/actualites/bornes-arcade-paralysees-japon-cyberattaque-contre-sega-prive-joueurs-mario-kart.html",
+   "description": "De nombreuses bornes d’arcade japonaises sont privées de services en ligne depuis quelques jours. Une intrusion est en effet survenue dans les serveurs d’une filiale de Sega, responsable des bornes sur le sol nippon. L’attaque s’inscrit dans le cadre d'une vague de cyberattaques au Japon, à tel point que le gouvernement s'est engagé à réagir.",
+   "date": "2026-11-09T13:00:52.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Nvidia : l’espionnage par la séduction et le social engineering",
+   "link": "https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/",
+   "description": "Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.",
+   "date": "2026-11-09T11:46:46.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Frigos piratés : le FBI alerte sur des « systèmes ciblés dans le monde entier »",
+   "link": "https://www.01net.com/actualites/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entier.html",
+   "description": "Le FBI et l’agence américaine de cybersécurité tirent la sonnette d’alarme. Dans une alerte commune publiée début novembre, ils mettent en garde contre des pirates qui s’en prennent aux frigos connectés des supermarchés, des entrepôts et du secteur de la santé, « dans le monde entier ». La menace est visiblement parvenue à passer les frontières de l'Europe.",
+   "date": "2026-11-09T10:00:38.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Un pirate revendique le vol de millions de données d’automobilistes français",
+   "link": "https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/",
+   "description": "Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?",
+   "date": "2026-11-09T00:30:00.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "NoName vise Free, La Poste Mobile et Danfoss",
+   "link": "https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/",
+   "description": "NoName vise Free, La Poste Mobile et Danfoss. ZATAZ distingue données volées, DDoS et revendications industrielles.",
+   "date": "2026-11-09T00:08:10.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Un géant de l’informatique visé par une revendication de vol de données",
+   "link": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
+   "description": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
+   "date": "2026-11-08T23:36:38.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Alain Afflelou : des données clients et bancaires exposées ?",
+   "link": "https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/",
+   "description": "Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.",
+   "date": "2026-11-08T23:03:54.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "DataSuckers : trois suspects arrêtés après une fuite",
+   "link": "https://www.zataz.com/datasuckers-trois-suspects-arretes-apres-une-fuite/",
+   "description": "Trois suspects liés à DataSuckers arrêtés après le piratage de Dodo Pizza et le vol de millions de données.",
+   "date": "2026-11-08T14:16:04.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
+   "link": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
+   "description": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
+   "date": "2026-11-05T16:36:51.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "CTF Social Engineering : trois jours pour piéger l’humain",
+   "link": "https://www.zataz.com/ctf-social-engineering-trois-jours-pour-pieger-lhumain/",
+   "description": "Hackfest Québec 2026 : deuxième place au CTF de Social Engineering, 43 appels et trois outils de renseignement.",
+   "date": "2026-11-04T17:35:25.000Z"
+  }
+ ]
+}
