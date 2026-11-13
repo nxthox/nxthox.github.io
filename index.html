@@ -387,13 +387,15 @@ const DATA = {
   skills: ["Windows Server","Active Directory","Linux / Debian","Proxmox","pfSense","VLAN","VPN","GLPI","PowerShell","Bash","Docker","Cisco"],
 
   formation: [
-    {date:"2025 — 2027", titre:"BTS SIO option SISR", lieu:"Nom de l'école · Ville", desc:"Formation initiale avec stages en entreprise : systèmes, réseaux, cybersécurité."},
-    {date:"2022 — 2025", titre:"Baccalauréat", lieu:"Lycée · Ville", desc:"Spécialité / mention."},
+    {date:"Oct. 2026 — 2027", titre:"BTS SIO option SISR", lieu:"Campus Mewo", desc:"Intégré le 26 octobre 2026 après ma réorientation. Formation avec stage en entreprise : systèmes, réseaux, cybersécurité."},
+    {date:"Sept. 2025 — oct. 2026", titre:"BTS CIEL option A (Informatique et réseaux)", lieu:"Lycée La Briquerie · Thionville", desc:"Première année, puis début de deuxième année, avant ma réorientation vers le BTS SIO SISR."},
+    {date:"2025", titre:"Baccalauréat général", lieu:"Spécialités Mathématiques et NSI", desc:"Numérique et sciences informatiques : mes premiers pas en programmation et en réseaux."},
   ],
   experience: [
-    {date:"2025 — aujourd'hui", titre:"Stagiaire technicien systèmes & réseaux", lieu:"Connexus · Rumelange (Luxembourg)", desc:"Support utilisateurs, gestion du parc, administration réseau."},
+    {date:"2 nov. 2026 — 31 août 2027", titre:"Stagiaire technicien systèmes & réseaux", lieu:"Connexus · Rumelange (Luxembourg)", desc:"Deuxième stage dans l'entreprise : administration et supervision de l'infrastructure, cloud, sécurisation, support utilisateurs et logiciels métiers."},
     {date:"Sept. 2025 — nov. 2026", titre:"Livreur", lieu:"Tour de Pizz", desc:"Livraison des commandes aux clients, en parallèle de mes études : ponctualité, autonomie et relation client."},
     {date:"Juillet 2026", titre:"Manutentionnaire (job étudiant)", lieu:"gridX", desc:"Manutention, préparation et rangement du matériel pendant l'été."},
+    {date:"Mai 2026 · 8 semaines", titre:"Stagiaire technicien systèmes & réseaux", lieu:"Connexus · Rumelange (Luxembourg)", desc:"Premier stage dans l'entreprise, pendant mon BTS CIEL : découverte de l'infrastructure et du support utilisateurs."},
   ],
 
   entNom: "Connexus",
@@ -531,7 +533,7 @@ function showTP(b) {
   $$("#tabs button").forEach(x => x.classList.toggle("on", x.dataset.b === b));
   $("#tpGrid").innerHTML = !DATA.tp[b].length ? `<div class="card reveal" style="grid-column:1/-1;text-align:center;padding:56px 28px">
     <div class="icon" style="margin:0 auto 16px">🚧</div><h3 style="margin-bottom:6px">Premiers TP en préparation</h3>
-    <p style="color:var(--muted);max-width:480px;margin:0 auto">Arrivé en formation en novembre 2026, mes travaux pratiques du ${b} seront publiés ici au fil de l'année.</p></div>` :
+    <p style="color:var(--muted);max-width:480px;margin:0 auto">Arrivé au Campus Mewo fin octobre 2026, mes travaux pratiques du ${b} seront publiés ici au fil de l'année.</p></div>` :
   DATA.tp[b].map((t, i) => `<div class="card tp reveal">
     <div class="icon">${t.icon}</div><div class="num">${b.replace("Bloc ", "B")} · TP ${String(i + 1).padStart(2, "0")}</div>
     <h3>${t.titre}</h3><p>${t.desc}</p>${t.lien ? `<a class="link" href="${t.lien}" target="_blank" rel="noopener">Voir le document →</a>` : ""}</div>`).join("");
