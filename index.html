@@ -397,15 +397,24 @@ const DATA = {
 
   entNom: "Connexus",
   entDesc: "Entreprise informatique luxembourgeoise à taille humaine, avec ses bureaux à Rumelange. L'équipe compte quatre personnes : le dirigeant et trois alternants. Dans une si petite structure, chacun est polyvalent et prend de vraies responsabilités.",
-  entInfos: [["Secteur","À compléter"],["Effectif","4 personnes · 1 dirigeant, 3 alternants"],["Localisation","Rumelange, Luxembourg 🇱🇺"],["Mon poste","Technicien SR (alternance)"]],
-  missions: ["Support utilisateurs niveau 1 & 2","Gestion du parc informatique (GLPI)","Administration Active Directory","Déploiement de postes","Supervision du réseau"],
+  entInfos: [["Secteur","Services informatiques · systèmes, réseaux & cloud"],["Effectif","4 personnes · 1 dirigeant, 3 alternants"],["Localisation","Rumelange, Luxembourg 🇱🇺"],["Mon poste","Technicien SR (alternance)"]],
+  missions: [
+    "Administration, configuration et supervision de systèmes, réseaux et serveurs",
+    "Gestion d'environnements cloud",
+    "Participation à la sécurisation des infrastructures",
+    "Support utilisateurs",
+    "Installation et paramétrage de logiciels métiers",
+    "Contribution ponctuelle à des projets web et applicatifs",
+  ],
 
   // Travaux Bloc 1 réalisés EN ENTREPRISE · c = numéros des compétences (1 à 6, voir "competences")
   travauxEntreprise: [
-    {icon:"🎫", titre:"Traitement des tickets utilisateurs", contexte:"Support quotidien des salariés", desc:"Prise en charge, diagnostic et résolution des incidents, suivi dans l'outil de ticketing.", c:[2,5], lien:""},
-    {icon:"💻", titre:"Déploiement de nouveaux postes", contexte:"Renouvellement du parc", desc:"Préparation, installation et mise en service des postes, mise à jour de l'inventaire.", c:[1,4,5], lien:""},
-    {icon:"👤", titre:"Gestion des comptes utilisateurs", contexte:"Arrivées / départs", desc:"Création et désactivation des comptes AD, droits d'accès et boîtes mail.", c:[1,5], lien:""},
-    {icon:"📝", titre:"Rédaction de procédures", contexte:"Documentation interne", desc:"Rédaction de guides utilisateurs et de procédures techniques pour l'équipe.", c:[2,6], lien:""},
+    {icon:"🖧", titre:"Administration & supervision de l'infrastructure", contexte:"Systèmes · réseaux · serveurs", desc:"Configuration, administration et supervision des systèmes, des réseaux et des serveurs, pour garantir la disponibilité des services.", c:[1,5], lien:""},
+    {icon:"☁️", titre:"Environnements cloud", contexte:"Administration cloud", desc:"Configuration et administration d'environnements cloud, en complément de l'infrastructure sur site.", c:[1,5], lien:""},
+    {icon:"🔐", titre:"Sécurisation des infrastructures", contexte:"Cybersécurité", desc:"Participation à la sécurisation des systèmes et des réseaux de l'entreprise et de ses clients.", c:[1,5], lien:""},
+    {icon:"🎧", titre:"Support utilisateurs", contexte:"Assistance au quotidien", desc:"Prise en charge des demandes et des incidents des utilisateurs : diagnostic, résolution et suivi.", c:[2], lien:""},
+    {icon:"⚙️", titre:"Logiciels métiers", contexte:"Installation & paramétrage", desc:"Installation, paramétrage et mise à disposition des logiciels métiers adaptés aux besoins des utilisateurs.", c:[2,5], lien:""},
+    {icon:"🌐", titre:"Projets web et applicatifs", contexte:"Contribution ponctuelle", desc:"Participation à des projets web et applicatifs, en lien avec le reste de l'équipe.", c:[3,4], lien:""},
   ],
 
   // icon : un emoji · lien : un PDF ou une page (laisser "" si aucun)
@@ -431,7 +440,7 @@ const DATA = {
     {nom:"Portfolio (ce site)", c:[3,6]},
     {nom:"Veille technologique cybersécurité", c:[6]},
     {nom:"SecNumAcadémie (ANSSI)", c:[6]},
-    {nom:"Missions en entreprise", c:[1,2,4,5]},
+    {nom:"Missions en entreprise (Connexus)", c:[1,2,3,4,5]},
   ],
 
   // Veille EN DIRECT : la page lit veille.json (généré par scripts/veille.mjs, mis à jour chaque heure sur GitHub).
