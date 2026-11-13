@@ -244,7 +244,7 @@ dialog button{margin-top:24px}
 <section id="entreprise">
   <div class="tag reveal">02 · Présentation pro</div>
   <h2 class="reveal">Mon <span class="grad">entreprise</span></h2>
-  <p class="lead reveal">L'entreprise qui m'accueille en alternance, mon poste et mes missions au quotidien.</p>
+  <p class="lead reveal">L'entreprise qui m'accueille en stage, mon poste et mes missions au quotidien.</p>
   <div class="company">
     <div class="card big reveal">
       <div class="icon">🏢</div>
@@ -264,7 +264,7 @@ dialog button{margin-top:24px}
 <section id="b1pro">
   <div class="tag reveal">03 · Travaux Bloc 1 en entreprise</div>
   <h2 class="reveal">Sur le <span class="grad">terrain</span></h2>
-  <p class="lead reveal">Les missions réalisées pendant mon alternance, en lien avec les compétences du Bloc 1.</p>
+  <p class="lead reveal">Les missions réalisées pendant mon stage, en lien avec les compétences du Bloc 1.</p>
   <div class="grid g2" id="b1Grid"></div>
 </section>
 
@@ -374,8 +374,8 @@ dialog button{margin-top:24px}
 const DATA = {
   prenom: "Nathan",
   nom: "Rebulard",
-  dispo: "BTS SIO · Option SISR · Alternant chez Connexus",
-  roles: ["Étudiant BTS SIO SISR", "Alternant technicien systèmes & réseaux", "Passionné de cybersécurité"],
+  dispo: "BTS SIO · Option SISR · Stagiaire chez Connexus",
+  roles: ["Étudiant BTS SIO SISR", "Stagiaire technicien systèmes & réseaux", "Passionné de cybersécurité"],
   photo: "",               // ex : "photo.jpg" (fichier à côté de index.html)
   cv: "",                  // quand ton CV est prêt : "cv.pdf" (fichier à côté de index.html)
   email: "nathan.rebulard@gmail.com",
@@ -387,17 +387,18 @@ const DATA = {
   skills: ["Windows Server","Active Directory","Linux / Debian","Proxmox","pfSense","VLAN","VPN","GLPI","PowerShell","Bash","Docker","Cisco"],
 
   formation: [
-    {date:"2025 — 2027", titre:"BTS SIO option SISR", lieu:"Nom de l'école · Ville", desc:"Formation en alternance : systèmes, réseaux, cybersécurité."},
+    {date:"2025 — 2027", titre:"BTS SIO option SISR", lieu:"Nom de l'école · Ville", desc:"Formation initiale avec stages en entreprise : systèmes, réseaux, cybersécurité."},
     {date:"2022 — 2025", titre:"Baccalauréat", lieu:"Lycée · Ville", desc:"Spécialité / mention."},
   ],
   experience: [
-    {date:"2025 — aujourd'hui", titre:"Alternant technicien systèmes & réseaux", lieu:"Entreprise · Ville", desc:"Support utilisateurs, gestion du parc, administration réseau."},
-    {date:"Été 2024", titre:"Job / stage", lieu:"Entreprise · Ville", desc:"Description courte."},
+    {date:"2025 — aujourd'hui", titre:"Stagiaire technicien systèmes & réseaux", lieu:"Connexus · Rumelange (Luxembourg)", desc:"Support utilisateurs, gestion du parc, administration réseau."},
+    {date:"Sept. 2025 — nov. 2026", titre:"Livreur", lieu:"Tour de Pizz", desc:"Livraison des commandes aux clients, en parallèle de mes études : ponctualité, autonomie et relation client."},
+    {date:"Juillet 2026", titre:"Manutentionnaire (job étudiant)", lieu:"gridX", desc:"Manutention, préparation et rangement du matériel pendant l'été."},
   ],
 
   entNom: "Connexus",
-  entDesc: "Entreprise informatique luxembourgeoise à taille humaine, avec ses bureaux à Rumelange. L'équipe compte quatre personnes : le dirigeant et trois alternants. Dans une si petite structure, chacun est polyvalent et prend de vraies responsabilités.",
-  entInfos: [["Secteur","Services informatiques · systèmes, réseaux & cloud"],["Effectif","4 personnes · 1 dirigeant, 3 alternants"],["Localisation","Rumelange, Luxembourg 🇱🇺"],["Mon poste","Technicien SR (alternance)"]],
+  entDesc: "Entreprise informatique luxembourgeoise à taille humaine, avec ses bureaux à Rumelange. L'équipe compte quatre personnes : le dirigeant et trois stagiaires. Dans une si petite structure, chacun est polyvalent et prend de vraies responsabilités.",
+  entInfos: [["Secteur","Services informatiques · systèmes, réseaux & cloud"],["Effectif","4 personnes · 1 dirigeant, 3 stagiaires"],["Localisation","Rumelange, Luxembourg 🇱🇺"],["Mon poste","Technicien SR (stage)"]],
   missions: [
     "Administration, configuration et supervision de systèmes, réseaux et serveurs",
     "Gestion d'environnements cloud",
@@ -482,7 +483,7 @@ const DATA = {
   vmMax: 6,
 
   conclusion: [
-    {icon:"📚", titre:"Ce que j'ai appris", desc:"Ce que le BTS et l'alternance t'ont apporté, techniquement et humainement."},
+    {icon:"📚", titre:"Ce que j'ai appris", desc:"Ce que le BTS et le stage t'ont apporté, techniquement et humainement."},
     {icon:"💪", titre:"Mes points forts", desc:"Les qualités que tu as développées : autonomie, rigueur, travail en équipe…"},
     {icon:"🚀", titre:"Mon projet", desc:"Ce que tu vises après le BTS : licence pro, bachelor, école d'ingé, emploi…"},
   ],
