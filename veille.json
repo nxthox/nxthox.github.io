@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:27:31.454Z",
+ "updated": "2026-11-13T17:32:29.085Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,41 @@
   }
  ],
  "items": [
+  {
+   "src": "UnderNews",
+   "title": "Panne chez Microsoft : comment les hackers peuvent tirer parti de la situation",
+   "link": "https://www.undernews.fr/reseau-securite/panne-chez-microsoft-comment-les-hackers-peuvent-tirer-parti-de-la-situation.html",
+   "description": "La panne mondiale qui touche Microsoft 365 depuis hier, perturbant l’accès aux outils collaboratifs de milliers d’entreprises, a créé un contexte d’urgence et de confusion particulièrement propice aux cyberattaques. Lorsque les canaux de communication habituels sont hors service, les collaborateurs deviennent en effet des cibles de choix pour les campagnes d’ingénierie sociale se faisant passer […",
+   "date": "2026-11-13T16:30:37.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Rennes va accueillir un centre international dédié à l’IA de défense",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
+   "description": "Prévu pour l’été 2027, l’International Center for Artificial Intelligence in Defence (ICAID) réunira plusieurs pays alliés pour travailler sur le développement, l’évaluation et l’interopérabilité des systèmes d’IA militaires.",
+   "date": "2026-11-13T15:51:10.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Panne Microsoft 365 : le point de vue de JFrog",
+   "link": "https://www.undernews.fr/alertes-securite/panne-microsoft-365-le-point-de-vue-de-jfrog.html",
+   "description": "Outlook, Teams, Copilot, SharePoint, OneDrive : la panne mondiale de Microsoft 365 a paralyser beaucoup de sociétés dans le monde ! La page de statut publique affiche encore du rouge à l’heure de cet article, soit près de 24 heures après le début de l’incident technique… La panne serait due principalement à « une charge élevée » […] The post Panne Microsoft 365 : le point de vue de JFrog first app",
+   "date": "2026-11-13T14:37:13.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "26 % des entreprises prêtes à changer de fournisseur pour unifier leurs outils de cybersécurité sur une plateforme unique",
+   "link": "https://www.undernews.fr/reseau-securite/26-des-entreprises-pretes-a-changer-de-fournisseur-pour-unifier-leurs-outils-de-cybersecurite-sur-une-plateforme-unique.html",
+   "description": "Selon une nouvelle étude mondiale menée par le Centre de Recherche interne de Kaspersky, les entreprises recherchent de plus en plus une détection rapide des menaces, des enquêtes plus approfondies et une réponse coordonnée aux incidents. Tribune Kaspersky – Les menaces évoluant sans cesse dans un contexte où les environnements informatiques sont de plus en […] The post 26 % des entreprises prêtes",
+   "date": "2026-11-13T12:17:25.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "6 millions d’identifiants volés ont été récupérés par la police : comment savoir si vous êtes concerné ?",
+   "link": "https://www.01net.com/actualites/6-millions-identifiants-voles-recuperes-police-verifiez-si-vous-etes-concerne.html",
+   "description": "Europol vient de démanteler l'infrastructure de trois logiciels malveillants, massivement utilisés par des gangs spécialisés dans les attaques par ransomware. En fouillant les serveurs saisis, les enquêteurs ont retrouvé plus de 6 millions d'identifiants volés à des victimes. Celles-ci vont pouvoir vérifier si elles sont concernées.",
+   "date": "2026-11-13T11:00:06.000Z"
+  },
   {
    "src": "Le Monde Informatique",
    "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
@@ -140,6 +175,76 @@
    "date": "2026-11-12T07:45:45.000Z"
   },
   {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
+   "description": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
+   "description": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
+   "description": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Microsoft Azure (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1514/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Microsoft Windows (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1513/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1521/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Citrix Secure Access client (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1519/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Citrix Secure Access client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
    "src": "01net",
    "title": "Microsoft corrige plus de 1 200 failles Windows, dont une brèche d’Outlook déjà exploitée par des pirates",
    "link": "https://www.01net.com/actualites/microsoft-corrige-plus-de-1-200-failles-windows-dont-une-breche-doutlook-deja-exploitee-par-des-pirates.html",
@@ -203,27 +308,6 @@
    "date": "2026-11-10T13:00:00.000Z"
   },
   {
-   "src": "UnderNews",
-   "title": "Fraude à la carte bancaire : sur le dark web, les cybercriminels vendent désormais des méthodes clés en main pour pirater les distributeurs",
-   "link": "https://www.undernews.fr/banque-cartes-bancaires/fraude-a-la-carte-bancaire-sur-le-dark-web-les-cybercriminels-vendent-desormais-des-methodes-cles-en-main-pour-pirater-les-distributeurs.html",
-   "description": "Une enquête menée par Assaf Morag, chercheur en cybersécurité chez Flare, et portant sur plus de 1 000 publications issues de forums clandestins, révèle comment le skimming, une technique de vol de données bancaires, s’est transformé en un véritable marché organisé, où les cybercriminels vendent désormais des méthodes de fraude clés en main. Tribune Flare […] The post Fraude à la carte bancaire : ",
-   "date": "2026-11-10T12:58:48.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "BluePhishing, une nouvelle technique potentielle sur le détournement des identités d’agents IA via Microsoft Entra",
-   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/bluephishing-une-nouvelle-technique-potentielle-sur-le-detournement-des-identites-dagents-ia-via-microsoft-entra.html",
-   "description": "Les chercheurs de Proofpoint ont identifié une nouvelle technique d’attaque potentielle, baptisée BluePhishing, qui pourrait permettre à des cybercriminels d’exploiter les identités d’agents IA pour accéder sans autorisation aux environnements d’entreprise. Tribune Proofpoint. Les principaux enseignements : Un nouveau vecteur d’attaque : BluePhishing étend le phishing OAuth traditionnel aux agents",
-   "date": "2026-11-10T12:55:59.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Comment faire face aux cyberattaques pilotées par l’IA ?",
-   "link": "https://www.undernews.fr/reseau-securite/comment-faire-face-aux-cyberattaques-pilotees-par-lia.html",
-   "description": "Les cyberattaquants confient désormais à l’IA une part croissante de leurs opérations et certaines campagnes atteignent un degré d’automatisation élevé. Pour faire face aux cyberattaques pilotées par l’IA, les entreprises doivent accélérer leur capacité de détection et de réponse, en s’appuyant sur une analyse contextualisée des comportements et des protections automatisées, ciblées et réversibles",
-   "date": "2026-11-10T12:53:12.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Cisco et IBM vont intégrer Mythos à leurs outils de cybersécurité",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cisco-et-ibm-vont-integrer-mythos-a-leurs-outils-d",
@@ -266,76 +350,6 @@
    "date": "2026-11-10T06:30:00.000Z"
   },
   {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits SAP (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1497/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans Atlassian Confluence Data Center (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1492/",
-   "description": "Une vulnérabilité a été découverte dans Atlassian Confluence Data Center. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Roundcube (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1489/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une falsification de requêtes côté serveur (SSRF) et une injection de requêtes illégitimes par rebond (CSRF).",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Synology DSM (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1493/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Siemens SIMATIC (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1495/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Siemens SIMATIC. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits Apple (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1487/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Mozilla Firefox (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1490/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans OpenSSL (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1496/",
-   "description": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans Schneider Electric EcoStruxure (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1494/",
-   "description": "Une vulnérabilité a été découverte dans Schneider Electric EcoStruxure. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth (10 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1491/",
-   "description": "De multiples vulnérabilités ont été découvertes dans le greffon OpenID Connect OpenID Provider (OIDC OP) pour Shibboleth. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "date": "2026-11-10T00:00:00.000Z"
-  },
-  {
    "src": "ZATAZ",
    "title": "Cybersécurité : la CNIL sanctionne dix collectivités",
    "link": "https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/",
@@ -369,13 +383,6 @@
    "link": "https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/",
    "description": "Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.",
    "date": "2026-11-09T11:46:46.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Frigos piratés : le FBI alerte sur des « systèmes ciblés dans le monde entier »",
-   "link": "https://www.01net.com/actualites/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entier.html",
-   "description": "Le FBI et l’agence américaine de cybersécurité tirent la sonnette d’alarme. Dans une alerte commune publiée début novembre, ils mettent en garde contre des pirates qui s’en prennent aux frigos connectés des supermarchés, des entrepôts et du secteur de la santé, « dans le monde entier ». La menace est visiblement parvenue à passer les frontières de l'Europe.",
-   "date": "2026-11-09T10:00:38.000Z"
   },
   {
    "src": "ZATAZ",
