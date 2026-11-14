@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:18:55.965Z",
+ "updated": "2026-11-14T05:15:27.179Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,13 @@
   }
  ],
  "items": [
+  {
+   "src": "IT-Connect",
+   "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
+   "link": "https://www.it-connect.fr/check-point-php2shell-wiper-esxi-tsga/",
+   "description": "PHP2Shell et une faille zero-day de Gaia OS ont permis de pirater des passerelles Check Point, avant le déploiement d'un wiper sur un hôte VMware ESXi. Le post Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi a été publié sur IT-Connect .",
+   "date": "2026-11-14T05:00:00.000Z"
+  },
   {
    "src": "UnderNews",
    "title": "Panne chez Microsoft : comment les hackers peuvent tirer parti de la situation",
@@ -341,13 +348,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
    "description": "Le projet de loi Résilience est examiné en séance publique après plusieurs reports. Son adoption doit permettre de préciser le cadre réglementaire applicable aux milliers d’organisations concernées.",
    "date": "2026-11-10T06:30:04.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Ray-Ban Meta piratées : une chercheuse obtient un shell, puis contourne le correctif de Meta",
-   "link": "https://www.it-connect.fr/lunettes-ray-ban-meta-piratees-shell/",
-   "description": "Une chercheuse a obtenu un shell sur des lunettes Ray-Ban Meta en détournant le Device Access Toolkit, puis a contourné le correctif de Meta. Voici comment. Le post Ray-Ban Meta piratées : une chercheuse obtient un shell, puis contourne le correctif de Meta a été publié sur IT-Connect .",
-   "date": "2026-11-10T06:30:00.000Z"
   },
   {
    "src": "ZATAZ",
