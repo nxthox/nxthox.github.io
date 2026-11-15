@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T10:27:13.212Z",
+ "updated": "2026-11-15T17:35:26.149Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,69 @@
   }
  ],
  "items": [
+  {
+   "src": "ZATAZ",
+   "title": "Aréas Assurances visé par une vente de données",
+   "link": "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
+   "description": "Un pirate informatique affirme détenir les données de plus de 21 000 assurés d’Aréas Assurances, dont leurs numéros de Sécurité sociale.",
+   "date": "2026-11-15T14:58:23.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Techfive cité dans une annonce de vente de données",
+   "link": "https://www.zataz.com/techfive-cite-dans-une-annonce-de-vente-de-donnees/",
+   "description": "Un pirate informatique annonce la vente de 400 entreprises retrouvées chez chez un professionnel de l'encaissement et du paiement.",
+   "date": "2026-11-15T14:54:01.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Entre Bièvre et Rhône visée par une revendication cyber",
+   "link": "https://www.zataz.com/entre-bievre-et-rhone-visee-par-une-revendication-cyber/",
+   "description": "Entre Bièvre et Rhône, en Isère, fait l’objet d’une revendication cyber portant sur des données d’usagers.",
+   "date": "2026-11-15T14:45:47.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Fuite de données géante à La Poste : « 22 millions de personnes sont concernées » par une cyberattaque massive",
+   "link": "https://www.01net.com/actualites/fuite-donnees-geante-poste-22-millions-personnes-concernees-cyberattaque-massive.html",
+   "description": "Maileva, une filiale de La Poste spécialisée dans l'envoi de courriers pour les entreprises, a été piratée. Les noms, les prénoms et les adresses postales de 22 millions de personnes ont été dérobés. Le groupe a porté plainte. On vous dit tout ce qu'il faut savoir sur cette nouvelle fuite massive.",
+   "date": "2026-11-15T14:05:47.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Métaux précieux et données clients mises en vente",
+   "link": "https://www.zataz.com/metaux-precieux-et-donnees-clients-mises-en-vente/",
+   "description": "Un vendeur affirme détenir quatre bases clients et 30 000 documents d’une entreprise française de métaux précieux.",
+   "date": "2026-11-15T12:42:32.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Le pirate qui « audite » la France",
+   "link": "https://www.zataz.com/le-pirate-qui-audite-la-france/",
+   "description": "La FFTT confirme un vol de données. ZATAZ retrace les annonces de Chimera et les fichiers attribués à 33 autres fédération sportives.",
+   "date": "2026-11-15T12:37:12.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Opsysweb, une fuite présumée de 4,3 millions de commandes",
+   "link": "https://www.zataz.com/opsysweb-une-fuite-presumee-de-43-millions-de-commandes/",
+   "description": "Sur un forum pirate, un internaute revendique une fuite de 4,3 millions de commandes de verres attribuées à Opsysweb.",
+   "date": "2026-11-15T12:19:51.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque Maileva, 22 millions de personnes touchées",
+   "link": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
+   "description": "Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.",
+   "date": "2026-11-15T11:47:49.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Drogues, armes et cryptos : la France frappe un grand coup contre le dark web",
+   "link": "https://www.01net.com/actualites/drogues-armes-cryptos-france-interpelle-23-clients-vendeurs-dark-web.html",
+   "description": "Europol a dévoilé les résultats de TorNado, une vaste opération d'envergure internationale contre le dark web. L'opération s'est soldée par plus de 350 arrestations, dont une vingtaine en France. Dans la foulée, plus de 5 tonnes de drogues et 210 millions d'euros ont été saisis par les forces de l'ordre.",
+   "date": "2026-11-15T11:07:55.000Z"
+  },
   {
    "src": "IT-Connect",
    "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
@@ -357,13 +420,6 @@
    "date": "2026-11-09T21:50:33.000Z"
   },
   {
-   "src": "01net",
-   "title": "Cyberattaques contre les supermarchés : la France pense avoir démasqué les coupables",
-   "link": "https://www.01net.com/actualites/cyberattaques-contre-supermarches-france-demasque-coupables.html",
-   "description": "La justice française soupçonne des hackers iraniens d'avoir piraté les frigos de centaines de supermarchés. Le parquet de Paris a même ouvert une information judiciaire contre plusieurs individus, considérés comme des cybercriminels mandatés par Téhéran. Quelques jours plus tôt, des pirates prorusses avaient pourtant revendiqué des attaques similaires en Europe.",
-   "date": "2026-11-09T17:01:35.000Z"
-  },
-  {
    "src": "ZATAZ",
    "title": "Cyberattaque des frigos : la piste iranienne se précise",
    "link": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
@@ -371,67 +427,11 @@
    "date": "2026-11-09T16:28:21.000Z"
   },
   {
-   "src": "01net",
-   "title": "Bornes d’arcade paralysées au Japon : une cyberattaque contre Sega prive les joueurs de plusieurs jeux",
-   "link": "https://www.01net.com/actualites/bornes-arcade-paralysees-japon-cyberattaque-contre-sega-prive-joueurs-mario-kart.html",
-   "description": "De nombreuses bornes d’arcade japonaises sont privées de services en ligne depuis quelques jours. Une intrusion est en effet survenue dans les serveurs d’une filiale de Sega, responsable des bornes sur le sol nippon. L’attaque s’inscrit dans le cadre d'une vague de cyberattaques au Japon, à tel point que le gouvernement s'est engagé à réagir.",
-   "date": "2026-11-09T13:00:52.000Z"
-  },
-  {
    "src": "ZATAZ",
    "title": "Nvidia : l’espionnage par la séduction et le social engineering",
    "link": "https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/",
    "description": "Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.",
    "date": "2026-11-09T11:46:46.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Un pirate revendique le vol de millions de données d’automobilistes français",
-   "link": "https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/",
-   "description": "Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?",
-   "date": "2026-11-09T00:30:00.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "NoName vise Free, La Poste Mobile et Danfoss",
-   "link": "https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/",
-   "description": "NoName vise Free, La Poste Mobile et Danfoss. ZATAZ distingue données volées, DDoS et revendications industrielles.",
-   "date": "2026-11-09T00:08:10.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Un géant de l’informatique visé par une revendication de vol de données",
-   "link": "https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/",
-   "description": "Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.",
-   "date": "2026-11-08T23:36:38.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Alain Afflelou : des données clients et bancaires exposées ?",
-   "link": "https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/",
-   "description": "Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.",
-   "date": "2026-11-08T23:03:54.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "DataSuckers : trois suspects arrêtés après une fuite",
-   "link": "https://www.zataz.com/datasuckers-trois-suspects-arretes-apres-une-fuite/",
-   "description": "Trois suspects liés à DataSuckers arrêtés après le piratage de Dodo Pizza et le vol de millions de données.",
-   "date": "2026-11-08T14:16:04.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Cyberattaque contre les frigos de l’EFS : le plasma visé",
-   "link": "https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/",
-   "description": "Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.",
-   "date": "2026-11-05T16:36:51.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "CTF Social Engineering : trois jours pour piéger l’humain",
-   "link": "https://www.zataz.com/ctf-social-engineering-trois-jours-pour-pieger-lhumain/",
-   "description": "Hackfest Québec 2026 : deuxième place au CTF de Social Engineering, 43 appels et trois outils de renseignement.",
-   "date": "2026-11-04T17:35:25.000Z"
   }
  ]
 }
