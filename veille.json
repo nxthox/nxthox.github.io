@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:35:26.149Z",
+ "updated": "2026-11-15T22:32:38.211Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -29,7 +29,14 @@
  "items": [
   {
    "src": "ZATAZ",
-   "title": "Aréas Assurances visé par une vente de données",
+   "title": "Stripe va masquer ses clés API secrètes le 20 novembre",
+   "link": "https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/",
+   "description": "Stripe masquera ses anciennes clés API secrètes le 20 novembre 2026. ZATAZ analyse les risques et les conséquences.",
+   "date": "2026-11-15T19:44:34.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Aréas Assurances visée par une vente de données",
    "link": "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
    "description": "Un pirate informatique affirme détenir les données de plus de 21 000 assurés d’Aréas Assurances, dont leurs numéros de Sécurité sociale.",
    "date": "2026-11-15T14:58:23.000Z"
@@ -425,13 +432,6 @@
    "link": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
    "description": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
    "date": "2026-11-09T16:28:21.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Nvidia : l’espionnage par la séduction et le social engineering",
-   "link": "https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/",
-   "description": "Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.",
-   "date": "2026-11-09T11:46:46.000Z"
   }
  ]
 }
