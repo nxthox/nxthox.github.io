@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:55:23.375Z",
+ "updated": "2026-11-15T02:26:22.231Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -7,7 +7,8 @@
   },
   {
    "nom": "IT-Connect",
-   "ok": true
+   "ok": false,
+   "erreur": "HTTP 500"
   },
   {
    "nom": "Le Monde Informatique",
@@ -27,13 +28,6 @@
   }
  ],
  "items": [
-  {
-   "src": "IT-Connect",
-   "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
-   "link": "https://www.it-connect.fr/check-point-php2shell-wiper-esxi-tsga/",
-   "description": "PHP2Shell et une faille zero-day de Gaia OS ont permis de pirater des passerelles Check Point, avant le déploiement d'un wiper sur un hôte VMware ESXi. Le post Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi a été publié sur IT-Connect .",
-   "date": "2026-11-14T05:00:00.000Z"
-  },
   {
    "src": "UnderNews",
    "title": "Panne chez Microsoft : comment les hackers peuvent tirer parti de la situation",
@@ -77,27 +71,6 @@
    "date": "2026-11-13T06:37:37.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM",
-   "link": "https://www.it-connect.fr/signdrop-zero-day-windows-clfs-system/",
-   "description": "SignDrop, nouvelle zero-day publiée par Nightmare Eclipse, détourne l'authentification CLFS de Windows pour obtenir les droits SYSTEM. Voici ce que l'on sait. Le post SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM a été publié sur IT-Connect .",
-   "date": "2026-11-13T05:56:31.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance",
-   "link": "https://www.it-connect.fr/faille-apache-http2-cve-2026-119618-rce/",
-   "description": "CVE-2026-119618 : une faille critique dans le module HTTP/2 d'Apache permet d'exécuter du code à distance. Voici comment protéger votre serveur Web. Le post Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance a été publié sur IT-Connect .",
-   "date": "2026-11-12T19:40:50.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026",
-   "link": "https://www.it-connect.fr/reactiv-anssi-point-situation-fuites-donnees-caf-france-travail/",
-   "description": "64 violations de données signalées depuis fin septembre : l'ANSSI publie son 2e point REACTIV. CAF, France Travail, OFB... avec toujours les mêmes failles. Le post CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026 a été publié sur IT-Connect .",
-   "date": "2026-11-12T16:51:27.000Z"
-  },
-  {
    "src": "01net",
    "title": "« Un problème au niveau d’iOS » : Binance alerte sur une faille de l’iPhone qui menace tous les portefeuilles crypto",
    "link": "https://www.01net.com/actualites/un-probleme-au-niveau-dios-binance-alerte-sur-une-faille-de-liphone-qui-menace-tous-les-portefeuilles-crypto.html",
@@ -133,13 +106,6 @@
    "date": "2026-11-12T10:41:42.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL",
-   "link": "https://www.it-connect.fr/nas-synology-dsm-failles-sans-authentification-novembre-2026/",
-   "description": "Synology a corrigé deux failles dans DSM exploitables sans authentification, dont une injection SQL critique. Voici les versions à installer sur votre NAS. Le post NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL a été publié sur IT-Connect .",
-   "date": "2026-11-12T10:15:00.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Cybersécurité : construire une protection adaptée plutôt que multiplier les outils",
    "link": "https://www.undernews.fr/reseau-securite/cybersecurite-construire-une-protection-adaptee-plutot-que-multiplier-les-outils.html",
@@ -147,25 +113,11 @@
    "date": "2026-11-12T10:08:02.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Notion AI : le piratage de Fireworks AI a exposé des conversations de clients",
-   "link": "https://www.it-connect.fr/notion-ai-fuite-conversations-fireworks/",
-   "description": "Le piratage de Fireworks AI, sous-traitant de Notion, a exposé des conversations Notion AI. Moins de 1 % des espaces de travail sont touchés. Le post Notion AI : le piratage de Fireworks AI a exposé des conversations de clients a été publié sur IT-Connect .",
-   "date": "2026-11-12T09:50:00.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Formation IA : pourquoi l’intelligence artificielle s’intègre désormais dans tous les métiers",
    "link": "https://www.undernews.fr/undernews/formation-ia-pourquoi-lintelligence-artificielle-sintegre-desormais-dans-tous-les-metiers.html",
    "description": "La formation IA attire un intérêt croissant à mesure que l’intelligence artificielle s’installe dans les usages quotidiens des entreprises. Longtemps associée à des expérimentations ciblées, elle est désormais utilisée dans des tâches concrètes : gestion documentaire, relation client, suivi commercial ou automatisation administrative. Dans cette évolution, les outils no-code IA occupent une place ",
    "date": "2026-11-12T09:33:17.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Maersk confirme une fuite de données : WhiteArmor réclame 5 millions de dollars",
-   "link": "https://www.it-connect.fr/maersk-fuite-de-donnees-whitearmor/",
-   "description": "Maersk reconnaît un vol de données sur un système hérité d'un rachat. WhiteArmor revendique 100 Go de données volées et exige 5 millions de dollars en bitcoins. Le post Maersk confirme une fuite de données : WhiteArmor réclame 5 millions de dollars a été publié sur IT-Connect .",
-   "date": "2026-11-12T09:30:00.000Z"
   },
   {
    "src": "01net",
@@ -259,13 +211,6 @@
    "date": "2026-11-11T08:30:45.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook",
-   "link": "https://www.it-connect.fr/patch-tuesday-novembre-2026-recapitulatif/",
-   "description": "Microsoft a corrigé 1 093 failles avec le Patch Tuesday de novembre 2026. Une faille zero-day est déjà exploitée dans Outlook : voici le récapitulatif complet. Le post Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook a été publié sur IT-Connect .",
-   "date": "2026-11-11T07:16:01.000Z"
-  },
-  {
    "src": "01net",
    "title": "Un singe, un canard et Elon Musk : les pirates nord-coréens blanchissent le butin de Binance d’une façon inattendue",
    "link": "https://www.01net.com/actualites/un-singe-un-canard-et-elon-musk-les-pirates-nord-coreens-blanchissent-le-butin-de-binance-dune-facon-inattendue.html",
@@ -308,13 +253,6 @@
    "date": "2026-11-10T13:02:27.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware",
-   "link": "https://www.it-connect.fr/teams-faux-support-it-email-bombing/",
-   "description": "Plus de 400 attaques au faux support IT via le chat externe de Teams : l'ordinateur de la victime peut être compromis en moins de 15 minutes. Le post Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware a été publié sur IT-Connect .",
-   "date": "2026-11-10T13:00:00.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Cisco et IBM vont intégrer Mythos à leurs outils de cybersécurité",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cisco-et-ibm-vont-integrer-mythos-a-leurs-outils-d",
@@ -334,13 +272,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep",
    "description": "Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes. Certaines avaient abandonné la plateforme sans révoquer ses autorisations. Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre",
    "date": "2026-11-10T07:47:39.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Frigos piratés : la France accuse les Gardiens de la révolution iraniens",
-   "link": "https://www.it-connect.fr/frigos-supermarches-france-impute-iran-cgri-shahid-kaveh/",
-   "description": "Frigos réglés à haute température dans 700 supermarchés : la France attribue cette attaque, et d'autres incidents, aux Gardiens de la révolution iraniens. Le post Frigos piratés : la France accuse les Gardiens de la révolution iraniens a été publié sur IT-Connect .",
-   "date": "2026-11-10T07:16:26.000Z"
   },
   {
    "src": "Le Monde Informatique",
