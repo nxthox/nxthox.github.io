@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:42:47.894Z",
+ "updated": "2026-11-16T20:49:54.288Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,97 @@
   }
  ],
  "items": [
+  {
+   "src": "IT-Connect",
+   "title": "Maileva (La Poste) : les noms et adresses de 22 millions de personnes dérobés lors d’une cyberattaque",
+   "link": "https://www.it-connect.fr/maileva-la-poste-fuite-donnees-22-millions-personnes/",
+   "description": "Maileva, filiale de La Poste, confirme le vol des noms et adresses de 22 millions de personnes. Relances, données des clients : voici ce que l'on sait. Le post Maileva (La Poste) : les noms et adresses de 22 millions de personnes dérobés lors d’une cyberattaque a été publié sur IT-Connect .",
+   "date": "2026-11-16T19:47:53.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "WhiteArmor recrute des complices pour infiltrer les entreprises",
+   "link": "https://www.zataz.com/whitearmor-recrute-des-complices-pour-infiltrer-les-entreprises/",
+   "description": "WhiteArmor recrute des employés complices et achète des accès VPN, Azure et Okta pour infiltrer de grandes entreprises.",
+   "date": "2026-11-16T18:03:56.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Maersk : un pirate réclame 5 millions de dollars",
+   "link": "https://www.zataz.com/maersk-un-pirate-reclame-5-millions-de-dollars/",
+   "description": "WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.",
+   "date": "2026-11-16T17:50:58.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Gootloader : une opération frappe 100 serveurs infectés",
+   "link": "https://www.zataz.com/gootloader-une-operation-frappe-100-serveurs-infectes/",
+   "description": "Une opération internationale contre Gootloader neutralise plus de 100 serveurs liés à 25 000 infections.",
+   "date": "2026-11-16T17:33:02.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Corée du Nord : Washington frappe les voleurs de cryptos",
+   "link": "https://www.zataz.com/coree-du-nord-washington-frappe-les-voleurs-de-cryptos/",
+   "description": "Le DOJ annonce des saisies liées aux vols de cryptomonnaies nord-coréens et démantèle des infrastructures FaceStealer.",
+   "date": "2026-11-16T17:27:41.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Expedia : un pirate revendique un vol massif de données",
+   "link": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
+   "description": "Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.",
+   "date": "2026-11-16T16:57:49.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
+   "link": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
+   "description": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
+   "date": "2026-11-16T16:48:18.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Le chercheur en guerre contre Microsoft dévoile une 16ᵉ faille Windows, elle peut désactiver votre antivirus",
+   "link": "https://www.01net.com/actualites/pc-windows-vulnerables-le-chercheur-en-guerre-contre-microsoft-devoile-une-16e-faille-elle-peut-desactiver-votre-antivirus.html",
+   "description": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus. Aucun correctif n'est encore disponible, et 80 % des ordinateurs Windows dans le monde",
+   "date": "2026-11-16T16:01:42.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Deepfakes : une fraude présumée à 129 millions de dollars",
+   "link": "https://www.zataz.com/deepfakes-une-fraude-presumee-a-129-millions-de-dollars/",
+   "description": "Trois hommes sont accusés d'une fraude à 129 millions de dollars utilisant des deepfakes et l'ingénierie sociale.",
+   "date": "2026-11-16T15:57:48.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Télémaintenance : 288 entreprises visées par une attaque",
+   "link": "https://www.zataz.com/telemaintenance-288-entreprises-visees-par-une-attaque/",
+   "description": "Une extension ScreenConnect exploitée pour perturber 288 machines de télémaintenance dans 48 organisations.",
+   "date": "2026-11-16T15:46:36.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Je s’appelle GRU : Ingérence russe soupçonnée d’agir dans les manifestations en France",
+   "link": "https://www.zataz.com/je-sappelle-gru-ingerence-russe-soupconnee-dagir-dans-les-manifestations-en-france/",
+   "description": "Le GRU russe soupçonné d'ingérence dans les manifestations françaises. InformNapalm dévoile ses accusations.",
+   "date": "2026-11-16T15:32:06.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Panne Microsoft 365 : Mimecast révèle une campagne de phishing qui exploite la confusion",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/panne-microsoft-365-mimecast-revele-une-campagne-de-phishing-qui-exploite-la-confusion.html",
+   "description": "Quelques heures après la panne mondiale de Microsoft 365 du 12 novembre, les équipes de Mimecast Threat Research ont observé une campagne de phishing qui en profite pour piéger les utilisateurs. Tribune – Ce que Mimecast a identifié : Des e-mails se faisant passer pour une notification de service Microsoft, qui annoncent que des messages […] The post Panne Microsoft 365 : Mimecast révèle une campa",
+   "date": "2026-11-16T15:22:40.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "GTA 6 : les cyberattaques par phishing explosent de 1 300 % à l’approche de sa sortie",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/gta-6-les-cyberattaques-par-phishing-explosent-de-1-300-a-lapproche-de-sa-sortie.html",
+   "description": "KnowBe4 révèle comment les cybercriminels exploitent l’engouement pour Grand Theft Auto 6, entraînant une hausse de 1 300 % du phishing lié aux jeux vidéo avant sa sortie. À l’approche de la sortie de Grand Theft Auto 6 (GTA 6), prévue le 19 novembre 2026, les cybercriminels profitent de l’impatience des fans après 13 ans […] The post GTA 6 : les cyberattaques par phishing explosent de 1 300 % à l",
+   "date": "2026-11-16T13:09:39.000Z"
+  },
   {
    "src": "01net",
    "title": "Piratage de La Poste : la police lance une enquête pour retrouver les pirates",
@@ -63,60 +154,11 @@
    "date": "2026-11-15T19:44:34.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "Aréas Assurances visée par une vente de données",
-   "link": "https://www.zataz.com/areas-assurances-vise-par-une-vente-de-donnees/",
-   "description": "Un pirate informatique affirme détenir les données de plus de 21 000 assurés d’Aréas Assurances, dont leurs numéros de Sécurité sociale.",
-   "date": "2026-11-15T14:58:23.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Techfive cité dans une annonce de vente de données",
-   "link": "https://www.zataz.com/techfive-cite-dans-une-annonce-de-vente-de-donnees/",
-   "description": "Un pirate informatique annonce la vente de 400 entreprises retrouvées chez chez un professionnel de l'encaissement et du paiement.",
-   "date": "2026-11-15T14:54:01.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Entre Bièvre et Rhône visée par une revendication cyber",
-   "link": "https://www.zataz.com/entre-bievre-et-rhone-visee-par-une-revendication-cyber/",
-   "description": "Entre Bièvre et Rhône, en Isère, fait l’objet d’une revendication cyber portant sur des données d’usagers.",
-   "date": "2026-11-15T14:45:47.000Z"
-  },
-  {
    "src": "01net",
    "title": "Fuite de données géante à La Poste : « 22 millions de personnes sont concernées » par une cyberattaque massive",
    "link": "https://www.01net.com/actualites/fuite-donnees-geante-poste-22-millions-personnes-concernees-cyberattaque-massive.html",
    "description": "Maileva, une filiale de La Poste spécialisée dans l'envoi de courriers pour les entreprises, a été piratée. Les noms, les prénoms et les adresses postales de 22 millions de personnes ont été dérobés. Le groupe a porté plainte. On vous dit tout ce qu'il faut savoir sur cette nouvelle fuite massive.",
    "date": "2026-11-15T14:05:47.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Métaux précieux et données clients mises en vente",
-   "link": "https://www.zataz.com/metaux-precieux-et-donnees-clients-mises-en-vente/",
-   "description": "Un vendeur affirme détenir quatre bases clients et 30 000 documents d’une entreprise française de métaux précieux.",
-   "date": "2026-11-15T12:42:32.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Le pirate qui « audite » la France",
-   "link": "https://www.zataz.com/le-pirate-qui-audite-la-france/",
-   "description": "La FFTT confirme un vol de données. ZATAZ retrace les annonces de Chimera et les fichiers attribués à 33 autres fédération sportives.",
-   "date": "2026-11-15T12:37:12.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Opsysweb, une fuite présumée de 4,3 millions de commandes",
-   "link": "https://www.zataz.com/opsysweb-une-fuite-presumee-de-43-millions-de-commandes/",
-   "description": "Sur un forum pirate, un internaute revendique une fuite de 4,3 millions de commandes de verres attribuées à Opsysweb.",
-   "date": "2026-11-15T12:19:51.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Cyberattaque Maileva, 22 millions de personnes touchées",
-   "link": "https://www.zataz.com/cyberattaque-maileva-22-millions-de-personnes-touchees/",
-   "description": "Cyberattaque Maileva, 22 millions de personnes touchées par le vol de données. Des relances de paiement ont été exposées.",
-   "date": "2026-11-15T11:47:49.000Z"
   },
   {
    "src": "01net",
@@ -281,20 +323,6 @@
   },
   {
    "src": "CERT-FR (ANSSI)",
-   "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
-   "description": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
-   "description": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
    "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
    "description": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
@@ -305,13 +333,6 @@
    "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
    "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
    "date": "2026-11-12T00:00:00.000Z"
   },
   {
@@ -344,17 +365,24 @@
   },
   {
    "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
    "date": "2026-11-12T00:00:00.000Z"
   },
   {
-   "src": "01net",
-   "title": "Microsoft corrige plus de 1 200 failles Windows, dont une brèche d’Outlook déjà exploitée par des pirates",
-   "link": "https://www.01net.com/actualites/microsoft-corrige-plus-de-1-200-failles-windows-dont-une-breche-doutlook-deja-exploitee-par-des-pirates.html",
-   "description": "Microsoft vient de publier son Patch Tuesday mensuel. La mise à jour corrige 1 235 failles de sécurité dans Windows, Office et les autres logiciels de l'éditeur. Parmi les vulnérabilités colmatées, on trouve une brèche d'Outlook. Celle-ci est déjà utilisée par des pirates pour dérober des identifiants.",
-   "date": "2026-11-11T08:30:45.000Z"
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans GitLab (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
+   "description": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
+   "description": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
   },
   {
    "src": "IT-Connect",
@@ -385,20 +413,6 @@
    "date": "2026-11-10T13:08:44.000Z"
   },
   {
-   "src": "UnderNews",
-   "title": "Jfrog révèle une fausse campagne de recrutement ciblant les développeurs",
-   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/jfrog-revele-une-fausse-campagne-de-recrutement-ciblant-les-developpeurs.html",
-   "description": "L’équipe de recherche en sécurité de JFrog vient de mettre au jour une opération de cyberattaque jusqu’alors inconnue, baptisée « AccuraSoftHire », parmi plusieurs autres campagnes similaires. Celle-ci repose sur une méthode utilisée par les cybercriminels depuis 2023 : le recours à de faux entretiens d’embauche pour piéger leurs victimes. Une technique récemment mise en lumière par la […] The pos",
-   "date": "2026-11-10T13:04:13.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Cybersécurité – Rapport Acronis Cyberpulse 2026",
-   "link": "https://www.undernews.fr/reseau-securite/cybersecurite-rapport-acronis-cyberpulse-2026.html",
-   "description": "Cybersécurité : Avec son premier rapport TRU Cyber Pulse 2026, Acronis cartographie les menaces actuelles et futures. Acronis analyse les grandes tendances de la cybercriminalité, les attaques s’appuyant sur l’IA et l’évolution des méthodes des ransomwares à partir des recherches menées au cours de l’année écoulée. Tribune – Acronis, fournisseur mondial d’une plateforme cyber native […] The post C",
-   "date": "2026-11-10T13:02:27.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware",
    "link": "https://www.it-connect.fr/teams-faux-support-it-email-bombing/",
@@ -420,13 +434,6 @@
    "date": "2026-11-10T07:47:39.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Frigos piratés : la France accuse les Gardiens de la révolution iraniens",
-   "link": "https://www.it-connect.fr/frigos-supermarches-france-impute-iran-cgri-shahid-kaveh/",
-   "description": "Frigos réglés à haute température dans 700 supermarchés : la France attribue cette attaque, et d'autres incidents, aux Gardiens de la révolution iraniens. Le post Frigos piratés : la France accuse les Gardiens de la révolution iraniens a été publié sur IT-Connect .",
-   "date": "2026-11-10T07:16:26.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "NIS 2 : la loi Résilience arrive enfin à l’Assemblée",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
@@ -434,18 +441,11 @@
    "date": "2026-11-10T06:30:04.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "Cybersécurité : la CNIL sanctionne dix collectivités",
-   "link": "https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/",
-   "description": "La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.",
-   "date": "2026-11-09T21:50:33.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Cyberattaque des frigos : la piste iranienne se précise",
-   "link": "https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/",
-   "description": "Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.",
-   "date": "2026-11-09T16:28:21.000Z"
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/",
+   "description": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]** Dans un billet...",
+   "date": "2026-09-28T00:00:00.000Z"
   }
  ]
 }
