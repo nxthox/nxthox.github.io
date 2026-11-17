@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:49:44.366Z",
+ "updated": "2026-11-17T21:32:02.889Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,41 @@
   }
  ],
  "items": [
+  {
+   "src": "UnderNews",
+   "title": "Trouver une carte graphique récente au meilleur prix : les bons réflexes et les offres Grosbill",
+   "link": "https://www.undernews.fr/culture-web-emploi/bons-plans-high-tech/trouver-une-carte-graphique-recente-au-meilleur-prix-les-bons-reflexes-et-les-offres-grosbill.html",
+   "description": "Que vous souhaitiez monter un nouveau PC gamer, améliorer votre configuration actuelle ou accélérer vos logiciels de création, l’achat d’une carte graphique représente souvent l’investissement le plus important d’une configuration informatique. Entre les nombreuses références NVIDIA et AMD, les écarts de performances et les variations de prix, il n’est pas toujours simple d’identifier le modèle […",
+   "date": "2026-11-17T19:59:58.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Cyberattaque : Air France, IKEA, HSBC, Zoom… De nombreux sites ont servi du code malveillant à leurs visiteurs",
+   "link": "https://www.it-connect.fr/optimizely-pirate-scripts-malveillants-cnn-bbc-zoom/",
+   "description": "Un pirate a détourné les scripts Optimizely de 178 organisations, dont Ikea, Transavia, CNN, la BBC et Zoom, pour voler des cartes bancaires et des cryptos. Le post Cyberattaque : Air France, IKEA, HSBC, Zoom… De nombreux sites ont servi du code malveillant à leurs visiteurs a été publié sur IT-Connect .",
+   "date": "2026-11-17T19:23:39.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Google a découvert des agents IA pirates à l’assaut de plusieurs sites français",
+   "link": "https://www.01net.com/actualites/google-decouvert-agents-ia-pirates-assaut-plusieurs-sites-francais.html",
+   "description": "Google a découvert que des pirates ont confié une série de cyberattaques à l'intelligence artificielle. Tout le travail de piratage, de la recherche de failles jusqu'à l'attaque, a été pris en charge par des agents IA taillés pour le piratage. Ils se sont notamment attaqués à des sites web français, notamment dans les médias, le divertissement et l'éducation.",
+   "date": "2026-11-17T16:01:01.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Attention à ce GTA 6 qui circule avant la sortie du jeu : c’est un piège pour voler vos données",
+   "link": "https://www.01net.com/actualites/attention-a-ce-gta-6-qui-circule-avant-la-sortie-du-jeu-cest-un-piege-pour-voler-vos-donnees.html",
+   "description": "À deux jours de la sortie de GTA 6, les chercheurs d'Avast ont repéré une arnaque qui promet la version complète du jeu en téléchargement gratuit.",
+   "date": "2026-11-17T14:13:59.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Le hacker de GTA 6 plaide coupable : il a bien piraté Rockstar Games en 2022",
+   "link": "https://www.01net.com/actualites/le-hacker-de-gta-6-plaide-coupable-il-a-bien-pirate-rockstar-games-en-2022.html",
+   "description": "Arion Kurtaj, le Britannique à l’origine de la fuite massive de Grand Theft Auto VI en 2022, a plaidé coupable le 16 novembre 2026 devant la justice britannique. Le tout à quelques jours de la sortie du jeu le plus attendu de tous les temps.",
+   "date": "2026-11-17T13:03:30.000Z"
+  },
   {
    "src": "01net",
    "title": "Apple serre la vis aux IA qui fouillent dans les fichiers de votre Mac",
@@ -238,13 +273,6 @@
    "date": "2026-11-15T14:05:47.000Z"
   },
   {
-   "src": "01net",
-   "title": "Drogues, armes et cryptos : la France frappe un grand coup contre le dark web",
-   "link": "https://www.01net.com/actualites/drogues-armes-cryptos-france-interpelle-23-clients-vendeurs-dark-web.html",
-   "description": "Europol a dévoilé les résultats de TorNado, une vaste opération d'envergure internationale contre le dark web. L'opération s'est soldée par plus de 350 arrestations, dont une vingtaine en France. Dans la foulée, plus de 5 tonnes de drogues et 210 millions d'euros ont été saisis par les forces de l'ordre.",
-   "date": "2026-11-15T11:07:55.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
    "link": "https://www.it-connect.fr/check-point-php2shell-wiper-esxi-tsga/",
@@ -273,20 +301,6 @@
    "date": "2026-11-13T14:37:13.000Z"
   },
   {
-   "src": "UnderNews",
-   "title": "26 % des entreprises prêtes à changer de fournisseur pour unifier leurs outils de cybersécurité sur une plateforme unique",
-   "link": "https://www.undernews.fr/reseau-securite/26-des-entreprises-pretes-a-changer-de-fournisseur-pour-unifier-leurs-outils-de-cybersecurite-sur-une-plateforme-unique.html",
-   "description": "Selon une nouvelle étude mondiale menée par le Centre de Recherche interne de Kaspersky, les entreprises recherchent de plus en plus une détection rapide des menaces, des enquêtes plus approfondies et une réponse coordonnée aux incidents. Tribune Kaspersky – Les menaces évoluant sans cesse dans un contexte où les environnements informatiques sont de plus en […] The post 26 % des entreprises prêtes",
-   "date": "2026-11-13T12:17:25.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "6 millions d’identifiants volés ont été récupérés par la police : comment savoir si vous êtes concerné ?",
-   "link": "https://www.01net.com/actualites/6-millions-identifiants-voles-recuperes-police-verifiez-si-vous-etes-concerne.html",
-   "description": "Europol vient de démanteler l'infrastructure de trois logiciels malveillants, massivement utilisés par des gangs spécialisés dans les attaques par ransomware. En fouillant les serveurs saisis, les enquêteurs ont retrouvé plus de 6 millions d'identifiants volés à des victimes. Celles-ci vont pouvoir vérifier si elles sont concernées.",
-   "date": "2026-11-13T11:00:06.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
@@ -299,6 +313,13 @@
    "link": "https://www.it-connect.fr/signdrop-zero-day-windows-clfs-system/",
    "description": "SignDrop, nouvelle zero-day publiée par Nightmare Eclipse, détourne l'authentification CLFS de Windows pour obtenir les droits SYSTEM. Voici ce que l'on sait. Le post SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM a été publié sur IT-Connect .",
    "date": "2026-11-13T05:56:31.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Progress Telerik (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1533/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-13T00:00:00.000Z"
   },
   {
    "src": "IT-Connect",
@@ -315,13 +336,6 @@
    "date": "2026-11-12T16:51:27.000Z"
   },
   {
-   "src": "01net",
-   "title": "« Un problème au niveau d’iOS » : Binance alerte sur une faille de l’iPhone qui menace tous les portefeuilles crypto",
-   "link": "https://www.01net.com/actualites/un-probleme-au-niveau-dios-binance-alerte-sur-une-faille-de-liphone-qui-menace-tous-les-portefeuilles-crypto.html",
-   "description": "Binance met en garde les propriétaires d'iPhone. Une faille, baptisée worse_query, vient d’être découverte dans le système d’exploitation iOS. Elle permet à une application malveillante de lire les fichiers des autres applications, y compris les phrases de récupération des portefeuilles crypto. Selon les chercheurs, la brèche n'a toujours pas été corrigée par Apple, ce qui met en danger les invest",
-   "date": "2026-11-12T16:31:07.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
@@ -336,13 +350,6 @@
    "date": "2026-11-12T10:15:00.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Notion AI : le piratage de Fireworks AI a exposé des conversations de clients",
-   "link": "https://www.it-connect.fr/notion-ai-fuite-conversations-fireworks/",
-   "description": "Le piratage de Fireworks AI, sous-traitant de Notion, a exposé des conversations Notion AI. Moins de 1 % des espaces de travail sont touchés. Le post Notion AI : le piratage de Fireworks AI a exposé des conversations de clients a été publié sur IT-Connect .",
-   "date": "2026-11-12T09:50:00.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Grok Build : plus de 35 000 applications IA accessibles sans authentification",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/grok-build-plus-de-35-000-applications-ia-accessib",
@@ -354,27 +361,6 @@
    "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
    "description": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Microsoft Azure (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1514/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Microsoft Windows (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1513/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
    "date": "2026-11-12T00:00:00.000Z"
   },
   {
@@ -393,13 +379,6 @@
   },
   {
    "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
    "title": "Vulnérabilité dans GitLab (12 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
    "description": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -410,6 +389,27 @@
    "title": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
    "description": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans les produits Kaspersky (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1524/",
+   "description": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service à distance.",
+   "date": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Axis (12 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1523/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
    "date": "2026-11-12T00:00:00.000Z"
   },
   {
