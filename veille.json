@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T03:26:52.932Z",
+ "updated": "2026-11-17T12:49:44.366Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,104 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Apple serre la vis aux IA qui fouillent dans les fichiers de votre Mac",
+   "link": "https://www.01net.com/actualites/apple-serre-vis-face-ia-fouillent-fichiers-mac.html",
+   "description": "Apple prend les devants face aux dérives des agents IA. Avec la mise à jour macOS 27.3, le géant de Cupertino change les règles pour les applications IA qui réclament un accès total à votre Mac, comme ChatGPT, Claude ou Gemini. La mise à jour doit vous faire comprendre ce que vous risquez avant d'ouvrir toutes les portes de vos fichiers à des intelligences artificielles.",
+   "date": "2026-11-17T12:06:55.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Fausses pubs sur Facebook et Instagram : la Française des jeux attaque Meta en justice",
+   "link": "https://www.01net.com/actualites/fausses-pubs-facebook-instagram-francaise-des-jeux-attaque-meta-en-justice.html",
+   "description": "La Française des jeux tape du poing sur la table et attaque directement la maison mère de Facebook et Instagram en justice. La FDJ accuse en effet Meta de diffuser des publicités trompeuses qui détournent sa marque.",
+   "date": "2026-11-17T11:25:54.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Faux coursiers bancaires : trois équipes interpellées",
+   "link": "https://www.zataz.com/faux-coursiers-bancaires-trois-equipes-interpellees/",
+   "description": "Dans le Nord, trois équipes de faux coursiers bancaires arrêtées. Des personnes âgées ciblées et dépouillées.",
+   "date": "2026-11-17T11:02:44.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cybersécurité : les TPE ne peuvent plus rester les oubliées de la protection numérique",
+   "link": "https://www.undernews.fr/reseau-securite/cybersecurite-les-tpe-ne-peuvent-plus-rester-les-oubliees-de-la-protection-numerique.html",
+   "description": "La transformation numérique des TPE et PME a profondément modifié leur fonctionnement. Applications hébergées dans le cloud, outils collaboratifs, logiciels accessibles à distance : le numérique est désormais au cœur de leur activité. Cette évolution s’accompagne néanmoins d’une exposition croissante aux risques cyber. Longtemps considérées comme des cibles secondaires, les petites structures cons",
+   "date": "2026-11-17T09:50:16.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Étude GTIG : Quand l’IA pirate seule, une première observée par Google",
+   "link": "https://www.undernews.fr/hacking-hacktivisme/etude-gtig-quand-lia-pirate-seule-une-premiere-observee-par-google.html",
+   "description": "Google publie aujourd’hui son rapport AI Threat Tracker du quatrième trimestre du GTIG, qui met en lumière l’évolution des usages malveillants de l’intelligence artificielle dans les cyberattaques. Tribune – Les conclusions de ce trimestre marquent un tournant. Pour la première fois, le GTIG a observé un attaquant utiliser un agent IA pour transformer des correctifs […] The post Étude GTIG : Quand",
+   "date": "2026-11-17T09:48:28.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cyberattaque Maileva : L’analyse de Delinea",
+   "link": "https://www.undernews.fr/alertes-securite/cyberattaque-maileva-lanalyse-de-delinea.html",
+   "description": "La cyberattaque dont a été victime ce week-end Maileva, filiale du groupe La Poste, aurait entraîné une fuite de données concernant près de 22 millions de personnes. Si cet incident rappelle l’impératif de sécurité qui pèse sur les sous-traitants manipulant des volumes massifs d’informations sensibles, il souligne aussi une réalité critique pour leurs entreprises clientes […] The post Cyberattaque",
+   "date": "2026-11-17T09:34:00.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cyberattaques sur Android : Zimperium découvre un malware qui utilise l’IA pour identifier les données bancaires de ses victimes",
+   "link": "https://www.undernews.fr/malwares-virus-antivirus/cyberattaques-sur-android-zimperium-decouvre-un-malware-qui-utilise-lia-pour-identifier-les-donnees-bancaires-de-ses-victimes.html",
+   "description": "zLabs, l’équipe de recherche de Zimperium, spécialiste de la sécurité des appareils mobiles, a mené de nouvelles analyses sur ArcticRAT, un malware ciblant les smartphones Android. Les chercheurs ont identifié 78 échantillons de ce malware, dont les versions récentes utilisent L’IA pour identifier les données financières les plus intéressantes parmi les informations dérobées aux utilisateurs […] T",
+   "date": "2026-11-17T09:04:18.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cyberattaque Maileva : comment se protéger face au risque de phishing et d’arnaques secondaires ?",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/cyberattaque-maileva-comment-se-proteger-face-au-risque-de-phishing-et-darnaques-secondaires.html",
+   "description": "La cyberattaque dont a été victime ce week-end Maileva, filiale du groupe La Poste, aurait entraîné une fuite de données concernant près de 22 millions de personnes. Au-delà de l’incident initial, ce type d’attaque contre un prestataire tiers expose les particuliers comme les entreprises à des vagues d’arnaques secondaires particulièrement difficiles à détecter. Comment les […] The post Cyberattaq",
+   "date": "2026-11-17T09:01:46.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "« Ils se sont fait passer pour des membres de l’équipe » : plusieurs IA Gemini ont lancé une cyberattaque",
+   "link": "https://www.01net.com/actualites/ils-se-sont-fait-passer-pour-des-membres-de-lequipe-plusieurs-ia-gemini-ont-tente-de-pirater-un-site-web.html",
+   "description": "Lors d'un test de sécurité, des agents IA, animés par Gemini, ont attaqué le site web d'une organisation de recherche. Les IA ont tout tenté pour accomplir une mission impossible. Ce nouvel incident s'ajoute aux nombreuses dérives impliquant des intelligences artificielles, survenues dans le courant des derniers mois.",
+   "date": "2026-11-17T09:01:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "NoisyTCP : cette faille du noyau Linux vieille de 11 ans permet de faire planter un serveur à distance",
+   "link": "https://www.it-connect.fr/noisytcp-cve-2026-99288-faille-noyau-linux-tcp/",
+   "description": "Des paquets TCP bien synchronisés, et tout le serveur tombe. NoisyTCP (CVE-2026-99288), une faille Linux vieille de 11 ans menace les serveurs Linux. Le post NoisyTCP : cette faille du noyau Linux vieille de 11 ans permet de faire planter un serveur à distance a été publié sur IT-Connect .",
+   "date": "2026-11-17T07:58:23.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
+   "link": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
+   "description": "Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.",
+   "date": "2026-11-17T07:47:16.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Rassemblement National : une seconde fuite de données ?",
+   "link": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
+   "description": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
+   "date": "2026-11-17T06:29:20.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "GTA 6 : la Nouvelle-Zélande jouera 12 heures avant la France, attention aux arnaques",
+   "link": "https://www.it-connect.fr/gta-6-heure-sortie-nouvelle-zelande-arnaques/",
+   "description": "Envie de jouer à GTA 6 dès mercredi midi grâce à la Nouvelle-Zélande ? L’astuce a ses limites sur Xbox et PS5. Et les faux GTA 6 PC, eux, volent vos données. Le post GTA 6 : la Nouvelle-Zélande jouera 12 heures avant la France, attention aux arnaques a été publié sur IT-Connect .",
+   "date": "2026-11-17T06:25:23.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "PostgreSQL a corrigé 52 failles de sécurité, dont une vieille de 22 ans (CVE-2026-6460)",
+   "link": "https://www.it-connect.fr/postgresql-52-failles-cve-2026-6460-mise-a-jour/",
+   "description": "PostgreSQL corrige 52 failles, dont la CVE-2026-6460 vieille de 22 ans. Le correctif impose de mettre à jour serveur et extensions en même temps. Explications. Le post PostgreSQL a corrigé 52 failles de sécurité, dont une vieille de 22 ans (CVE-2026-6460) a été publié sur IT-Connect .",
+   "date": "2026-11-17T05:00:00.000Z"
+  },
   {
    "src": "IT-Connect",
    "title": "Maileva (La Poste) : les noms et adresses de 22 millions de personnes dérobés lors d’une cyberattaque",
@@ -91,20 +189,6 @@
    "date": "2026-11-16T15:57:48.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "Télémaintenance : 288 entreprises visées par une attaque",
-   "link": "https://www.zataz.com/telemaintenance-288-entreprises-visees-par-une-attaque/",
-   "description": "Une extension ScreenConnect exploitée pour perturber 288 machines de télémaintenance dans 48 organisations.",
-   "date": "2026-11-16T15:46:36.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Je s’appelle GRU : Ingérence russe soupçonnée d’agir dans les manifestations en France",
-   "link": "https://www.zataz.com/je-sappelle-gru-ingerence-russe-soupconnee-dagir-dans-les-manifestations-en-france/",
-   "description": "Le GRU russe soupçonné d'ingérence dans les manifestations françaises. InformNapalm dévoile ses accusations.",
-   "date": "2026-11-16T15:32:06.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Panne Microsoft 365 : Mimecast révèle une campagne de phishing qui exploite la confusion",
    "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/panne-microsoft-365-mimecast-revele-une-campagne-de-phishing-qui-exploite-la-confusion.html",
@@ -145,13 +229,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
    "description": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire sur le serveur. Cette publication marque également la fin du support de PostgreSQL 14, dont la version 14.25 constitue la dernière mise à jour.",
    "date": "2026-11-16T07:38:50.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Stripe va masquer ses clés API secrètes le 20 novembre",
-   "link": "https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/",
-   "description": "Stripe masquera ses anciennes clés API secrètes le 20 novembre 2026. ZATAZ analyse les risques et les conséquences.",
-   "date": "2026-11-15T19:44:34.000Z"
   },
   {
    "src": "01net",
@@ -245,32 +322,11 @@
    "date": "2026-11-12T16:31:07.000Z"
   },
   {
-   "src": "01net",
-   "title": "Google corrige d’urgence une 8e faille Chrome exploitée par des pirates, installez vite la mise à jour",
-   "link": "https://www.01net.com/actualites/google-corrige-urgence-8e-faille-chrome-exploitee-pirates-installez-vite-mise-jour.html",
-   "description": "Google vient de déployer une mise à jour de sécurité d'urgence sur Chrome. Le géant de Mountain View corrige ainsi une faille zero-day déjà exploitée par des pirates dans des cyberattaques. C'est déjà la huitième faille zero-day de l'année identifiée sur le navigateur.",
-   "date": "2026-11-12T13:01:07.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Après les frigos des supermarchés, l’Europe s’inquiète des cyberattaques contre « les appareils ménagers »",
-   "link": "https://www.01net.com/actualites/apres-les-frigos-des-supermarches-leurope-sinquiete-des-cyberattaques-contre-les-appareils-menagers.html",
-   "description": "L'agence européenne de cybersécurité est sur le qui-vive. Après les frigos des supermarchés, les appareils électroménagers des citoyens pourraient être les prochaines cibles des pirates, estime l'agence. Cet avertissement survient à la suite de plusieurs semaines de cyberattaques, allant des supermarchés européens à une poignée d'établissements de santé.",
-   "date": "2026-11-12T12:00:32.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
    "description": "Zoom a publié des correctifs pour deux vulnérabilités affectant Workplace sous Windows, dont une faille critique d’élévation de privilèges notée 9,6 sur l’échelle CVSS. Référencées CVE-2026-108186 et CVE-2026-108187, elles pourraient permettre à un attaquant non authentifié d’obtenir des privilèges supplémentaires à distance, à condition que l’utilisateur interagisse. Les entreprises sont invitées",
    "date": "2026-11-12T10:46:15.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Les menaces par hameçonnage progressent trois fois plus vite en Europe que dans le reste du monde",
-   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/les-menaces-par-hameconnage-progressent-trois-fois-plus-vite-en-europe-que-dans-le-reste-du-monde.html",
-   "description": "Les nouvelles recherches révèlent une multiplication par 4,5 des détections de tentatives d’hameçonnage en Europe sur un an, contre 1,5 à l’échelle mondiale, dans un contexte d’essor des menaces liées au cloud et à l’IA. Tribune – Proofpoint, Inc., leader mondial de la cybersécurité centrée sur l’humain et les agents d’IA, a dévoilé aujourd’hui, à […] The post Les menaces par hameçonnage progresse",
-   "date": "2026-11-12T10:41:42.000Z"
   },
   {
    "src": "IT-Connect",
@@ -280,39 +336,11 @@
    "date": "2026-11-12T10:15:00.000Z"
   },
   {
-   "src": "UnderNews",
-   "title": "Cybersécurité : construire une protection adaptée plutôt que multiplier les outils",
-   "link": "https://www.undernews.fr/reseau-securite/cybersecurite-construire-une-protection-adaptee-plutot-que-multiplier-les-outils.html",
-   "description": "La cybersécurité est encore trop souvent abordée sous l’angle des solutions technologiques à déployer. Pourtant, multiplier les dispositifs ne garantit pas une protection cohérente. Chaque entreprise possède son environnement technique, ses contraintes opérationnelles et son niveau de maturité. Une réponse standardisée ne couvre donc pas nécessairement ses besoins. L’audit des infrastructures, l’a",
-   "date": "2026-11-12T10:08:02.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Notion AI : le piratage de Fireworks AI a exposé des conversations de clients",
    "link": "https://www.it-connect.fr/notion-ai-fuite-conversations-fireworks/",
    "description": "Le piratage de Fireworks AI, sous-traitant de Notion, a exposé des conversations Notion AI. Moins de 1 % des espaces de travail sont touchés. Le post Notion AI : le piratage de Fireworks AI a exposé des conversations de clients a été publié sur IT-Connect .",
    "date": "2026-11-12T09:50:00.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Formation IA : pourquoi l’intelligence artificielle s’intègre désormais dans tous les métiers",
-   "link": "https://www.undernews.fr/undernews/formation-ia-pourquoi-lintelligence-artificielle-sintegre-desormais-dans-tous-les-metiers.html",
-   "description": "La formation IA attire un intérêt croissant à mesure que l’intelligence artificielle s’installe dans les usages quotidiens des entreprises. Longtemps associée à des expérimentations ciblées, elle est désormais utilisée dans des tâches concrètes : gestion documentaire, relation client, suivi commercial ou automatisation administrative. Dans cette évolution, les outils no-code IA occupent une place ",
-   "date": "2026-11-12T09:33:17.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Maersk confirme une fuite de données : WhiteArmor réclame 5 millions de dollars",
-   "link": "https://www.it-connect.fr/maersk-fuite-de-donnees-whitearmor/",
-   "description": "Maersk reconnaît un vol de données sur un système hérité d'un rachat. WhiteArmor revendique 100 Go de données volées et exige 5 millions de dollars en bitcoins. Le post Maersk confirme une fuite de données : WhiteArmor réclame 5 millions de dollars a été publié sur IT-Connect .",
-   "date": "2026-11-12T09:30:00.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Windows : deux failles BitLocker permettent de lire les fichiers protégés",
-   "link": "https://www.01net.com/actualites/windows-deux-failles-bitlocker-permettent-de-lire-les-fichiers-proteges.html",
-   "description": "Microsoft vient de corriger deux failles de sécurité dans BitLocker, l'outil qui chiffre le disque dur des PC sous Windows. En exploitant ces brèches, un pirate peut contourner le chiffrement et accéder aux données protégées sur l'ordinateur.",
-   "date": "2026-11-12T09:01:03.000Z"
   },
   {
    "src": "Le Monde Informatique",
@@ -385,39 +413,11 @@
    "date": "2026-11-12T00:00:00.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook",
-   "link": "https://www.it-connect.fr/patch-tuesday-novembre-2026-recapitulatif/",
-   "description": "Microsoft a corrigé 1 093 failles avec le Patch Tuesday de novembre 2026. Une faille zero-day est déjà exploitée dans Outlook : voici le récapitulatif complet. Le post Patch Tuesday – Novembre 2026 : 1 093 failles corrigées, dont une faille zero-day dans Outlook a été publié sur IT-Connect .",
-   "date": "2026-11-11T07:16:01.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Scality devient autorité de numérotation CVE sous l’égide de l’ENISA",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/scality-devient-autorite-de-numerotation-cve-sous-",
    "description": "Scality a annoncé le 10 novembre 2026 son entrée dans le programme CVE en tant qu’autorité de numérotation, ou CNA (CVE Numbering Authority). L’éditeur peut désormais attribuer directement des identifiants aux vulnérabilités de ses logiciels et publier les enregistrements associés. Cette évolution intervient alors que les obligations de signalement du Cyber Resilience Act sont applicables depuis s",
    "date": "2026-11-10T14:56:07.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "La confiance des salariés dans les communications numériques progresse à l’ère des deepfakes, mais les pratiques de vérification restent insuffisantes",
-   "link": "https://www.undernews.fr/culture-web-emploi/la-confiance-des-salaries-dans-les-communications-numeriques-progresse-a-lere-des-deepfakes-mais-les-pratiques-de-verification-restent-insuffisantes.html",
-   "description": "Le nouveau Cyber Trust Index de WatchGuard révèle que plus d’un salarié sur deux ne vérifie pas systématiquement l’identité de son interlocuteur avant de donner suite à une demande sensible, malgré la multiplication des risques d’usurpation d’identité liés à l’IA. Tribune – WatchGuard Technologies, leader mondial de la cybersécurité unifiée pour les fournisseurs de services […] The post La confian",
-   "date": "2026-11-10T14:41:50.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Supermarchés, centrales hydroélectriques : la France ciblée par des cyberattaques attribuées à l’Iran",
-   "link": "https://www.undernews.fr/hacking-hacktivisme/supermarches-centrales-hydroelectriques-la-france-ciblee-par-des-cyberattaques-attribuees-a-liran.html",
-   "description": "Le parquet de Paris a ouvert une information judiciaire visant une unité des Gardiens de la révolution iraniens, soupçonnée d’avoir compromis les systèmes de réfrigération d’environ 700 supermarchés français en octobre. Un rapport de l’ANSSI et de ses partenaires s’appuie sur plusieurs indices techniques reliant ces cyberattaques à Téhéran. Les investigations révèlent également que de […] The post",
-   "date": "2026-11-10T13:08:44.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware",
-   "link": "https://www.it-connect.fr/teams-faux-support-it-email-bombing/",
-   "description": "Plus de 400 attaques au faux support IT via le chat externe de Teams : l'ordinateur de la victime peut être compromis en moins de 15 minutes. Le post Faux support IT sur Teams : moins de 15 minutes entre la réponse de la victime et le malware a été publié sur IT-Connect .",
-   "date": "2026-11-10T13:00:00.000Z"
   },
   {
    "src": "Le Monde Informatique",
