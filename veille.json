@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:43:13.733Z",
+ "updated": "2026-11-18T21:07:51.243Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,48 @@
   }
  ],
  "items": [
+  {
+   "src": "IT-Connect",
+   "title": "NGINX2Root : deux failles critiques permettent de prendre le contrôle d’un serveur NGINX",
+   "link": "https://www.it-connect.fr/nginx2root-failles-cve-2026-123007-rce/",
+   "description": "Failles NGINX : CVE-2026-123007 et CVE-2026-123633 permettent d'exécuter du code à distance via HTTP/2. Voici les versions à installer et comment vous protéger. Le post NGINX2Root : deux failles critiques permettent de prendre le contrôle d’un serveur NGINX a été publié sur IT-Connect .",
+   "date": "2026-11-18T19:59:23.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "La Macif écope d’une amende de 5 millions d’euros : les mots de passe étaient laissés à la merci des pirates",
+   "link": "https://www.01net.com/actualites/macif-ecope-amende-5-millions-deuros-mots-passe-clients-etaient-stockes-sans-protection.html",
+   "description": "La Cnil a infligé une amende de cinq millions d’euros à la Macif pour deux importants manquements au RGPD. L’entreprise assure avoir pris les mesures nécessaires et précise qu’aucune donnée de ses clients n’a été divulguée.",
+   "date": "2026-11-18T17:14:23.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Jeux vidéo : Flare révèle comment les cybercriminels exploitent l’engouement pour le gaming pour dérober les données des joueurs",
+   "link": "https://www.undernews.fr/reseau-securite/jeux-video-flare-revele-comment-les-cybercriminels-exploitent-lengouement-pour-le-gaming-pour-derober-les-donnees-des-joueurs.html",
+   "description": "À l’approche de la sortie de GTA VI une étude de Flare alerte sur la multiplication des infostealers qui visent les gamers. Tribune Flare – L’actualité du jeu vidéo bat son plein avec les sorties de Grand Theft Auto VI et de The Legend of Zelda: Ocarina of Time. Une effervescence dont profitent aussi les […] The post Jeux vidéo : Flare révèle comment les cybercriminels exploitent l’engouement pour",
+   "date": "2026-11-18T16:22:40.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Vous utilisez l’un des 20 pires mots de passe de France ? Changez-le immédiatement",
+   "link": "https://www.01net.com/actualites/vous-utilisez-lun-des-20-pires-mots-de-passe-de-france-changez-le-immediatement.html",
+   "description": "NordPass dévoile son traditionnel palmarès annuel des pires mots de passe. Cette année, l'indétrônable « 123456 » reprend la première place en France. Entre « azerty », « Marseille13 » et « skibiditoilet », les internautes continuent de faire des choix déplorables en matière de cybersécurité.",
+   "date": "2026-11-18T16:05:17.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "FBI : avec ARTEX, certaines intrusions atteignent un accès privilégié en moins de trois heures",
+   "link": "https://www.it-connect.fr/fbi-artex-framework-ia-cyberattaques/",
+   "description": "Le FBI alerte sur ARTEX, un framework de pentest piloté par l'IA détourné par des pirates. Certaines intrusions atteignent un accès admin en moins de 3 heures. Le post FBI : avec ARTEX, certaines intrusions atteignent un accès privilégié en moins de trois heures a été publié sur IT-Connect .",
+   "date": "2026-11-18T15:45:00.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "« Un faux sentiment de secret » : face à l’IA, Google prend une décision qui divise le monde de la cybersécurité",
+   "link": "https://www.01net.com/actualites/faux-sentiment-secret-face-ia-google-devoiler-failles-securite-trois-fois-plus-vite.html",
+   "description": "Project Zero, l'équipe d'élite de Google spécialisée dans la chasse aux failles, change ses règles. D'ici 2028, elle ne laissera plus que 30 jours aux éditeurs pour corriger une brèche avant de la rendre publique, contre 90 jours aujourd'hui. En cause : l'intelligence artificielle, qui permet aux pirates d'exploiter les failles plus vite que jamais.",
+   "date": "2026-11-18T13:08:42.000Z"
+  },
   {
    "src": "01net",
    "title": "Mon Espace Santé et le DMP tournent désormais sur une seule plateforme, hébergée en France par Atos",
@@ -210,13 +252,6 @@
    "date": "2026-11-17T09:01:46.000Z"
   },
   {
-   "src": "01net",
-   "title": "« Ils se sont fait passer pour des membres de l’équipe » : plusieurs IA Gemini ont lancé une cyberattaque",
-   "link": "https://www.01net.com/actualites/ils-se-sont-fait-passer-pour-des-membres-de-lequipe-plusieurs-ia-gemini-ont-tente-de-pirater-un-site-web.html",
-   "description": "Lors d'un test de sécurité, des agents IA, animés par Gemini, ont attaqué le site web d'une organisation de recherche. Les IA ont tout tenté pour accomplir une mission impossible. Ce nouvel incident s'ajoute aux nombreuses dérives impliquant des intelligences artificielles, survenues dans le courant des derniers mois.",
-   "date": "2026-11-17T09:01:00.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "NoisyTCP : cette faille du noyau Linux vieille de 11 ans permet de faire planter un serveur à distance",
    "link": "https://www.it-connect.fr/noisytcp-cve-2026-99288-faille-noyau-linux-tcp/",
@@ -245,13 +280,6 @@
    "date": "2026-11-16T19:47:53.000Z"
   },
   {
-   "src": "01net",
-   "title": "Le chercheur en guerre contre Microsoft dévoile une 16ᵉ faille Windows, elle peut désactiver votre antivirus",
-   "link": "https://www.01net.com/actualites/pc-windows-vulnerables-le-chercheur-en-guerre-contre-microsoft-devoile-une-16e-faille-elle-peut-desactiver-votre-antivirus.html",
-   "description": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus. Aucun correctif n'est encore disponible, et 80 % des ordinateurs Windows dans le monde",
-   "date": "2026-11-16T16:01:42.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Panne Microsoft 365 : Mimecast révèle une campagne de phishing qui exploite la confusion",
    "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/panne-microsoft-365-mimecast-revele-une-campagne-de-phishing-qui-exploite-la-confusion.html",
@@ -266,13 +294,6 @@
    "date": "2026-11-16T13:09:39.000Z"
   },
   {
-   "src": "01net",
-   "title": "Piratage de La Poste : la police lance une enquête pour retrouver les pirates",
-   "link": "https://www.01net.com/actualites/piratage-poste-police-lance-enquete-retrouver-pirates.html",
-   "description": "Le parquet de Paris a ouvert une enquête sur la cyberattaque qui vient de frapper Maileva, une filiale de La Poste. L'affaire, confiée à la Brigade de lutte contre la cybercriminalité, doit permettre de remonter jusqu'aux pirates qui ont volé les données de plus de 22 millions de Français.",
-   "date": "2026-11-16T10:00:08.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
@@ -285,6 +306,13 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
    "description": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire sur le serveur. Cette publication marque également la fin du support de PostgreSQL 14, dont la version 14.25 constitue la dernière mise à jour.",
    "date": "2026-11-16T07:38:50.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
+   "description": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+   "date": "2026-11-16T00:00:00.000Z"
   },
   {
    "src": "IT-Connect",
@@ -308,25 +336,11 @@
    "date": "2026-11-13T15:51:10.000Z"
   },
   {
-   "src": "UnderNews",
-   "title": "Panne Microsoft 365 : le point de vue de JFrog",
-   "link": "https://www.undernews.fr/alertes-securite/panne-microsoft-365-le-point-de-vue-de-jfrog.html",
-   "description": "Outlook, Teams, Copilot, SharePoint, OneDrive : la panne mondiale de Microsoft 365 a paralyser beaucoup de sociétés dans le monde ! La page de statut publique affiche encore du rouge à l’heure de cet article, soit près de 24 heures après le début de l’incident technique… La panne serait due principalement à « une charge élevée » […] The post Panne Microsoft 365 : le point de vue de JFrog first app",
-   "date": "2026-11-13T14:37:13.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
    "description": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle. Présentés le 12 novembre 2026, Daybreak Red Team et Daybreak Defense Factory visent respectivement à automatiser les tests d’intrusion et à accélérer la préparation des correctifs. Avec cette nouvelle offre, l’éditeur entend renforcer les capacités des équipes de sécurité ",
    "date": "2026-11-13T06:37:37.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM",
-   "link": "https://www.it-connect.fr/signdrop-zero-day-windows-clfs-system/",
-   "description": "SignDrop, nouvelle zero-day publiée par Nightmare Eclipse, détourne l'authentification CLFS de Windows pour obtenir les droits SYSTEM. Voici ce que l'on sait. Le post SignDrop : cette faille zero-day détourne la protection CLFS de Windows pour obtenir les droits SYSTEM a été publié sur IT-Connect .",
-   "date": "2026-11-13T05:56:31.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
@@ -336,11 +350,53 @@
    "date": "2026-11-13T00:00:00.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance",
-   "link": "https://www.it-connect.fr/faille-apache-http2-cve-2026-119618-rce/",
-   "description": "CVE-2026-119618 : une faille critique dans le module HTTP/2 d'Apache permet d'exécuter du code à distance. Voici comment protéger votre serveur Web. Le post Serveurs Apache : cette faille critique dans HTTP/2 permet d’exécuter du code à distance a été publié sur IT-Connect .",
-   "date": "2026-11-12T19:40:50.000Z"
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans les produits Axis (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1534/",
+   "description": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "date": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le noyau Linux de Debian (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1538/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Opera Neon (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1532/",
+   "description": "Une vulnérabilité a été découverte dans Opera Neon. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "date": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1536/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1537/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1535/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-13T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits IBM (13 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1539/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+   "date": "2026-11-13T00:00:00.000Z"
   },
   {
    "src": "Le Monde Informatique",
@@ -355,62 +411,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/grok-build-plus-de-35-000-applications-ia-accessib",
    "description": "Une étude de la société de cybersécurité Claroc révèle d’importants défauts de confidentialité dans des applications créées avec Grok Build, l’outil de création d’applications assistée par IA de SpaceXSI, l’éditeur de Grok anciennement appelé xAI. Sur les 37 571 applications actives examinées, 35 578 étaient accessibles sans authentification, exposant potentiellement des données personnelles, des ",
    "date": "2026-11-12T07:45:45.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
-   "description": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1521/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Citrix Secure Access client (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1519/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Citrix Secure Access client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans GitLab (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1520/",
-   "description": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans MongoDB Core Server (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1522/",
-   "description": "De multiples vulnérabilités ont été découvertes dans MongoDB Core Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans les produits Kaspersky (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1524/",
-   "description": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer un déni de service à distance.",
-   "date": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits Axis (12 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1523/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-   "date": "2026-11-12T00:00:00.000Z"
   },
   {
    "src": "Le Monde Informatique",
