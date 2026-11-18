@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:21:11.261Z",
+ "updated": "2026-11-18T12:43:13.733Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,97 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Mon Espace Santé et le DMP tournent désormais sur une seule plateforme, hébergée en France par Atos",
+   "link": "https://www.01net.com/actualites/mon-espace-sante-et-le-dmp-tournent-desormais-sur-une-seule-plateforme-hebergee-en-france-par-atos.html",
+   "description": "Le carnet de santé numérique des Français et le dossier médical alimenté par les soignants partagent à présent la même machinerie. L’opération s’est conclue sans qu’aucun des 69 millions de profils concernés n’ait eu un geste à faire.",
+   "date": "2026-11-18T12:00:44.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Osaka exposée à une fuite massive",
+   "link": "https://www.zataz.com/osaka-exposee-a-une-fuite-massive/",
+   "description": "Osaka et des centaines d'organisations japonaises sont touchées par un incident ressemblant à l'affaire Maileva !",
+   "date": "2026-11-18T10:37:09.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque contre les douanes lituaniennes",
+   "link": "https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/",
+   "description": "Une cyberattaque perturbe les douanes lituaniennes et pourrait exposer les données de centaines d'utilisateurs.",
+   "date": "2026-11-18T10:29:44.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Piratage de GTA VI : un hacker reconnaît six infractions",
+   "link": "https://www.zataz.com/piratage-de-gta-vi-un-hacker-reconnait-six-infractions/",
+   "description": "Le hacker impliqué dans la fuite de GTA VI reconnaît six infractions liées à plusieurs cyberattaques majeures.",
+   "date": "2026-11-18T10:22:51.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Uber : 149 346 personnes touchées par une fuite",
+   "link": "https://www.zataz.com/uber-149-346-personnes-touchees-par-une-fuite/",
+   "description": "Une intrusion chez un prestataire d'Uber expose les permis de conduire et les données de 149 346 personnes.",
+   "date": "2026-11-18T10:14:55.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Ransomware : un suspect d’INC et Lynx extradé",
+   "link": "https://www.zataz.com/ransomware-un-suspect-dinc-et-lynx-extrade/",
+   "description": "Un suspect lié aux rançongiciels INC et Lynx comparaît aux États-Unis après une extradition depuis l'Italie.",
+   "date": "2026-11-18T10:05:56.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Le Japon arrête le supercalculateur Fugaku",
+   "link": "https://www.zataz.com/le-japon-arrete-le-supercalculateur-fugaku/",
+   "description": "RIKEN arrête Fugaku après une intrusion. Plus de 4 500 utilisateurs de deux supercalculateurs sont concernés.",
+   "date": "2026-11-18T09:48:31.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Scattered Spider : un pirate britannique condamné à six ans",
+   "link": "https://www.zataz.com/scattered-spider-un-pirate-britannique-condamne-a-six-ans/",
+   "description": "Scattered Spider : un pirate britannique condamné à six ans de prison pour phishing et vol de cryptomonnaies.",
+   "date": "2026-11-18T09:26:56.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Optimizely piraté, des géants du web exposés",
+   "link": "https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/",
+   "description": "Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.",
+   "date": "2026-11-18T09:04:32.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Mots de passe en clair : la CNIL inflige 5 millions d’euros",
+   "link": "https://www.zataz.com/mots-de-passe-en-clair-la-cnil-inflige-5-millions-deuros/",
+   "description": "La CNIL sanctionne une société de 5 millions d’euros pour des mots de passe en clair et une conservation excessive des données.",
+   "date": "2026-11-18T08:45:15.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "La faille Java4Shell (CVE-2026-114938) menace Keycloak, Jira, Jenkins, etc.",
+   "link": "https://www.it-connect.fr/java4shell-faille-critique-java-openjdk/",
+   "description": "La faille Java4Shell (CVE-2026-114938) menace Java 17 à 27 sur certains CPU, et elle permet une exécution de code à distance sans authentification. Le post La faille Java4Shell (CVE-2026-114938) menace Keycloak, Jira, Jenkins, etc. a été publié sur IT-Connect .",
+   "date": "2026-11-18T08:44:52.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Microsoft Perception : les agents IA spécialisés dans la cybersécurité sont disponibles !",
+   "link": "https://www.it-connect.fr/microsoft-perception-disponibilite-generale-ignite/",
+   "description": "Project Perception devient Microsoft Perception et passe en disponibilité générale : triage des alertes, pentest web, Intune, MCP. Voici l'essentiel à retenir. Le post Microsoft Perception : les agents IA spécialisés dans la cybersécurité sont disponibles ! a été publié sur IT-Connect .",
+   "date": "2026-11-18T07:53:56.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "IKEA, ASOS, Zoom… Plus de 175 sites piratés ont peut-être tenté de voler vos données bancaires",
+   "link": "https://www.01net.com/actualites/ikea-asos-zoom-plus-de-175-sites-pirates-ont-peut-etre-tente-de-voler-vos-donnees-bancaires.html",
+   "description": "178 sites d'entreprises et d'organisations, dont IKEA, ASOS, HSBC et Zoom, ont été exposés à un malware à la suite d'une compromission de la plateforme Optimizely. Ce malware était capable de voler des données bancaires, de remplacer les adresses des portefeuilles de cryptomonnaies et d'installer des kits d'exploitation sur des iPhone et iPad non mis à jour.",
+   "date": "2026-11-18T06:30:05.000Z"
+  },
   {
    "src": "UnderNews",
    "title": "Trouver une carte graphique récente au meilleur prix : les bons réflexes et les offres Grosbill",
@@ -133,20 +224,6 @@
    "date": "2026-11-17T07:58:23.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "Cyberattaque : 765 000 euros d’or dérobés à des clients",
-   "link": "https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/",
-   "description": "Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.",
-   "date": "2026-11-17T07:47:16.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Rassemblement National : une seconde fuite de données ?",
-   "link": "https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/",
-   "description": "Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.",
-   "date": "2026-11-17T06:29:20.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "GTA 6 : la Nouvelle-Zélande jouera 12 heures avant la France, attention aux arnaques",
    "link": "https://www.it-connect.fr/gta-6-heure-sortie-nouvelle-zelande-arnaques/",
@@ -168,60 +245,11 @@
    "date": "2026-11-16T19:47:53.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "WhiteArmor recrute des complices pour infiltrer les entreprises",
-   "link": "https://www.zataz.com/whitearmor-recrute-des-complices-pour-infiltrer-les-entreprises/",
-   "description": "WhiteArmor recrute des employés complices et achète des accès VPN, Azure et Okta pour infiltrer de grandes entreprises.",
-   "date": "2026-11-16T18:03:56.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Maersk : un pirate réclame 5 millions de dollars",
-   "link": "https://www.zataz.com/maersk-un-pirate-reclame-5-millions-de-dollars/",
-   "description": "WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.",
-   "date": "2026-11-16T17:50:58.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Gootloader : une opération frappe 100 serveurs infectés",
-   "link": "https://www.zataz.com/gootloader-une-operation-frappe-100-serveurs-infectes/",
-   "description": "Une opération internationale contre Gootloader neutralise plus de 100 serveurs liés à 25 000 infections.",
-   "date": "2026-11-16T17:33:02.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Corée du Nord : Washington frappe les voleurs de cryptos",
-   "link": "https://www.zataz.com/coree-du-nord-washington-frappe-les-voleurs-de-cryptos/",
-   "description": "Le DOJ annonce des saisies liées aux vols de cryptomonnaies nord-coréens et démantèle des infrastructures FaceStealer.",
-   "date": "2026-11-16T17:27:41.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Expedia : un pirate revendique un vol massif de données",
-   "link": "https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/",
-   "description": "Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.",
-   "date": "2026-11-16T16:57:49.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Quantum Systems : une cyberattaque inquiète l’armée allemande",
-   "link": "https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/",
-   "description": "Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.",
-   "date": "2026-11-16T16:48:18.000Z"
-  },
-  {
    "src": "01net",
    "title": "Le chercheur en guerre contre Microsoft dévoile une 16ᵉ faille Windows, elle peut désactiver votre antivirus",
    "link": "https://www.01net.com/actualites/pc-windows-vulnerables-le-chercheur-en-guerre-contre-microsoft-devoile-une-16e-faille-elle-peut-desactiver-votre-antivirus.html",
    "description": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus. Aucun correctif n'est encore disponible, et 80 % des ordinateurs Windows dans le monde",
    "date": "2026-11-16T16:01:42.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Deepfakes : une fraude présumée à 129 millions de dollars",
-   "link": "https://www.zataz.com/deepfakes-une-fraude-presumee-a-129-millions-de-dollars/",
-   "description": "Trois hommes sont accusés d'une fraude à 129 millions de dollars utilisant des deepfakes et l'ingénierie sociale.",
-   "date": "2026-11-16T15:57:48.000Z"
   },
   {
    "src": "UnderNews",
@@ -245,13 +273,6 @@
    "date": "2026-11-16T10:00:08.000Z"
   },
   {
-   "src": "01net",
-   "title": "Google corrige 83 nouvelles failles Chrome, dont 5 vulnérabilités critiques",
-   "link": "https://www.01net.com/actualites/google-corrige-83-nouvelles-failles-chrome-dont-5-vulnerabilites-critiques.html",
-   "description": "Google a déployé une nouvelle mise à jour de sécurité pour Chrome. Elle corrige 83 failles, dont cinq brèches jugées critiques. On vous recommande d'installer la mise à jour sans tarder. C'est déjà la deuxième mise à jour de Chrome en une semaine.",
-   "date": "2026-11-16T07:46:42.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
@@ -264,13 +285,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
    "description": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire sur le serveur. Cette publication marque également la fin du support de PostgreSQL 14, dont la version 14.25 constitue la dernière mise à jour.",
    "date": "2026-11-16T07:38:50.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Fuite de données géante à La Poste : « 22 millions de personnes sont concernées » par une cyberattaque massive",
-   "link": "https://www.01net.com/actualites/fuite-donnees-geante-poste-22-millions-personnes-concernees-cyberattaque-massive.html",
-   "description": "Maileva, une filiale de La Poste spécialisée dans l'envoi de courriers pour les entreprises, a été piratée. Les noms, les prénoms et les adresses postales de 22 millions de personnes ont été dérobés. Le groupe a porté plainte. On vous dit tout ce qu'il faut savoir sur cette nouvelle fuite massive.",
-   "date": "2026-11-15T14:05:47.000Z"
   },
   {
    "src": "IT-Connect",
@@ -329,25 +343,11 @@
    "date": "2026-11-12T19:40:50.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026",
-   "link": "https://www.it-connect.fr/reactiv-anssi-point-situation-fuites-donnees-caf-france-travail/",
-   "description": "64 violations de données signalées depuis fin septembre : l'ANSSI publie son 2e point REACTIV. CAF, France Travail, OFB... avec toujours les mêmes failles. Le post CAF, France Travail, OFB… l’ANSSI fait le point sur les fuites de données d’octobre 2026 a été publié sur IT-Connect .",
-   "date": "2026-11-12T16:51:27.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
    "description": "Zoom a publié des correctifs pour deux vulnérabilités affectant Workplace sous Windows, dont une faille critique d’élévation de privilèges notée 9,6 sur l’échelle CVSS. Référencées CVE-2026-108186 et CVE-2026-108187, elles pourraient permettre à un attaquant non authentifié d’obtenir des privilèges supplémentaires à distance, à condition que l’utilisateur interagisse. Les entreprises sont invitées",
    "date": "2026-11-12T10:46:15.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL",
-   "link": "https://www.it-connect.fr/nas-synology-dsm-failles-sans-authentification-novembre-2026/",
-   "description": "Synology a corrigé deux failles dans DSM exploitables sans authentification, dont une injection SQL critique. Voici les versions à installer sur votre NAS. Le post NAS Synology : deux failles exploitables sans authentification dans DSM, dont une injection SQL a été publié sur IT-Connect .",
-   "date": "2026-11-12T10:15:00.000Z"
   },
   {
    "src": "Le Monde Informatique",
