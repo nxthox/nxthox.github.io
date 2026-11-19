@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T02:56:59.847Z",
+ "updated": "2026-11-19T11:21:50.181Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,48 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Fuite de données chez Chargemap : des millions de conducteurs sont touchés par une cyberattaque",
+   "link": "https://www.01net.com/actualites/fuite-donnees-chargemap-millions-conducteurs-touches-cyberattaque.html",
+   "description": "Chargemap, l’application française qui aide les conducteurs de voitures électriques à trouver une borne de recharge sur leur route, a été piratée. Adresses mail, numéros de téléphone, dates de naissance et empreintes de mots de passe… Une multitude de données a été dérobée. L’entreprise strasbourgeoise a commencé à prévenir tous les conducteurs concernés par la cyberattaque.",
+   "date": "2026-11-19T10:00:52.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
+   "description": "À l’approche de l’élection présidentielle de 2027, Numeum présente cinq propositions pour faire de la France et de l’Europe une puissance industrielle numérique. Le syndicat professionnel appelle notamment à porter les dépenses de recherche et développement à 4 % du PIB d’ici 2035, à mobiliser davantage la commande publique en faveur des entreprises technologiques et à renforcer la compétitivité e",
+   "date": "2026-11-19T09:27:33.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Zimperium alerte sur des cyberattaques ciblant les iPhones depuis des sites majeurs : BBC, CNN et Zoom",
+   "link": "https://www.undernews.fr/hacking-hacktivisme/zimperium-alerte-sur-des-cyberattaques-ciblant-les-iphones-depuis-des-sites-majeurs-bbc-cnn-et-zoom.html",
+   "description": "Au moins 21 sites web ont diffusé des scripts malveillants capables d’exposer les utilisateurs d’iPhone aux attaques Coruna et DarkSword, sans aucune action de leur part. Tribune – Zimperium, spécialiste de la sécurité des appareils mobiles, alerte sur une campagne de cyberattaques exploitant des scripts JavaScript tiers compromis pour cibler les utilisateurs d’iPhone sur des […] The post Zimperiu",
+   "date": "2026-11-19T08:46:16.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "« Improbable et grave » : l’IA a découvert une faille planétaire dans un langage informatique « dont nous dépendons tous »",
+   "link": "https://www.01net.com/actualites/improbable-et-grave-lia-a-decouvert-une-faille-planetaire-dans-un-langage-informatique-dont-nous-dependons-tous.html",
+   "description": "Une faille critique, baptisée Java4Shell, a été découverte dans le code de Java, un langage informatique omniprésent dans les banques, les hôpitaux et les grandes entreprises. Débusquée en une heure grâce à l’IA d’OpenAI, elle permet de prendre le contrôle de serveurs sans mot de passe. Des États-Unis à l’Allemagne, les autorités appellent tout le monde à installer le correctif sans attendre.",
+   "date": "2026-11-19T07:33:56.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Chrome croule sous les failles : Google déploie la troisième mise à jour de sécurité en huit jours",
+   "link": "https://www.01net.com/actualites/chrome-croule-sous-les-failles-google-deploie-la-troisieme-mise-a-jour-de-securite-en-huit-jours.html",
+   "description": "Google vient de déployer une nouvelle mise à jour de Chrome qui corrige 204 failles de sécurité, dont six vulnérabilités critiques. C’est la troisième mise à jour de sécurité du navigateur en à peine plus d’une semaine. Cette cadence effrénée repose l'essor sur l’intelligence artificielle, qui débusque les vulnérabilités à un rythme jamais vu.",
+   "date": "2026-11-19T06:07:30.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "PHP va corriger au moins une faille critique ce jeudi : préparez-vous à mettre à jour PHP 8.2 à 8.5",
+   "link": "https://www.it-connect.fr/mise-a-jour-php-faille-critique-19-novembre-2026/",
+   "description": "Ce 19 novembre 2026, au moins une faille de sécurité critique sera corrigée dans les branches 8.2 à 8.5 de PHP, et sans doute la CVE-2026-115560. Le post PHP va corriger au moins une faille critique ce jeudi : préparez-vous à mettre à jour PHP 8.2 à 8.5 a été publié sur IT-Connect .",
+   "date": "2026-11-19T05:55:10.000Z"
+  },
   {
    "src": "IT-Connect",
    "title": "NGINX2Root : deux failles critiques permettent de prendre le contrôle d’un serveur NGINX",
@@ -189,27 +231,6 @@
    "date": "2026-11-17T14:13:59.000Z"
   },
   {
-   "src": "01net",
-   "title": "Le hacker de GTA 6 plaide coupable : il a bien piraté Rockstar Games en 2022",
-   "link": "https://www.01net.com/actualites/le-hacker-de-gta-6-plaide-coupable-il-a-bien-pirate-rockstar-games-en-2022.html",
-   "description": "Arion Kurtaj, le Britannique à l’origine de la fuite massive de Grand Theft Auto VI en 2022, a plaidé coupable le 16 novembre 2026 devant la justice britannique. Le tout à quelques jours de la sortie du jeu le plus attendu de tous les temps.",
-   "date": "2026-11-17T13:03:30.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Apple serre la vis aux IA qui fouillent dans les fichiers de votre Mac",
-   "link": "https://www.01net.com/actualites/apple-serre-vis-face-ia-fouillent-fichiers-mac.html",
-   "description": "Apple prend les devants face aux dérives des agents IA. Avec la mise à jour macOS 27.3, le géant de Cupertino change les règles pour les applications IA qui réclament un accès total à votre Mac, comme ChatGPT, Claude ou Gemini. La mise à jour doit vous faire comprendre ce que vous risquez avant d'ouvrir toutes les portes de vos fichiers à des intelligences artificielles.",
-   "date": "2026-11-17T12:06:55.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Fausses pubs sur Facebook et Instagram : la Française des jeux attaque Meta en justice",
-   "link": "https://www.01net.com/actualites/fausses-pubs-facebook-instagram-francaise-des-jeux-attaque-meta-en-justice.html",
-   "description": "La Française des jeux tape du poing sur la table et attaque directement la maison mère de Facebook et Instagram en justice. La FDJ accuse en effet Meta de diffuser des publicités trompeuses qui détournent sa marque.",
-   "date": "2026-11-17T11:25:54.000Z"
-  },
-  {
    "src": "ZATAZ",
    "title": "Faux coursiers bancaires : trois équipes interpellées",
    "link": "https://www.zataz.com/faux-coursiers-bancaires-trois-equipes-interpellees/",
@@ -315,20 +336,6 @@
    "date": "2026-11-16T00:00:00.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi",
-   "link": "https://www.it-connect.fr/check-point-php2shell-wiper-esxi-tsga/",
-   "description": "PHP2Shell et une faille zero-day de Gaia OS ont permis de pirater des passerelles Check Point, avant le déploiement d'un wiper sur un hôte VMware ESXi. Le post Passerelles Check Point piratées via PHP2Shell : une porte dérobée et un wiper pour VMware ESXi a été publié sur IT-Connect .",
-   "date": "2026-11-14T05:00:00.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Panne chez Microsoft : comment les hackers peuvent tirer parti de la situation",
-   "link": "https://www.undernews.fr/reseau-securite/panne-chez-microsoft-comment-les-hackers-peuvent-tirer-parti-de-la-situation.html",
-   "description": "La panne mondiale qui touche Microsoft 365 depuis hier, perturbant l’accès aux outils collaboratifs de milliers d’entreprises, a créé un contexte d’urgence et de confusion particulièrement propice aux cyberattaques. Lorsque les canaux de communication habituels sont hors service, les collaborateurs deviennent en effet des cibles de choix pour les campagnes d’ingénierie sociale se faisant passer […",
-   "date": "2026-11-13T16:30:37.000Z"
-  },
-  {
    "src": "Le Monde Informatique",
    "title": "Rennes va accueillir un centre international dédié à l’IA de défense",
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
@@ -432,13 +439,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep",
    "description": "Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes. Certaines avaient abandonné la plateforme sans révoquer ses autorisations. Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre",
    "date": "2026-11-10T07:47:39.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "NIS 2 : la loi Résilience arrive enfin à l’Assemblée",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
-   "description": "Le projet de loi Résilience est examiné en séance publique après plusieurs reports. Son adoption doit permettre de préciser le cadre réglementaire applicable aux milliers d’organisations concernées.",
-   "date": "2026-11-10T06:30:04.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
