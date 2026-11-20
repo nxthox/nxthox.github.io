@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T02:02:11.205Z",
+ "updated": "2026-11-20T10:58:16.779Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,27 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "« Rien ne laisse à penser que les choses vont s’arranger » : face aux cyberattaques IA, la France contre-attaque",
+   "link": "https://www.01net.com/actualites/rien-ne-laisse-penser-choses-arranger-face-cyberattaques-ia-france-contre-attaque.html",
+   "description": "Le Premier ministre Sébastien Lecornu tire la sonnette d'alarme. Face à une menace cyber « particulièrement grave et inédite », dopée par l’intelligence artificielle, le gouvernement a détaillé son plan pour riposter. Alors que « rien ne laisse à penser que les choses vont s’arranger », la France veut combattre les attaques animées par l'IA... avec l'IA.",
+   "date": "2026-11-20T09:05:50.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Cyberattaque contre la Commission européenne",
+   "link": "https://www.undernews.fr/alertes-securite/cyberattaque-contre-la-commission-europeenne.html",
+   "description": "La Commission européenne a confirmé aujourd’hui avoir été la cible d’une cyberattaque menée à l’aide d’outils d’intelligence artificielle. Selon les premières informations publiées par Politico, plusieurs systèmes informatiques ont été perturbés pendant une dizaine de jours, tandis que l’ampleur d’une éventuelle compromission des données reste à déterminer. Tribune – À la suite de cette attaque, [",
+   "date": "2026-11-20T08:15:13.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "NAS Synology : une mise à jour DSM corrige deux failles critiques, dont NGINX2Root",
+   "link": "https://www.it-connect.fr/nginx2root-synology-dsm-faille-oauth-cve-2026-120382/",
+   "description": "Synology a publié deux bulletins critiques pour DSM : la faille NGINX2Root et une faille notée 9,8 sur 10 dans OAuth Service. Voici comment protéger votre NAS. Le post NAS Synology : une mise à jour DSM corrige deux failles critiques, dont NGINX2Root a été publié sur IT-Connect .",
+   "date": "2026-11-20T06:04:17.000Z"
+  },
   {
    "src": "IT-Connect",
    "title": "VMware vCenter : une faille critique exploitée comme zero-day depuis septembre 2026",
@@ -259,13 +280,6 @@
    "date": "2026-11-18T07:53:56.000Z"
   },
   {
-   "src": "01net",
-   "title": "IKEA, ASOS, Zoom… Plus de 175 sites piratés ont peut-être tenté de voler vos données bancaires",
-   "link": "https://www.01net.com/actualites/ikea-asos-zoom-plus-de-175-sites-pirates-ont-peut-etre-tente-de-voler-vos-donnees-bancaires.html",
-   "description": "178 sites d'entreprises et d'organisations, dont IKEA, ASOS, HSBC et Zoom, ont été exposés à un malware à la suite d'une compromission de la plateforme Optimizely. Ce malware était capable de voler des données bancaires, de remplacer les adresses des portefeuilles de cryptomonnaies et d'installer des kits d'exploitation sur des iPhone et iPad non mis à jour.",
-   "date": "2026-11-18T06:30:05.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Trouver une carte graphique récente au meilleur prix : les bons réflexes et les offres Grosbill",
    "link": "https://www.undernews.fr/culture-web-emploi/bons-plans-high-tech/trouver-une-carte-graphique-recente-au-meilleur-prix-les-bons-reflexes-et-les-offres-grosbill.html",
@@ -299,20 +313,6 @@
    "link": "https://www.undernews.fr/alertes-securite/cyberattaque-maileva-lanalyse-de-delinea.html",
    "description": "La cyberattaque dont a été victime ce week-end Maileva, filiale du groupe La Poste, aurait entraîné une fuite de données concernant près de 22 millions de personnes. Si cet incident rappelle l’impératif de sécurité qui pèse sur les sous-traitants manipulant des volumes massifs d’informations sensibles, il souligne aussi une réalité critique pour leurs entreprises clientes […] The post Cyberattaque",
    "date": "2026-11-17T09:34:00.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Cyberattaques sur Android : Zimperium découvre un malware qui utilise l’IA pour identifier les données bancaires de ses victimes",
-   "link": "https://www.undernews.fr/malwares-virus-antivirus/cyberattaques-sur-android-zimperium-decouvre-un-malware-qui-utilise-lia-pour-identifier-les-donnees-bancaires-de-ses-victimes.html",
-   "description": "zLabs, l’équipe de recherche de Zimperium, spécialiste de la sécurité des appareils mobiles, a mené de nouvelles analyses sur ArcticRAT, un malware ciblant les smartphones Android. Les chercheurs ont identifié 78 échantillons de ce malware, dont les versions récentes utilisent L’IA pour identifier les données financières les plus intéressantes parmi les informations dérobées aux utilisateurs […] T",
-   "date": "2026-11-17T09:04:18.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "NoisyTCP : cette faille du noyau Linux vieille de 11 ans permet de faire planter un serveur à distance",
-   "link": "https://www.it-connect.fr/noisytcp-cve-2026-99288-faille-noyau-linux-tcp/",
-   "description": "Des paquets TCP bien synchronisés, et tout le serveur tombe. NoisyTCP (CVE-2026-99288), une faille Linux vieille de 11 ans menace les serveurs Linux. Le post NoisyTCP : cette faille du noyau Linux vieille de 11 ans permet de faire planter un serveur à distance a été publié sur IT-Connect .",
-   "date": "2026-11-17T07:58:23.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
