@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:17:45.868Z",
+ "updated": "2026-11-21T17:08:51.317Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,13 @@
   }
  ],
  "items": [
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
+   "link": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
+   "description": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
+   "date": "2026-11-21T13:39:38.000Z"
+  },
   {
    "src": "01net",
    "title": "Cyberattaques en cours dans le « monde entier » : le FBI alerte sur une vague d’intrusions menées par ARTEX, une redoutable IA",
@@ -145,13 +152,6 @@
    "link": "https://www.zataz.com/un-sms-blaster-decouvert-dans-une-voiture/",
    "description": "Un SMS blaster découvert dans une voiture est associé à neuf victimes et à des SMS frauduleux se faisant passer pour la police.",
    "date": "2026-11-19T16:33:54.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Luxor : des récompenses Bitcoin détournées",
-   "link": "https://www.zataz.com/luxor-des-recompenses-bitcoin-detournees/",
-   "description": "Luxor confirme le détournement de puissance de calcul Bitcoin après une compromission de sa plateforme Commander.",
-   "date": "2026-11-19T16:19:45.000Z"
   },
   {
    "src": "IT-Connect",
