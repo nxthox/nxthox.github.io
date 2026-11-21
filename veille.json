@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:07:26.986Z",
+ "updated": "2026-11-21T09:17:45.868Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,13 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Cyberattaques en cours dans le « monde entier » : le FBI alerte sur une vague d’intrusions menées par ARTEX, une redoutable IA",
+   "link": "https://www.01net.com/actualites/cyberattaques-cours-monde-entier-fbi-alerte-vague-intrusions-menees-artex-redoutable-dopee-modeles-chinois.html",
+   "description": "Le FBI tire la sonnette d'alarme. Partout dans le monde, des pirates mènent des cyberattaques en série grâce à ARTEX, un outil d'intelligence artificielle qui pirate presque tout seul. Branché le plus souvent sur des modèles chinois comme DeepSeek, il peut prendre le contrôle d'un réseau en moins de trois heures.",
+   "date": "2026-11-21T07:06:10.000Z"
+  },
   {
    "src": "ZATAZ",
    "title": "Actualités cybersécurité de la semaine du 16 novembre 2026",
@@ -271,13 +278,6 @@
    "link": "https://www.01net.com/actualites/faux-sentiment-secret-face-ia-google-devoiler-failles-securite-trois-fois-plus-vite.html",
    "description": "Project Zero, l'équipe d'élite de Google spécialisée dans la chasse aux failles, change ses règles. D'ici 2028, elle ne laissera plus que 30 jours aux éditeurs pour corriger une brèche avant de la rendre publique, contre 90 jours aujourd'hui. En cause : l'intelligence artificielle, qui permet aux pirates d'exploiter les failles plus vite que jamais.",
    "date": "2026-11-18T13:08:42.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Mon Espace Santé et le DMP tournent désormais sur une seule plateforme, hébergée en France par Atos",
-   "link": "https://www.01net.com/actualites/mon-espace-sante-et-le-dmp-tournent-desormais-sur-une-seule-plateforme-hebergee-en-france-par-atos.html",
-   "description": "Le carnet de santé numérique des Français et le dossier médical alimenté par les soignants partagent à présent la même machinerie. L’opération s’est conclue sans qu’aucun des 69 millions de profils concernés n’ait eu un geste à faire.",
-   "date": "2026-11-18T12:00:44.000Z"
   },
   {
    "src": "IT-Connect",
