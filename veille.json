@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:50:58.422Z",
+ "updated": "2026-11-22T10:47:43.608Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -253,6 +253,20 @@
   },
   {
    "src": "UnderNews",
+   "title": "Plus lucides sur les dangers hors ligne des cyberviolences, 55 % des femmes pointent des risques de répercussions physiques, selon Kaspersky",
+   "link": "https://www.undernews.fr/hypernews-mag/plus-lucides-sur-les-dangers-hors-ligne-des-cyberviolences-55-des-femmes-pointent-des-risques-de-repercussions-physiques-selon-kaspersky.html",
+   "description": "À la veille de la Journée internationale pour l’élimination de la violence à l’égard des femmes, Kaspersky présente les résultats d’une enquête réalisée par son centre interne d’études de marché*. Il en ressort que les femmes anticipent davantage que les hommes la répercussion des violences facilitées par la technologie sous forme de préjudices concrets dans […] The post Plus lucides sur les dange",
+   "date": "2026-11-18T16:27:40.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Enquête Ipsos bva « Les Français, les jeux vidéo et la sortie de GTA 6 »",
+   "link": "https://www.undernews.fr/hypernews-mag/enquete-ipsos-bva-les-francais-les-jeux-video-et-la-sortie-de-gta-6.html",
+   "description": "À l’occasion de la journée mondiale du jeu vidéo et à la veille de la sortie mondiale de GTA 6, une nouvelle étude Ipsos bva réalisée par l’omnibus Ipsos. Digital analyse le rapport des Français aux jeux vidéo et à la célèbre licence GTA. Le jeu vidéo est devenu un loisir important en France avec […] The post Enquête Ipsos bva « Les Français, les jeux vidéo et la sortie de GTA 6 » first appeared o",
+   "date": "2026-11-18T16:24:32.000Z"
+  },
+  {
+   "src": "UnderNews",
    "title": "Jeux vidéo : Flare révèle comment les cybercriminels exploitent l’engouement pour le gaming pour dérober les données des joueurs",
    "link": "https://www.undernews.fr/reseau-securite/jeux-video-flare-revele-comment-les-cybercriminels-exploitent-lengouement-pour-le-gaming-pour-derober-les-donnees-des-joueurs.html",
    "description": "À l’approche de la sortie de GTA VI une étude de Flare alerte sur la multiplication des infostealers qui visent les gamers. Tribune Flare – L’actualité du jeu vidéo bat son plein avec les sorties de Grand Theft Auto VI et de The Legend of Zelda: Ocarina of Time. Une effervescence dont profitent aussi les […] The post Jeux vidéo : Flare révèle comment les cybercriminels exploitent l’engouement pour",
@@ -355,20 +369,6 @@
    "link": "https://www.undernews.fr/reseau-securite/cybersecurite-les-tpe-ne-peuvent-plus-rester-les-oubliees-de-la-protection-numerique.html",
    "description": "La transformation numérique des TPE et PME a profondément modifié leur fonctionnement. Applications hébergées dans le cloud, outils collaboratifs, logiciels accessibles à distance : le numérique est désormais au cœur de leur activité. Cette évolution s’accompagne néanmoins d’une exposition croissante aux risques cyber. Longtemps considérées comme des cibles secondaires, les petites structures cons",
    "date": "2026-11-17T09:50:16.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Étude GTIG : Quand l’IA pirate seule, une première observée par Google",
-   "link": "https://www.undernews.fr/hacking-hacktivisme/etude-gtig-quand-lia-pirate-seule-une-premiere-observee-par-google.html",
-   "description": "Google publie aujourd’hui son rapport AI Threat Tracker du quatrième trimestre du GTIG, qui met en lumière l’évolution des usages malveillants de l’intelligence artificielle dans les cyberattaques. Tribune – Les conclusions de ce trimestre marquent un tournant. Pour la première fois, le GTIG a observé un attaquant utiliser un agent IA pour transformer des correctifs […] The post Étude GTIG : Quand",
-   "date": "2026-11-17T09:48:28.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Cyberattaque Maileva : L’analyse de Delinea",
-   "link": "https://www.undernews.fr/alertes-securite/cyberattaque-maileva-lanalyse-de-delinea.html",
-   "description": "La cyberattaque dont a été victime ce week-end Maileva, filiale du groupe La Poste, aurait entraîné une fuite de données concernant près de 22 millions de personnes. Si cet incident rappelle l’impératif de sécurité qui pèse sur les sous-traitants manipulant des volumes massifs d’informations sensibles, il souligne aussi une réalité critique pour leurs entreprises clientes […] The post Cyberattaque",
-   "date": "2026-11-17T09:34:00.000Z"
   },
   {
    "src": "Le Monde Informatique",
