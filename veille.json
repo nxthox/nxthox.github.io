@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:00:28.619Z",
+ "updated": "2026-11-23T08:38:01.148Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,41 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Après une cyberattaque, Nissan coupe un outil vital pour ses concessionnaires",
+   "link": "https://www.01net.com/actualites/apres-une-cyberattaque-nissan-coupe-un-outil-vital-pour-ses-concessionnaires.html",
+   "description": "Nissan a été victime d’une cyberattaque. Un outil de diagnostic, utilisé par ses concessionnaires dans le monde entier, a été compromis. Certaines réparations électroniques et la programmation de clés de remplacement sont bloquées depuis des semaines.",
+   "date": "2026-11-23T08:31:12.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Specops lance une API pour vérifier l’identité des utilisateurs dans vos outils : chatbots IA, ITSM, etc.",
+   "link": "https://www.it-connect.fr/api-specops-authentication/",
+   "description": "Specops lance l'API Specops Authentication : vérifiez l'identité d'un utilisateur depuis un chatbot IA ou ServiceNow avant toute action sensible. Le post Specops lance une API pour vérifier l’identité des utilisateurs dans vos outils : chatbots IA, ITSM, etc. a été publié sur IT-Connect .",
+   "date": "2026-11-23T08:00:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM",
+   "link": "https://www.it-connect.fr/gl-inet-goodcloud-routeurs-kvm-malware/",
+   "description": "GL.iNet confirme qu'une faille de son cloud GoodCloud a servi à installer un malware sur des routeurs et des KVM. Voici ce qu'il faut savoir. Le post GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM a été publié sur IT-Connect .",
+   "date": "2026-11-23T07:49:13.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Ledger : un pirate piège d’autres pirates avec un faux fichier",
+   "link": "https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/",
+   "description": "Sur un forum pirate, une prétendue nouvelle fuite de données Ledger dissimule un piège. ZATAZ a suivi la manœuvre.",
+   "date": "2026-11-23T01:31:54.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque à Chambourcy : INC Ransom revendique l’attaque",
+   "link": "https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/",
+   "description": "Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.",
+   "date": "2026-11-23T00:36:24.000Z"
+  },
   {
    "src": "ZATAZ",
    "title": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
@@ -133,25 +168,11 @@
    "date": "2026-11-19T18:17:20.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "Un SMS blaster aurait perturbé 10 000 mobiles",
-   "link": "https://www.zataz.com/un-sms-blaster-aurait-perturbe-10-000-mobiles/",
-   "description": "À Tokyo, un suspect est arrêté après une opération de SMS blaster ayant perturbé plus de 10 000 téléphones.",
-   "date": "2026-11-19T16:43:51.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Cyberattaque contre la Commission européenne : les pirates auraient utilisé l’outil ARTEX",
    "link": "https://www.it-connect.fr/commission-europeenne-cyberattaque-artex/",
    "description": "La Commission européenne confirme une cyberattaque qui a perturbé ses applications internes. Selon POLITICO, les pirates auraient utilisé ARTEX. Le post Cyberattaque contre la Commission européenne : les pirates auraient utilisé l’outil ARTEX a été publié sur IT-Connect .",
    "date": "2026-11-19T16:40:11.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Un SMS blaster découvert dans une voiture",
-   "link": "https://www.zataz.com/un-sms-blaster-decouvert-dans-une-voiture/",
-   "description": "Un SMS blaster découvert dans une voiture est associé à neuf victimes et à des SMS frauduleux se faisant passer pour la police.",
-   "date": "2026-11-19T16:33:54.000Z"
   },
   {
    "src": "IT-Connect",
@@ -271,27 +292,6 @@
    "link": "https://www.it-connect.fr/fbi-artex-framework-ia-cyberattaques/",
    "description": "Le FBI alerte sur ARTEX, un framework de pentest piloté par l'IA détourné par des pirates. Certaines intrusions atteignent un accès admin en moins de 3 heures. Le post FBI : avec ARTEX, certaines intrusions atteignent un accès privilégié en moins de trois heures a été publié sur IT-Connect .",
    "date": "2026-11-18T15:45:00.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "« Un faux sentiment de secret » : face à l’IA, Google prend une décision qui divise le monde de la cybersécurité",
-   "link": "https://www.01net.com/actualites/faux-sentiment-secret-face-ia-google-devoiler-failles-securite-trois-fois-plus-vite.html",
-   "description": "Project Zero, l'équipe d'élite de Google spécialisée dans la chasse aux failles, change ses règles. D'ici 2028, elle ne laissera plus que 30 jours aux éditeurs pour corriger une brèche avant de la rendre publique, contre 90 jours aujourd'hui. En cause : l'intelligence artificielle, qui permet aux pirates d'exploiter les failles plus vite que jamais.",
-   "date": "2026-11-18T13:08:42.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "La faille Java4Shell (CVE-2026-114938) menace Keycloak, Jira, Jenkins, etc.",
-   "link": "https://www.it-connect.fr/java4shell-faille-critique-java-openjdk/",
-   "description": "La faille Java4Shell (CVE-2026-114938) menace Java 17 à 27 sur certains CPU, et elle permet une exécution de code à distance sans authentification. Le post La faille Java4Shell (CVE-2026-114938) menace Keycloak, Jira, Jenkins, etc. a été publié sur IT-Connect .",
-   "date": "2026-11-18T08:44:52.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Microsoft Perception : les agents IA spécialisés dans la cybersécurité sont disponibles !",
-   "link": "https://www.it-connect.fr/microsoft-perception-disponibilite-generale-ignite/",
-   "description": "Project Perception devient Microsoft Perception et passe en disponibilité générale : triage des alertes, pentest web, Intune, MCP. Voici l'essentiel à retenir. Le post Microsoft Perception : les agents IA spécialisés dans la cybersécurité sont disponibles ! a été publié sur IT-Connect .",
-   "date": "2026-11-18T07:53:56.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
