@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:38:01.148Z",
+ "updated": "2026-11-23T20:54:42.239Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,90 @@
   }
  ],
  "items": [
+  {
+   "src": "UnderNews",
+   "title": "Cyberviolences : selon Kaspersky, plus de 6 femmes sur 10 (62 %) ressentent un sentiment d’insécurité en ligne",
+   "link": "https://www.undernews.fr/culture-web-emploi/cyberviolences-selon-kaspersky-plus-de-6-femmes-sur-10-62-ressentent-un-sentiment-dinsecurite-en-ligne.html",
+   "description": "À l’occasion de la Journée internationale pour l’élimination de la violence à l’égard des femmes, Kaspersky revient sur les résultats d’une étude* sur les cyberviolences et les abus facilités par la technologie, réalisée auprès de 7 600 personnes. Il en ressort notamment que près de la moitié des victimes (50 %) désignent une personne de […] The post Cyberviolences : selon Kaspersky, plus de 6 fem",
+   "date": "2026-11-23T16:24:51.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Courtiers en or piratés, dix personnes mises en examen",
+   "link": "https://www.zataz.com/courtiers-en-or-pirates-dix-personnes-mises-en-examen/",
+   "description": "Trois courtiers en métaux précieux piratés, des clients ciblés par de faux policiers et dix personnes mises en examen.",
+   "date": "2026-11-23T12:05:22.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Piratage de frigos de supermarchés : une opération secrète a évité une catastrophe au Royaume-Uni",
+   "link": "https://www.01net.com/actualites/piratage-frigos-supermarches-operation-secrete-evite-catastrophe-royaume-uni.html",
+   "description": "Une opération secrète vient de déjouer une cyberattaque d'envergure. L'opération, étalée sur trois semaines, a permis de protéger des dizaines de milliers de frigos et de congélateurs au Royaume-Uni, touchés par une faille de sécurité. Il s'agit d'une vulnérabilité similaire à celle qui a permis de pirater des centaines de supermarchés en France le mois dernier.",
+   "date": "2026-11-23T12:01:52.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "L’aquaponey, un drôle de cadeau de Noël qui fait réfléchir !",
+   "link": "https://www.zataz.com/laquaponey-un-drole-de-cadeau-de-noel-qui-fait-reflechir/",
+   "description": "Un poney sous le sapin pour comprendre comment les algorithmes et l’IA donnent du crédit aux fausses informations.",
+   "date": "2026-11-23T11:53:31.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaque : la Banque Delubac & Cie déjoue une tentative de fraude mais subit une fuite de données",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees",
+   "description": "La Banque Delubac & Cie a été victime d'une intrusion dans ses systèmes d'information, détectée le vendredi 20 novembre. Selon l'établissement ardéchois, les attaquants ont tenté de réaliser des opérations financières frauduleuses, sans y parvenir. L'intrusion a toutefois entraîné une fuite de données concernant une partie de sa clientèle, dont l'étendue n'est pas encore connue.",
+   "date": "2026-11-23T11:16:34.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberespionnage en Bulgarie, 62 millions de pages volées",
+   "link": "https://www.zataz.com/cyberespionnage-en-bulgarie-62-millions-de-pages-volees/",
+   "description": "La Bulgarie révèle cinq ans de cyberespionnage et le vol d’au moins 62 millions de pages.",
+   "date": "2026-11-23T10:59:22.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cleverbridge confirme un vol de données bancaires",
+   "link": "https://www.zataz.com/cleverbridge-confirme-un-vol-de-donnees-bancaires/",
+   "description": "Cleverbridge confirme un vol de données de cartes bancaires. Une notification détaille les numéros, dates et CVV.",
+   "date": "2026-11-23T10:51:12.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Black Friday / Cyber Monday : les commentaires de Filigran",
+   "link": "https://www.undernews.fr/culture-web-emploi/evenements/black-friday-cyber-monday-les-commentaires-de-filigran.html",
+   "description": "À l’approche du Black Friday et du Cyber Monday, vous trouverez ci-dessous les commentaires des experts de Filigran sur la montée en puissance des fausses boutiques en ligne, ainsi que leurs conseils pour s’en protéger. Tribune Filigran. « Les consommateurs trouvent les meilleures offres dans les groupes de discussion. Les professionnels de la cybersécurité trouvent les […] The post Black Friday /",
+   "date": "2026-11-23T10:50:48.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques",
+   "link": "https://www.it-connect.fr/edge-lockdown-mode-webgl-webgpu/",
+   "description": "Microsoft teste dans Edge Canary un Lockdown Mode qui bloque WebGL et WebGPU pour contrer les attaques ciblées. Voici ce qu'il faut savoir sur ce mode. Le post Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques a été publié sur IT-Connect .",
+   "date": "2026-11-23T10:30:00.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "BlackHat Sector : une IA offensive à louer pour 500 €",
+   "link": "https://www.zataz.com/blackhat-sector-une-ia-offensive-a-louer-pour-500-e/",
+   "description": "BlackHat Sector commercialise une IA offensive après des cyberattaques revendiquées contre des sociétés françaises.",
+   "date": "2026-11-23T10:29:10.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "Cyberattaque contre AAAEP : 585 000 personnes exposées ?",
+   "link": "https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/",
+   "description": "AAAEP visée par BlackHatSect0r : 585 000 personnes potentiellement concernées, données psychotechniques et appels exposés.",
+   "date": "2026-11-23T10:19:58.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "BlackHatSect0r : phishing bancaire, extorsion et industrie",
+   "link": "https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/",
+   "description": "BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes et interfaces industrielles exposées.",
+   "date": "2026-11-23T09:51:37.000Z"
+  },
   {
    "src": "01net",
    "title": "Après une cyberattaque, Nissan coupe un outil vital pour ses concessionnaires",
@@ -75,55 +159,6 @@
    "link": "https://www.01net.com/actualites/cyberattaques-cours-monde-entier-fbi-alerte-vague-intrusions-menees-artex-redoutable-dopee-modeles-chinois.html",
    "description": "Le FBI tire la sonnette d'alarme. Partout dans le monde, des pirates mènent des cyberattaques en série grâce à ARTEX, un outil d'intelligence artificielle qui pirate presque tout seul. Branché le plus souvent sur des modèles chinois comme DeepSeek, il peut prendre le contrôle d'un réseau en moins de trois heures.",
    "date": "2026-11-21T07:06:10.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Actualités cybersécurité de la semaine du 16 novembre 2026",
-   "link": "https://www.zataz.com/actualites-cybersecurite-de-la-semaine-du-16-novembre-2026/",
-   "description": "Retrouvez les actualités cybersécurité ZATAZ de la semaine du 16 novembre 2026 : fuite de données chez Maileva, amende de la CNIL et faux coursiers bancaires.",
-   "date": "2026-11-20T16:09:30.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "NON, c’est NON. Sauf quand il réclame une rançon.",
-   "link": "https://www.zataz.com/non-cest-non-sauf-quand-il-reclame-une-rancon/",
-   "description": "n0n revendique 179 fuites de données. Le maritime arrive en tête et un groupe pharmaceutique français est cité.",
-   "date": "2026-11-20T15:53:02.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Panne à la NSA, données du DoJ en vente selon un pirate",
-   "link": "https://www.zataz.com/panne-a-la-nsa-donnees-du-doj-en-vente-selon-un-pirate/",
-   "description": "La NSA confirme une panne de NSANet. ZATAZ repère une vente de données attribuées à la Justice américaine.",
-   "date": "2026-11-20T14:16:03.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "NoName revendique un accès aux caméras d’une salle de jeux",
-   "link": "https://www.zataz.com/noname-revendique-un-acces-aux-cameras-dune-salle-de-jeux/",
-   "description": "NoName revendique un accès aux caméras d’une salle de jeux allemande et utilise la vidéosurveillance à des fins de propagande.",
-   "date": "2026-11-20T13:39:14.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Accès piratés à vendre comme des pains au chocolat",
-   "link": "https://www.zataz.com/acces-pirates-a-vendre-comme-des-pains-au-chocolat/",
-   "description": "ZATAZ décrypte quatre offres d’accès piratés et les risques de fraude liés aux bases de données et aux clés SMS.",
-   "date": "2026-11-20T12:30:18.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "France Travail : 4,15 millions de nouvelles lignes en vente ?",
-   "link": "https://www.zataz.com/france-travail-415-millions-de-nouvelles-lignes-en-vente/",
-   "description": "France Travail : deux fichiers de 4,15 millions de lignes sont proposés à la vente. ZATAZ retrace les fuites depuis 2021.",
-   "date": "2026-11-20T12:25:52.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Hell’s r00ts 2.0 : les vieux hackers n’ont pas dit leur dernier mot",
-   "link": "https://www.zataz.com/hells-r00ts-2-0-les-vieux-hackers-nont-pas-dit-leur-dernier-mot/",
-   "description": "Avec Hell’s r00ts 2.0, Antoine Champagne ressuscite les pionniers du hacking dans un thriller cyber passionnant.",
-   "date": "2026-11-20T12:05:59.000Z"
   },
   {
    "src": "IT-Connect",
@@ -259,6 +294,69 @@
    "date": "2026-11-19T00:00:00.000Z"
   },
   {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
+   "description": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Drupal (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1579/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
+   "description": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
+   "description": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
+   "description": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+   "date": "2026-11-19T00:00:00.000Z"
+  },
+  {
    "src": "IT-Connect",
    "title": "NGINX2Root : deux failles critiques permettent de prendre le contrôle d’un serveur NGINX",
    "link": "https://www.it-connect.fr/nginx2root-failles-cve-2026-123007-rce/",
@@ -280,69 +378,6 @@
    "date": "2026-11-18T16:22:40.000Z"
   },
   {
-   "src": "01net",
-   "title": "Vous utilisez l’un des 20 pires mots de passe de France ? Changez-le immédiatement",
-   "link": "https://www.01net.com/actualites/vous-utilisez-lun-des-20-pires-mots-de-passe-de-france-changez-le-immediatement.html",
-   "description": "NordPass dévoile son traditionnel palmarès annuel des pires mots de passe. Cette année, l'indétrônable « 123456 » reprend la première place en France. Entre « azerty », « Marseille13 » et « skibiditoilet », les internautes continuent de faire des choix déplorables en matière de cybersécurité.",
-   "date": "2026-11-18T16:05:17.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "FBI : avec ARTEX, certaines intrusions atteignent un accès privilégié en moins de trois heures",
-   "link": "https://www.it-connect.fr/fbi-artex-framework-ia-cyberattaques/",
-   "description": "Le FBI alerte sur ARTEX, un framework de pentest piloté par l'IA détourné par des pirates. Certaines intrusions atteignent un accès admin en moins de 3 heures. Le post FBI : avec ARTEX, certaines intrusions atteignent un accès privilégié en moins de trois heures a été publié sur IT-Connect .",
-   "date": "2026-11-18T15:45:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Oracle Weblogic (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1565/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Oracle MySQL (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1563/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Oracle PeopleSoft (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1564/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Oracle Virtualization (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1566/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
-   "description": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en version 2. Le...",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
-   "description": "Le 17 novembre 2026, Oracle a publié un avis de sécurité concernant la vulnérabilité CVE-2026-114938, surnommée *java4shell*, qui affecte le décodeur Base64 de OpenJDK sur les processeurs x86-64 supportant AVX-512 VBMI. Celle-ci permet à un attaquant de provoquer une exécution de code arbitraire...",
-   "date": "2026-11-18T00:00:00.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Trouver une carte graphique récente au meilleur prix : les bons réflexes et les offres Grosbill",
    "link": "https://www.undernews.fr/culture-web-emploi/bons-plans-high-tech/trouver-une-carte-graphique-recente-au-meilleur-prix-les-bons-reflexes-et-les-offres-grosbill.html",
@@ -355,20 +390,6 @@
    "link": "https://www.undernews.fr/reseau-securite/cybersecurite-les-tpe-ne-peuvent-plus-rester-les-oubliees-de-la-protection-numerique.html",
    "description": "La transformation numérique des TPE et PME a profondément modifié leur fonctionnement. Applications hébergées dans le cloud, outils collaboratifs, logiciels accessibles à distance : le numérique est désormais au cœur de leur activité. Cette évolution s’accompagne néanmoins d’une exposition croissante aux risques cyber. Longtemps considérées comme des cibles secondaires, les petites structures cons",
    "date": "2026-11-17T09:50:16.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Étude GTIG : Quand l’IA pirate seule, une première observée par Google",
-   "link": "https://www.undernews.fr/hacking-hacktivisme/etude-gtig-quand-lia-pirate-seule-une-premiere-observee-par-google.html",
-   "description": "Google publie aujourd’hui son rapport AI Threat Tracker du quatrième trimestre du GTIG, qui met en lumière l’évolution des usages malveillants de l’intelligence artificielle dans les cyberattaques. Tribune – Les conclusions de ce trimestre marquent un tournant. Pour la première fois, le GTIG a observé un attaquant utiliser un agent IA pour transformer des correctifs […] The post Étude GTIG : Quand",
-   "date": "2026-11-17T09:48:28.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Cyberattaque Maileva : L’analyse de Delinea",
-   "link": "https://www.undernews.fr/alertes-securite/cyberattaque-maileva-lanalyse-de-delinea.html",
-   "description": "La cyberattaque dont a été victime ce week-end Maileva, filiale du groupe La Poste, aurait entraîné une fuite de données concernant près de 22 millions de personnes. Si cet incident rappelle l’impératif de sécurité qui pèse sur les sous-traitants manipulant des volumes massifs d’informations sensibles, il souligne aussi une réalité critique pour leurs entreprises clientes […] The post Cyberattaque",
-   "date": "2026-11-17T09:34:00.000Z"
   },
   {
    "src": "Le Monde Informatique",
@@ -425,27 +446,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cisco-et-ibm-vont-integrer-mythos-a-leurs-outils-d",
    "description": "Cisco et IBM préparent l’intégration de Claude Mythos dans leurs produits de sécurité. Le premier utilisera le modèle d’Anthropic pour renforcer les tests offensifs des systèmes d’IA. Le second vise la détection et la correction de vulnérabilités logicielles. Ces projets élargissent l’accès aux capacités de Mythos, avec des conditions d’utilisation et des calendriers distincts.",
    "date": "2026-11-10T10:58:58.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Qubole : des accès cloud oubliés exposent les entreprises au vol de données",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep",
-   "description": "Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes. Certaines avaient abandonné la plateforme sans révoquer ses autorisations. Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre",
-   "date": "2026-11-10T07:47:39.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits Mattermost (04 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1458/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
-   "date": "2026-11-04T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Mattermost Server (20 octobre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1344/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-   "date": "2026-10-20T00:00:00.000Z"
   }
  ]
 }
