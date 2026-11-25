@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:57:29.041Z",
+ "updated": "2026-11-25T11:04:06.963Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,55 @@
   }
  ],
  "items": [
+  {
+   "src": "ZATAZ",
+   "title": "Faux jeu Ducros sur TikTok, le piège du coffret de Noël",
+   "link": "https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/",
+   "description": "ZATAZ retrace le faux jeu Ducros sur TikTok, du coffret d’épices de Noël au formulaire de carte bancaire.",
+   "date": "2026-11-25T10:46:52.000Z"
+  },
+  {
+   "src": "ZATAZ",
+   "title": "CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup",
+   "link": "https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/",
+   "description": "Le CHU de Bordeaux confirme une intrusion. ScarlettGroup menace de publier des données et revendique aussi SIG Sauer.",
+   "date": "2026-11-25T07:40:26.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
+   "description": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité. Pour Mark Hughes, responsable mondial des services de cybersécurité d’IBM Consulting, les attaquants exploitent désormais les vulnérabilités à une vitesse que les équipes de défense peinent à suivre. Dans un entretien accordé à The Next Web le 24 novembre 20",
+   "date": "2026-11-25T07:30:00.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles",
+   "description": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché. Plusieurs extraits de fichiers, qui mentionneraient notamment Roblox, KPMG et Ferrero, ont été publiés sur son site de divulgation. Ipsos avait reconnu, quelques jours auparavant, une intrusion dans l’un de ses systèmes informa",
+   "date": "2026-11-25T07:00:00.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens",
+   "description": "Les petites communes peinent encore à disposer des compétences et des ressources nécessaires pour protéger leurs systèmes d'information. Devant une commission du Sénat, l'ANSSI et le GIP ACYMA ont plaidé pour un accompagnement de proximité et une meilleure mise en commun des moyens.",
+   "date": "2026-11-25T07:00:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU Academy ont fuité",
+   "link": "https://www.it-connect.fr/eu-academy-fuite-donnees-cyberattaque-commission-europeenne/",
+   "description": "La Commission européenne confirme que la cyberattaque assistée par l'IA a touché EU Academy : noms et e-mails des utilisateurs ont fuité. Le post Cyberattaque Commission européenne : les noms et adresses e-mail des utilisateurs d’EU Academy ont fuité a été publié sur IT-Connect .",
+   "date": "2026-11-25T06:31:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après la faille zero-day",
+   "link": "https://www.it-connect.fr/vmware-vcenter-esx-cve-2026-123903-failles-novembre/",
+   "description": "Cinq jours après la zero-day CVE-2026-123890, Broadcom corrige 23 failles VMware, dont la CVE-2026-123903 dans vCenter et deux failles critiques dans ESX. Le post VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après la faille zero-day a été publié sur IT-Connect .",
+   "date": "2026-11-25T06:05:00.000Z"
+  },
   {
    "src": "01net",
    "title": "Fuite de données chez Decathlon : les informations de 163 000 clients ont été piratées",
@@ -238,20 +287,6 @@
    "date": "2026-11-23T01:31:54.000Z"
   },
   {
-   "src": "ZATAZ",
-   "title": "Cyberattaque à Chambourcy : INC Ransom revendique l’attaque",
-   "link": "https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/",
-   "description": "Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.",
-   "date": "2026-11-23T00:36:24.000Z"
-  },
-  {
-   "src": "ZATAZ",
-   "title": "Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX",
-   "link": "https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/",
-   "description": "ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?",
-   "date": "2026-11-21T13:39:38.000Z"
-  },
-  {
    "src": "01net",
    "title": "Cyberattaques en cours dans le « monde entier » : le FBI alerte sur une vague d’intrusions menées par ARTEX, une redoutable IA",
    "link": "https://www.01net.com/actualites/cyberattaques-cours-monde-entier-fbi-alerte-vague-intrusions-menees-artex-redoutable-dopee-modeles-chinois.html",
@@ -322,25 +357,11 @@
    "date": "2026-11-20T00:00:00.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "VMware vCenter : une faille critique exploitée comme zero-day depuis septembre 2026",
-   "link": "https://www.it-connect.fr/vmware-vcenter-cve-2026-123890-zero-day/",
-   "description": "Broadcom a corrigé la CVE-2026-123890, une faille critique dans VMware vCenter exploitée comme zero-day dès septembre 2026 d'après Mandiant. Le post VMware vCenter : une faille critique exploitée comme zero-day depuis septembre 2026 a été publié sur IT-Connect .",
-   "date": "2026-11-19T19:00:00.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Kaspersky détecte plus de 27 000 attaques ciblant les joueurs dans l’attente de la sortie de GTA VI",
    "link": "https://www.undernews.fr/undernews/kaspersky-detecte-plus-de-27-000-attaques-ciblant-les-joueurs-dans-lattente-de-la-sortie-de-gta-vi.html",
    "description": "Les cybercriminels exploitent l’engouement autour du jeu à travers de faux pré-téléchargements, de faux outils d’activation et des portails de commande frauduleux. Tribune – Les chercheurs de Kaspersky ont mis au jour une vague de cyberattaques exploitant l’attente mondiale autour du lancement de Grand Theft Auto VI. Selon les données télémétriques de Kaspersky, 27 416 […] The post Kaspersky détec",
    "date": "2026-11-19T18:17:20.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Cyberattaque contre la Commission européenne : les pirates auraient utilisé l’outil ARTEX",
-   "link": "https://www.it-connect.fr/commission-europeenne-cyberattaque-artex/",
-   "description": "La Commission européenne confirme une cyberattaque qui a perturbé ses applications internes. Selon POLITICO, les pirates auraient utilisé ARTEX. Le post Cyberattaque contre la Commission européenne : les pirates auraient utilisé l’outil ARTEX a été publié sur IT-Connect .",
-   "date": "2026-11-19T16:40:11.000Z"
   },
   {
    "src": "UnderNews",
@@ -425,27 +446,6 @@
    "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
    "description": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire sur le serveur. Cette publication marque également la fin du support de PostgreSQL 14, dont la version 14.25 constitue la dernière mise à jour.",
    "date": "2026-11-16T07:38:50.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Rennes va accueillir un centre international dédié à l’IA de défense",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
-   "description": "Prévu pour l’été 2027, l’International Center for Artificial Intelligence in Defence (ICAID) réunira plusieurs pays alliés pour travailler sur le développement, l’évaluation et l’interopérabilité des systèmes d’IA militaires.",
-   "date": "2026-11-13T15:51:10.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
-   "description": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle. Présentés le 12 novembre 2026, Daybreak Red Team et Daybreak Defense Factory visent respectivement à automatiser les tests d’intrusion et à accélérer la préparation des correctifs. Avec cette nouvelle offre, l’éditeur entend renforcer les capacités des équipes de sécurité ",
-   "date": "2026-11-13T06:37:37.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
-   "description": "Zoom a publié des correctifs pour deux vulnérabilités affectant Workplace sous Windows, dont une faille critique d’élévation de privilèges notée 9,6 sur l’échelle CVSS. Référencées CVE-2026-108186 et CVE-2026-108187, elles pourraient permettre à un attaquant non authentifié d’obtenir des privilèges supplémentaires à distance, à condition que l’utilisateur interagisse. Les entreprises sont invitées",
-   "date": "2026-11-12T10:46:15.000Z"
   }
  ]
 }
