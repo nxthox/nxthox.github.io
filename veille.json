@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:04:02.666Z",
+ "updated": "2026-11-25T01:57:29.041Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,13 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Fuite de données chez Decathlon : les informations de 163 000 clients ont été piratées",
+   "link": "https://www.01net.com/actualites/fuite-donnees-decathlon-donnees-163-000-clients-piratees.html",
+   "description": "Un pirate a mis en ligne les données de plus de 163 000 fiches clients Decathlon. Le répertoire volé contient des noms, des adresses et même des consignes de livraison précises, qui mettent en danger les Français. L’enseigne confirme avoir enregistré un « accès malveillant » chez l’un de ses prestataires.",
+   "date": "2026-11-24T17:33:28.000Z"
+  },
   {
    "src": "01net",
    "title": "9,6 sur 10 : Google corrige l’une des failles Chrome les plus graves de l’année",
@@ -341,13 +348,6 @@
    "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/black-friday-les-tentatives-de-phishing-bondissent-de-82-debut-novembre.html",
    "description": "En France, les campagnes observées par le Threat Lab de KnowBe4 reprennent notamment l’identité de grandes enseignes comme Samsung, Fnac/Darty, Boots, Amazon et Walmart. Les entreprises françaises sont également ciblées : le secteur de la finance arrive en tête, devant l’ingénierie, l’assurance et les communications. Tribune – KnowBe4, leader mondial de la sécurité des collaborateurs […] The post ",
    "date": "2026-11-19T14:25:12.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Une cyberattaque IA vient de frapper la Commission européenne : 10 jours de systèmes paralysés et des données volées",
-   "link": "https://www.01net.com/actualites/cyberattaque-ia-vient-frapper-commission-europeenne-plusieurs-systemes-paralyses-pendant-dix-jours.html",
-   "description": "La Commission européenne a été visée par une cyberattaque. Menée avec ARTEX, un outil de piratage dopé à l’IA, l'attaque a paralysé plusieurs systèmes internes pendant une dizaine de jours. Une enquête est toujours en cours.",
-   "date": "2026-11-19T14:00:25.000Z"
   },
   {
    "src": "UnderNews",
