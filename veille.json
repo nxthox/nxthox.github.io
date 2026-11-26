@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:44:21.908Z",
+ "updated": "2026-11-26T22:50:13.701Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,55 @@
   }
  ],
  "items": [
+  {
+   "src": "UnderNews",
+   "title": "Black Friday sous alerte : Kaspersky détecte 3 fois plus d’attaques de phishing ciblant les acheteurs en ligne sur un an",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/black-friday-sous-alerte-kaspersky-detecte-3-fois-plus-dattaques-de-phishing-ciblant-les-acheteurs-en-ligne-sur-un-an.html",
+   "description": "Kaspersky a bloqué plus de 19 millions d’attaques de phishing visant les acheteurs en ligne ainsi que les utilisateurs de services bancaires au cours des dix premiers mois de 2026, soit près du triple par rapport à l’année précédente. Cette année encore, les hackers ont multiplié les fausses bonnes affaires, les spams et les logiciels […] The post Black Friday sous alerte : Kaspersky détecte 3 foi",
+   "date": "2026-11-26T17:29:43.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "La FIFA a été piratée : des données personnelles et professionnelles ont été compromises",
+   "link": "https://www.01net.com/actualites/la-fifa-a-ete-piratee-des-donnees-personnelles-et-professionnelles-ont-ete-compromises.html",
+   "description": "La FIFA confirme avoir été victime d’une cyberattaque. Les pirates ont eu accès à une foule de données personnelles et professionnelles à la suite de l'intrusion. Un nouveau gang spécialisé dans les attaques par ransomware, le Handsome Boys Hacking Club, revendique la cyberattaque.",
+   "date": "2026-11-26T16:31:05.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Les lunettes Meta dans le viseur de la justice néerlandaise",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise",
+   "description": "Deux associations néerlandaises demandent à la justice de suspendre la commercialisation des lunettes connectées de Meta et Ray-Ban. Elles dénoncent un dispositif qui permet de filmer des personnes à leur insu, en contradiction avec les règles européennes sur la protection de la vie privée.",
+   "date": "2026-11-26T16:18:59.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Jusqu’à 50 navires piratés via des failles FortiGate : l’Iran soupçonné par les États-Unis",
+   "link": "https://www.it-connect.fr/navires-pirates-iran-fortigate/",
+   "description": "Pétroliers, méthanier : jusqu'à 50 navires auraient subi une cyberattaque via des pare-feu FortiGate non patchés. Washington soupçonne l'Iran. Le post Jusqu’à 50 navires piratés via des failles FortiGate : l’Iran soupçonné par les États-Unis a été publié sur IT-Connect .",
+   "date": "2026-11-26T16:14:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "La FIFA confirme une cyberattaque : le Handsome Boy Hacking Club revendique le vol de données",
+   "link": "https://www.it-connect.fr/fifa-cyberattaque-handsome-boy-hacking-club-fuite-donnees/",
+   "description": "La FIFA confirme un vol de données personnelles et professionnelles, revendiqué par le Handsome Boy Hacking Club : voici ce que l'on sait. Le post La FIFA confirme une cyberattaque : le Handsome Boy Hacking Club revendique le vol de données a été publié sur IT-Connect .",
+   "date": "2026-11-26T15:22:58.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "RGPD : le registre allégé pour les entreprises de moins de 1 000 salariés",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rgpd-le-registre-allege-pour-les-entreprises-de-moins-de-1-000-salaries",
+   "description": "Les eurodéputés ont adopté une mesure de simplification qui dispense certaines entreprises de tenir un registre exhaustif de leurs traitements de données personnelles. Cette évolution du RGPD, intégrée au règlement Omnibus IV, maintient toutefois des obligations pour les activités présentant des risques élevés.",
+   "date": "2026-11-26T14:39:32.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaque : la FIFA confirme le vol de données personnelles et professionnelles",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-fifa-confirme-le-vol-de-donnees-personnelles-et-professionnelles",
+   "description": "La Fédération internationale de football (FIFA) a été victime d'une cyberattaque ayant permis à des pirates d'accéder à des informations personnelles et professionnelles. l'organisation assure que les documents liés à son projet controversé de cession d'une partie de ses activités commerciales n'ont pas été touchés.",
+   "date": "2026-11-26T13:46:15.000Z"
+  },
   {
    "src": "Le Monde Informatique",
    "title": "1Password victime d'une intrusion via GitHub",
@@ -217,20 +266,6 @@
    "date": "2026-11-24T14:14:10.000Z"
   },
   {
-   "src": "Le Monde Informatique",
-   "title": "Cybersécurité : des failles Bluetooth permettent de contrôler à distance les freins de remorques",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-des-failles-bluetooth-permettent-de-controler-a-distance-les-freins-de-remorques",
-   "description": "Des chercheurs en cybersécurité ont découvert plusieurs vulnérabilités critiques dans les contrôleurs de freinage Bluetooth du fabricant australien Elecbrakes. Ces failles permettent à une personne située à portée du signal radio d'activer ou de modifier la puissance de freinage d'une remorque sans authentification préalable. Deux modèles ont reçu des correctifs, mais un équipement plus ancien res",
-   "date": "2026-11-24T11:45:01.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
-   "description": "Face au renchérissement des infrastructures et à la multiplication des projets d'IA, les entreprises doivent revoir leurs arbitrages numériques. Lors d'une table ronde organisée au TechShow Paris le 18 novembre, trois intervenants ont plaidé pour des investissements guidés par les besoins métiers, la maîtrise des compétences et la continuité d'activité.",
-   "date": "2026-11-24T11:25:03.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Google Chrome : une seule faille corrigée, mais elle est critique (CVE-2026-134401)",
    "link": "https://www.it-connect.fr/cve-2026-134401-faille-critique-chrome/",
@@ -238,25 +273,11 @@
    "date": "2026-11-24T10:33:39.000Z"
   },
   {
-   "src": "Le Monde Informatique",
-   "title": "Règlementation : les entreprises doivent intégrer les contraintes dès la conception de leurs systèmes IT",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/reglementation-les-entreprises-doivent-integrer-les-contraintes-des-la-conception-de-leurs-systemes-it",
-   "description": "Avec l'accumulation des réglementations européennes, de l'IA Act à NIS 2 en passant par le RGPD et DORA, la conformité devient un enjeu structurant pour les directions IT. Lors d'une conférence organisée au TechShow Paris le 18 novembre, trois intervenants ont plaidé pour une approche intégrée dès la conception des systèmes, tout en alertant sur la complexité du cadre réglementaire européen.",
-   "date": "2026-11-24T09:30:57.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Neutralisé en 2019 par la gendarmerie, le ver USB Retadup revient pour distribuer CoffeeLoader",
    "link": "https://www.it-connect.fr/retadup-ver-usb-coffeeloader/",
    "description": "Démantelé en 2019 par la gendarmerie, le botnet du ver USB Retadup a été réactivé via ses anciens domaines. Il distribue désormais le loader CoffeeLoader. Le post Neutralisé en 2019 par la gendarmerie, le ver USB Retadup revient pour distribuer CoffeeLoader a été publié sur IT-Connect .",
    "date": "2026-11-24T08:00:00.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Cyberattaque contre la Commission européenne : des données personnelles ont été volées, des hackers chinois sont suspectés",
-   "link": "https://www.01net.com/actualites/cyberattaque-contre-commission-europeenne-chine-soupconnee-donnees-personnelles-volees.html",
-   "description": "On en sait un peu plus sur la cyberattaque qui a frappé la Commission européenne. Selon la Commission, les noms et adresses e-mail des utilisateurs de l’EU Academy, une plateforme de formation en ligne, ont été dérobés. En interne, Bruxelles soupçonne un groupe de pirates chinois, mandatés par Pékin.",
-   "date": "2026-11-24T07:59:49.000Z"
   },
   {
    "src": "IT-Connect",
@@ -336,18 +357,25 @@
    "date": "2026-11-23T09:51:37.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Specops lance une API pour vérifier l’identité des utilisateurs dans vos outils : chatbots IA, ITSM, etc.",
-   "link": "https://www.it-connect.fr/api-specops-authentication/",
-   "description": "Specops lance l'API Specops Authentication : vérifiez l'identité d'un utilisateur depuis un chatbot IA ou ServiceNow avant toute action sensible. Le post Specops lance une API pour vérifier l’identité des utilisateurs dans vos outils : chatbots IA, ITSM, etc. a été publié sur IT-Connect .",
-   "date": "2026-11-23T08:00:00.000Z"
+   "src": "CERT-FR (ANSSI)",
+   "title": "Bulletin d'actualité CERTFR-2026-ACT-049 (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-049/",
+   "description": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+   "date": "2026-11-23T00:00:00.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM",
-   "link": "https://www.it-connect.fr/gl-inet-goodcloud-routeurs-kvm-malware/",
-   "description": "GL.iNet confirme qu'une faille de son cloud GoodCloud a servi à installer un malware sur des routeurs et des KVM. Voici ce qu'il faut savoir. Le post GL.iNet : des pirates ont exploité le cloud GoodCloud pour infecter des routeurs et des KVM a été publié sur IT-Connect .",
-   "date": "2026-11-23T07:49:13.000Z"
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
+   "description": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
+   "date": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans MongoDB (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1606/",
+   "description": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-23T00:00:00.000Z"
   },
   {
    "src": "UnderNews",
@@ -365,13 +393,6 @@
   },
   {
    "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Siemens Industrial Edge (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1590/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Siemens Industrial Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
    "title": "Multiples vulnérabilités dans les produits IBM (20 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1597/",
    "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
@@ -379,44 +400,30 @@
   },
   {
    "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1592/",
-   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1593/",
-   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits Mattermost (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1588/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans Apache Tomcat (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1587/",
-   "description": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans GitLab (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1591/",
-   "description": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
    "title": "Multiples vulnérabilités dans le noyau Linux de Debian (20 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1594/",
    "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+   "date": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1596/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un déni de service.",
+   "date": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
+   "description": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "date": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
+   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
    "date": "2026-11-20T00:00:00.000Z"
   },
   {
@@ -432,13 +439,6 @@
    "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/black-friday-les-tentatives-de-phishing-bondissent-de-82-debut-novembre.html",
    "description": "En France, les campagnes observées par le Threat Lab de KnowBe4 reprennent notamment l’identité de grandes enseignes comme Samsung, Fnac/Darty, Boots, Amazon et Walmart. Les entreprises françaises sont également ciblées : le secteur de la finance arrive en tête, devant l’ingénierie, l’assurance et les communications. Tribune – KnowBe4, leader mondial de la sécurité des collaborateurs […] The post ",
    "date": "2026-11-19T14:25:12.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Rapport HarfangLab : seuls 34 % des dirigeants français déclarent avoir des règles claires sur les données partagées",
-   "link": "https://www.undernews.fr/reseau-securite/rapport-harfanglab-seuls-34-des-dirigeants-francais-declarent-avoir-des-regles-claires-sur-les-donnees-partagees.html",
-   "description": "Selon le dernier rapport d’HarfangLab, 77% des dirigeants européens interrogés prévoyaient d’augmenter leurs investissements dans l’IA et l’automatisation, alors que seuls 44% déclarent disposer de règles claires sur les données pouvant être saisies dans les outils d’IA. Tribune – En France 47% des dirigeants interrogés placent l’adoption de l’intelligence artificielle parmi les principales priori",
-   "date": "2026-11-19T13:50:46.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
