@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:58:17.645Z",
+ "updated": "2026-11-26T13:44:21.908Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,55 @@
   }
  ],
  "items": [
+  {
+   "src": "Le Monde Informatique",
+   "title": "1Password victime d'une intrusion via GitHub",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/1password-victime-d-une-intrusion-via-github",
+   "description": "Le gestionnaire de mots de passe a subi une compromission de ses systèmes internes à la suite du piratage d'un compte GitHub d'entreprise. Si les coffres-forts chiffrés n'ont pas été affectés, des informations personnelles et des données techniques ont été exfiltrées, exposant les utilisateurs à des campagnes d'hameçonnage ciblées.",
+   "date": "2026-11-26T10:28:36.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Fuite de données chez 1Password : faut-il changer vos mots de passe de toute urgence ?",
+   "link": "https://www.01net.com/actualites/fuite-de-donnees-chez-1password-faut-il-changer-vos-mots-de-passe-de-toute-urgence.html",
+   "description": "Des pirates se sont introduits dans les systèmes de 1Password. Une fois à l'intérieur, ils ont dérobé les noms, les adresses e-mail et d’autres informations liées aux comptes de clients du gestionnaire de mots de passe. À la suite de cette cyberattaque, faut-il changer tous vos mots de passe ? On répond à toutes vos questions.",
+   "date": "2026-11-26T08:33:18.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "De faux tests de recrutement ciblent les développeurs .NET via NuGet",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget",
+   "description": "Une campagne malveillante cible les développeurs .NET en diffusant de faux exercices techniques de recrutement contenant des dépendances NuGet compromises. Dans un rapport publié le 23 novembre 2026, Socket indique avoir identifié 13 paquets suspects, déclinés en 28 versions et associés à quatre comptes de publication. À cette date, douze avaient été retirés de NuGet, mais le paquet WinUI.Button 1",
+   "date": "2026-11-26T08:15:00.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
+   "description": "L’utilisation d’Artex, un framework de tests d’intrusion piloté par des agents d’intelligence artificielle, progresse dans les campagnes malveillantes. Selon Microsoft Threat Intelligence, plusieurs groupes liés à des États et des acteurs cybercriminels l’exploitent pour automatiser la reconnaissance de réseaux, les attaques contre les identifiants et la recherche de vulnérabilités. Dans certaines",
+   "date": "2026-11-26T07:30:00.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "ARTEX a encore frappé : l’IA est soupçonnée d’avoir piraté un réseau de la CIA",
+   "link": "https://www.01net.com/actualites/artex-encore-frappe-ia-soupconnee-avoir-pirate-un-reseau-de-la-cia.html",
+   "description": "Un réseau informatique de la CIA a été piraté. Selon le New York Times, les pirates se sont servis d’ARTEX, un outil de piratage dopé à l’IA. C'est le même outil qui est impliqué dans la cyberattaque contre la Commission européenne.",
+   "date": "2026-11-26T05:54:52.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ?",
+   "link": "https://www.it-connect.fr/cyberattaque-1password-novembre-2026/",
+   "description": "1Password confirme une cyberattaque : des données clients volées sur des serveurs suite à la compromission du compte GitHub d'un salarié. Le post Cyberattaque 1Password : devez-vous vous inquiéter pour vos mots de passe ? a été publié sur IT-Connect .",
+   "date": "2026-11-26T05:51:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Signature NTLM : les mises à jour de novembre 2026 perturbent l’authentification sur Windows",
+   "link": "https://www.it-connect.fr/windows-novembre-2026-echec-authentification-ntlm-proxy-sso/",
+   "description": "Depuis les mises à jour Windows de novembre 2026, l'authentification NTLM peut échouer dans certains cas, notamment avec les proxys et certains SSO. Le post Signature NTLM : les mises à jour de novembre 2026 perturbent l’authentification sur Windows a été publié sur IT-Connect .",
+   "date": "2026-11-26T05:17:49.000Z"
+  },
   {
    "src": "Le Monde Informatique",
    "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
@@ -210,13 +259,6 @@
    "date": "2026-11-24T07:59:49.000Z"
   },
   {
-   "src": "01net",
-   "title": "Une arnaque vise les stations-service et les distributeurs de billets en France : comment éviter de se faire piéger ?",
-   "link": "https://www.01net.com/actualites/une-arnaque-vise-les-stations-service-et-les-distributeurs-de-billets-en-france-comment-eviter-de-se-faire-pieger.html",
-   "description": "Une nouvelle arnaque particulièrement sophistiquée cible les stations-service et les distributeurs de billets. Pour parvenir à leurs fins, les arnaqueurs utilisent une minuscule caméra et un dispositif capable de copier les données bancaires. S’il est difficile de repérer cette arnaque, un élément précis peut alerter sur la situation.",
-   "date": "2026-11-24T06:00:39.000Z"
-  },
-  {
    "src": "IT-Connect",
    "title": "Entra Connect Health : une faille exploitée a exposé les e-mails des admins de tenants Microsoft",
    "link": "https://www.it-connect.fr/entra-connect-health-faille-exploitee-metadonnees-tenants/",
@@ -238,25 +280,11 @@
    "date": "2026-11-23T12:05:22.000Z"
   },
   {
-   "src": "01net",
-   "title": "Piratage de frigos de supermarchés : une opération secrète a évité une catastrophe au Royaume-Uni",
-   "link": "https://www.01net.com/actualites/piratage-frigos-supermarches-operation-secrete-evite-catastrophe-royaume-uni.html",
-   "description": "Une opération secrète vient de déjouer une cyberattaque d'envergure. L'opération, étalée sur trois semaines, a permis de protéger des dizaines de milliers de frigos et de congélateurs au Royaume-Uni, touchés par une faille de sécurité. Il s'agit d'une vulnérabilité similaire à celle qui a permis de pirater des centaines de supermarchés en France le mois dernier.",
-   "date": "2026-11-23T12:01:52.000Z"
-  },
-  {
    "src": "ZATAZ",
    "title": "L’aquaponey, un drôle de cadeau de Noël qui fait réfléchir !",
    "link": "https://www.zataz.com/laquaponey-un-drole-de-cadeau-de-noel-qui-fait-reflechir/",
    "description": "Un poney sous le sapin pour comprendre comment les algorithmes et l’IA donnent du crédit aux fausses informations.",
    "date": "2026-11-23T11:53:31.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Cyberattaque : la Banque Delubac & Cie déjoue une tentative de fraude mais subit une fuite de données",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-la-banque-delubac-cie-dejoue-une-tentative-de-fraude-mais-subit-une-fuite-de-donnees",
-   "description": "La Banque Delubac & Cie a été victime d'une intrusion dans ses systèmes d'information, détectée le vendredi 20 novembre. Selon l'établissement ardéchois, les attaquants ont tenté de réaliser des opérations financières frauduleuses, sans y parvenir. L'intrusion a toutefois entraîné une fuite de données concernant une partie de sa clientèle, dont l'étendue n'est pas encore connue.",
-   "date": "2026-11-23T11:16:34.000Z"
   },
   {
    "src": "ZATAZ",
@@ -322,25 +350,11 @@
    "date": "2026-11-23T07:49:13.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et menace BitLocker",
-   "link": "https://www.it-connect.fr/fastunlock-zero-day-windows-11-bitlocker-narrateur/",
-   "description": "FastUnlock, nouvelle zero-day publiée par Nightmare Eclipse, contourne l'écran de verrouillage de Windows 11 via le Narrateur et menace BitLocker. Le post FastUnlock : une faille zero-day Windows 11 contourne l’écran de verrouillage et menace BitLocker a été publié sur IT-Connect .",
-   "date": "2026-11-20T11:06:58.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Cyberattaque contre la Commission européenne",
    "link": "https://www.undernews.fr/alertes-securite/cyberattaque-contre-la-commission-europeenne.html",
    "description": "La Commission européenne a confirmé aujourd’hui avoir été la cible d’une cyberattaque menée à l’aide d’outils d’intelligence artificielle. Selon les premières informations publiées par Politico, plusieurs systèmes informatiques ont été perturbés pendant une dizaine de jours, tandis que l’ampleur d’une éventuelle compromission des données reste à déterminer. Tribune – À la suite de cette attaque, [",
    "date": "2026-11-20T08:15:13.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "NAS Synology : une mise à jour DSM corrige deux failles critiques, dont NGINX2Root",
-   "link": "https://www.it-connect.fr/nginx2root-synology-dsm-faille-oauth-cve-2026-120382/",
-   "description": "Synology a publié deux bulletins critiques pour DSM : la faille NGINX2Root et une faille notée 9,8 sur 10 dans OAuth Service. Voici comment protéger votre NAS. Le post NAS Synology : une mise à jour DSM corrige deux failles critiques, dont NGINX2Root a été publié sur IT-Connect .",
-   "date": "2026-11-20T06:04:17.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
@@ -427,25 +441,11 @@
    "date": "2026-11-19T13:50:46.000Z"
   },
   {
-   "src": "Le Monde Informatique",
-   "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
-   "description": "À l’approche de l’élection présidentielle de 2027, Numeum présente cinq propositions pour faire de la France et de l’Europe une puissance industrielle numérique. Le syndicat professionnel appelle notamment à porter les dépenses de recherche et développement à 4 % du PIB d’ici 2035, à mobiliser davantage la commande publique en faveur des entreprises technologiques et à renforcer la compétitivité e",
-   "date": "2026-11-19T09:27:33.000Z"
-  },
-  {
    "src": "CERT-FR (ANSSI)",
    "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
    "description": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
    "date": "2026-11-17T00:00:00.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
-   "description": "Cursor a détaillé les circonstances de la cyberattaque ayant permis la diffusion d’une version malveillante de l’extension Claude Code sur sa marketplace. Dans un rapport publié le 13 novembre 2026, l’éditeur affirme qu’une clé d’accès compromise chez son fournisseur Fireworks AI a permis aux attaquants d’accéder à plusieurs systèmes internes et à des données clients.",
-   "date": "2026-11-16T07:39:57.000Z"
   }
  ]
 }
