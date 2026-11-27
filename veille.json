@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:50:13.701Z",
+ "updated": "2026-11-27T04:49:25.293Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -180,6 +180,13 @@
    "link": "https://www.undernews.fr/reseau-securite/cybersecurite-2027-lia-la-cryptographie-post-quantique-et-lautomatisation-de-la-confiance-numerique-au-coeur-des-priorites-des-entreprises.html",
    "description": "Entre montée en puissance de l’IA, transition post-quantique et automatisation de la gestion des certificats, Keyfactor, leader des infrastructures de confiance à l’ère de l’IA et de l’informatique quantique, identifie les grandes tendances qui redéfiniront la cybersécurité des entreprises en 2027. Chris Hickman, Chief Security Officer, et Ellen Boehm, SVP Strategy & AI Innovation, livrent […] The",
    "date": "2026-11-25T10:39:38.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "À 16 ans, de la cybersécurité des CTF à la sécurité des agents IA : les leçons de Zyntrava Shield",
+   "link": "https://www.undernews.fr/hypernews-mag/a-16-ans-de-la-cybersecurite-des-ctf-a-la-securite-des-agents-ia-les-lecons-de-zyntrava-shield.html",
+   "description": "À Kénitra, entre les cours de mathématiques et la préparation des examens, je passe une partie de mon temps libre à comprendre comment les systèmes informatiques peuvent être attaqués et mieux protégés. Je m’appelle Mohamed Reda Mejhed, j’ai 16 ans et je m’intéresse à la cybersécurité depuis plusieurs années. Dans une première tribune publiée par […] The post À 16 ans, de la cybersécurité des CTF ",
+   "date": "2026-11-25T10:31:57.000Z"
   },
   {
    "src": "ZATAZ",
@@ -432,13 +439,6 @@
    "link": "https://www.undernews.fr/undernews/kaspersky-detecte-plus-de-27-000-attaques-ciblant-les-joueurs-dans-lattente-de-la-sortie-de-gta-vi.html",
    "description": "Les cybercriminels exploitent l’engouement autour du jeu à travers de faux pré-téléchargements, de faux outils d’activation et des portails de commande frauduleux. Tribune – Les chercheurs de Kaspersky ont mis au jour une vague de cyberattaques exploitant l’attente mondiale autour du lancement de Grand Theft Auto VI. Selon les données télémétriques de Kaspersky, 27 416 […] The post Kaspersky détec",
    "date": "2026-11-19T18:17:20.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Black Friday : les tentatives de phishing bondissent de 82 % début novembre",
-   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/black-friday-les-tentatives-de-phishing-bondissent-de-82-debut-novembre.html",
-   "description": "En France, les campagnes observées par le Threat Lab de KnowBe4 reprennent notamment l’identité de grandes enseignes comme Samsung, Fnac/Darty, Boots, Amazon et Walmart. Les entreprises françaises sont également ciblées : le secteur de la finance arrive en tête, devant l’ingénierie, l’assurance et les communications. Tribune – KnowBe4, leader mondial de la sécurité des collaborateurs […] The post ",
-   "date": "2026-11-19T14:25:12.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
