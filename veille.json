@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:49:25.293Z",
+ "updated": "2026-11-27T14:45:03.990Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,76 @@
   }
  ],
  "items": [
+  {
+   "src": "Le Monde Informatique",
+   "title": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/binance-retablit-les-retraits-apres-le-piratage-de-6-3-md-de-crypto-actifs",
+   "description": "Près d’un mois après le vol de crypto-actifs survenu le 29 octobre, Binance annonce avoir achevé la remise en service des retraits sur sa plateforme. L’exchange avait suspendu cette fonctionnalité pour contenir l’incident et sécuriser ses infrastructures, après la compromission de plusieurs portefeuilles.",
+   "date": "2026-11-27T14:39:12.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Intelligence artificielle et épargne : 37 % des Français ont déjà utilisé l’IA pour leurs placements financiers",
+   "link": "https://www.undernews.fr/banque-cartes-bancaires/intelligence-artificielle-et-epargne-37-des-francais-ont-deja-utilise-lia-pour-leurs-placements-financiers.html",
+   "description": "Ipsos bva réalisé à l’occasion de son partenariat avec Investir Day 2026, une étude consacrée à la place de l’intelligence artificielle dans les pratiques d’épargne et d’investissement des Français. Alors que 37 % d’entre eux ont déjà eu recours à l’IA pour s’informer ou prendre des décisions en matière financière, son adoption soulève encore des […] The post Intelligence artificielle et épargne :",
+   "date": "2026-11-27T12:47:21.000Z"
+  },
+  {
+   "src": "UnderNews",
+   "title": "Éducation : les attaques de phishing bondissaient de 208 % à l’approche de la rentrée, selon KnowBe4",
+   "link": "https://www.undernews.fr/reseau-securite/phishing-hoax/education-les-attaques-de-phishing-bondissaient-de-208-a-lapproche-de-la-rentree-selon-knowbe4.html",
+   "description": "Une nouvelle analyse de KnowBe4 Threat Labs révèle comment les cybercriminels exploitent le calendrier universitaire, les préoccupations financières des étudiants et la confiance au sein des établissements d’enseignement pour mener leurs attaques. Tribune – KnowBe4, spécialiste de la sécurité des collaborateurs à l’ère numérique, protégeant à la fois les humains et les agents d’IA, dévoile […] The",
+   "date": "2026-11-27T12:37:52.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Victime d’une cyberattaque, l’AFP bloque une plateforme pour contrer les pirates",
+   "link": "https://www.01net.com/actualites/victime-dune-cyberattaque-lafp-bloque-une-plateforme-pour-contrer-les-pirates.html",
+   "description": "L’Agence France-Presse a été visée par une cyberattaque. Dos au mur, l'AFP a coupé sa plateforme AFP Forum, utilisée par les médias pour consulter et télécharger ses contenus. Celle-ci est toujours inaccessible.",
+   "date": "2026-11-27T10:11:14.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cybersécurité : les agents IA prennent le contrôle du cloud plus vite que les entreprises ne sécurisent leurs accès",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-les-agents-ia-prennent-le-controle-du-cloud-plus-vite-que-les-entreprises-ne-securisent-leurs-acces",
+   "description": "99 % des entreprises utilisent des agents IA dans leurs chaînes de développement. Mais leur capacité à modifier du codeet à intervenir en production progresse plus vite que les dispositifs de sécurité, selon une étude de Palo Alto Networks.",
+   "date": "2026-11-27T09:56:54.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Danfoss, Mitel MiCollab, Juniper, Xen Orchestra : la CISA alerte sur 10 failles exploitées",
+   "link": "https://www.it-connect.fr/danfoss-mitel-juniper-xen-orchestra-10-failles-exploitees-cisa/",
+   "description": "La CISA a ajouté 10 failles exploitées à son catalogue KEV : contrôleurs Danfoss, Mitel MiCollab, Juniper et Xen Orchestra. Voici les failles en question. Le post Danfoss, Mitel MiCollab, Juniper, Xen Orchestra : la CISA alerte sur 10 failles exploitées a été publié sur IT-Connect .",
+   "date": "2026-11-27T09:36:00.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaque chez SAP : des soupçons d'accès au code source sur GitHub",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-chez-sap-des-soupcons-d-acces-au-code-source-sur-github",
+   "description": "SAP a confirmé, le 27 novembre 2026, avoir détecté des activités suspectes dans son environnement informatique. Selon plusieurs médias allemands, des attaquants auraient utilisé des jetons d'authentification dérobés à des employés pour accéder à du code source sur GitHub. L'incident, désigné en interne sous le nom de « Project Granite », fait toujours l'objet d'investigations. L'éditeur assure tou",
+   "date": "2026-11-27T09:08:03.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaque contre l'AFP : la plateforme AFP Forum mise hors ligne",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-l-afp-la-plateforme-afp-forum-mise-hors-ligne",
+   "description": "L'Agence France-Presse (AFP) a été victime d'une cyberattaque dans la nuit du 25 au 26 novembre 2026. L'intrusion a conduit l'agence à suspendre temporairement l'accès à AFP Forum, une plateforme utilisée par ses clients pour consulter et télécharger ses contenus. Des solutions de secours ont été proposées aux abonnés, tandis que des investigations sont menées avec l'appui d'experts extérieurs. L'",
+   "date": "2026-11-27T08:27:48.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "MiniMax visé par des soupçons d'exposition de données, Apple retire Talkie de l'App Store",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/minimax-vise-par-des-soupcons-d-exposition-de-donnees-apple-retire-talkie-de-l-app-store",
+   "description": "Le groupe chinois MiniMax fait face à deux affaires distinctes. Selon une enquête de Dragos révélée par Reuters le 26 novembre 2026, des liens confidentiels transmis à ses modèles d'intelligence artificielle auraient été consultés par des parties non identifiées, malgré des demandes de non-conservation des données. Parallèlement, Apple a retiré l'application de compagnons virtuels Talkie de son Ap",
+   "date": "2026-11-27T08:00:00.000Z"
+  },
+  {
+   "src": "IT-Connect",
+   "title": "Drupal : après Fail2Install, une nouvelle faille critique déjà exploitée (CVE-2026-136716)",
+   "link": "https://www.it-connect.fr/drupal-fail2install-cve-2026-136716-faille-exploitee/",
+   "description": "Une semaine après Fail2Install, Drupal a corrigé la CVE-2026-136716, une faille critique de son installeur déjà exploitée. Voici ce qu'il faut savoir. Le post Drupal : après Fail2Install, une nouvelle faille critique déjà exploitée (CVE-2026-136716) a été publié sur IT-Connect .",
+   "date": "2026-11-27T07:52:44.000Z"
+  },
   {
    "src": "UnderNews",
    "title": "Black Friday sous alerte : Kaspersky détecte 3 fois plus d’attaques de phishing ciblant les acheteurs en ligne sur un an",
@@ -98,13 +168,6 @@
    "date": "2026-11-26T08:15:00.000Z"
   },
   {
-   "src": "Le Monde Informatique",
-   "title": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
-   "description": "L’utilisation d’Artex, un framework de tests d’intrusion piloté par des agents d’intelligence artificielle, progresse dans les campagnes malveillantes. Selon Microsoft Threat Intelligence, plusieurs groupes liés à des États et des acteurs cybercriminels l’exploitent pour automatiser la reconnaissance de réseaux, les attaques contre les identifiants et la recherche de vulnérabilités. Dans certaines",
-   "date": "2026-11-26T07:30:00.000Z"
-  },
-  {
    "src": "01net",
    "title": "ARTEX a encore frappé : l’IA est soupçonnée d’avoir piraté un réseau de la CIA",
    "link": "https://www.01net.com/actualites/artex-encore-frappe-ia-soupconnee-avoir-pirate-un-reseau-de-la-cia.html",
@@ -124,13 +187,6 @@
    "link": "https://www.it-connect.fr/windows-novembre-2026-echec-authentification-ntlm-proxy-sso/",
    "description": "Depuis les mises à jour Windows de novembre 2026, l'authentification NTLM peut échouer dans certains cas, notamment avec les proxys et certains SSO. Le post Signature NTLM : les mises à jour de novembre 2026 perturbent l’authentification sur Windows a été publié sur IT-Connect .",
    "date": "2026-11-26T05:17:49.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Black Friday : les cybermenaces dopées à l'IA mettent les distributeurs sous pression",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/black-friday-les-cybermenaces-dopees-a-l-ia-mettent-les-distributeurs-sous-pression",
-   "description": "À l'approche du Black Friday, les enseignes doivent se préparer à une hausse des attaques visant leurs sites, leurs comptes clients et leurs infrastructures de paiement. L'IA accélère les capacités des attaquants, tandis qu'une part importante des petits et moyens distributeurs reste dépourvue d'assurance cyber.",
-   "date": "2026-11-25T15:40:12.000Z"
   },
   {
    "src": "UnderNews",
@@ -182,39 +238,11 @@
    "date": "2026-11-25T10:39:38.000Z"
   },
   {
-   "src": "UnderNews",
-   "title": "À 16 ans, de la cybersécurité des CTF à la sécurité des agents IA : les leçons de Zyntrava Shield",
-   "link": "https://www.undernews.fr/hypernews-mag/a-16-ans-de-la-cybersecurite-des-ctf-a-la-securite-des-agents-ia-les-lecons-de-zyntrava-shield.html",
-   "description": "À Kénitra, entre les cours de mathématiques et la préparation des examens, je passe une partie de mon temps libre à comprendre comment les systèmes informatiques peuvent être attaqués et mieux protégés. Je m’appelle Mohamed Reda Mejhed, j’ai 16 ans et je m’intéresse à la cybersécurité depuis plusieurs années. Dans une première tribune publiée par […] The post À 16 ans, de la cybersécurité des CTF ",
-   "date": "2026-11-25T10:31:57.000Z"
-  },
-  {
    "src": "ZATAZ",
    "title": "CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup",
    "link": "https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/",
    "description": "Le CHU de Bordeaux confirme une intrusion. ScarlettGroup menace de publier des données et revendique aussi SIG Sauer.",
    "date": "2026-11-25T07:40:26.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Cyberattaques dopées à l’IA : IBM appelle les entreprises à anticiper les défaillances",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-dopees-a-l-ia-ibm-appelle-les-entreprises-a-anticiper-les-defaillances",
-   "description": "Face à l’accélération des cyberattaques liée à l’intelligence artificielle, les entreprises doivent revoir leurs stratégies de cybersécurité. Pour Mark Hughes, responsable mondial des services de cybersécurité d’IBM Consulting, les attaquants exploitent désormais les vulnérabilités à une vitesse que les équipes de défense peinent à suivre. Dans un entretien accordé à The Next Web le 24 novembre 20",
-   "date": "2026-11-25T07:30:00.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Cyberattaque contre Ipsos : le groupe Qilin revendique un vol de données sensibles",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaque-contre-ipsos-le-groupe-qilin-revendique-un-vol-de-donnees-sensibles",
-   "description": "Le groupe de cybercriminels Qilin revendique une attaque contre Ipsos et affirme détenir des documents commerciaux appartenant au spécialiste français des études de marché. Plusieurs extraits de fichiers, qui mentionneraient notamment Roblox, KPMG et Ferrero, ont été publiés sur son site de divulgation. Ipsos avait reconnu, quelques jours auparavant, une intrusion dans l’un de ses systèmes informa",
-   "date": "2026-11-25T07:00:00.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "Collectivités territoriales : la cybersécurité passe par la mutualisation des moyens",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/collectivites-territoriales-la-cybersecurite-passe-par-la-mutualisation-des-moyens",
-   "description": "Les petites communes peinent encore à disposer des compétences et des ressources nécessaires pour protéger leurs systèmes d'information. Devant une commission du Sénat, l'ANSSI et le GIP ACYMA ont plaidé pour un accompagnement de proximité et une meilleure mise en commun des moyens.",
-   "date": "2026-11-25T07:00:00.000Z"
   },
   {
    "src": "IT-Connect",
@@ -252,13 +280,6 @@
    "date": "2026-11-24T15:22:02.000Z"
   },
   {
-   "src": "01net",
-   "title": "Mandats d’arrêt, personnes disparues, casiers… des hackers ont piraté la base de données du FBI",
-   "link": "https://www.01net.com/actualites/mandats-darret-personnes-disparues-casiers-des-hackers-ont-pirate-la-base-de-donnees-du-fbi.html",
-   "description": "Le FBI s'est retrouvé dans le viseur des cybercriminels. La police fédérale américaine enquête sur le piratage du NCIC, la base de données criminelles utilisée chaque jour par toutes les polices des États-Unis. À la surprise générale, Donald Trump y voit un « aspect positif ».",
-   "date": "2026-11-24T14:33:47.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Le non-respect des normes de sécurité informatique entraîne la perte de contrats pour 1/4 des PME françaises",
    "link": "https://www.undernews.fr/reseau-securite/le-non-respect-des-normes-de-securite-informatique-entraine-la-perte-de-contrats-pour-1-4-des-pme-francaises.html",
@@ -285,13 +306,6 @@
    "link": "https://www.it-connect.fr/retadup-ver-usb-coffeeloader/",
    "description": "Démantelé en 2019 par la gendarmerie, le botnet du ver USB Retadup a été réactivé via ses anciens domaines. Il distribue désormais le loader CoffeeLoader. Le post Neutralisé en 2019 par la gendarmerie, le ver USB Retadup revient pour distribuer CoffeeLoader a été publié sur IT-Connect .",
    "date": "2026-11-24T08:00:00.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Entra Connect Health : une faille exploitée a exposé les e-mails des admins de tenants Microsoft",
-   "link": "https://www.it-connect.fr/entra-connect-health-faille-exploitee-metadonnees-tenants/",
-   "description": "Une faille dans l'API d'Entra Connect Health a été exploitée pour lire les métadonnées de tenants, dont les e-mails des admins. Voici ce qu'il faut savoir. Le post Entra Connect Health : une faille exploitée a exposé les e-mails des admins de tenants Microsoft a été publié sur IT-Connect .",
-   "date": "2026-11-24T02:00:00.000Z"
   },
   {
    "src": "UnderNews",
@@ -334,13 +348,6 @@
    "link": "https://www.undernews.fr/culture-web-emploi/evenements/black-friday-cyber-monday-les-commentaires-de-filigran.html",
    "description": "À l’approche du Black Friday et du Cyber Monday, vous trouverez ci-dessous les commentaires des experts de Filigran sur la montée en puissance des fausses boutiques en ligne, ainsi que leurs conseils pour s’en protéger. Tribune Filigran. « Les consommateurs trouvent les meilleures offres dans les groupes de discussion. Les professionnels de la cybersécurité trouvent les […] The post Black Friday /",
    "date": "2026-11-23T10:50:48.000Z"
-  },
-  {
-   "src": "IT-Connect",
-   "title": "Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques",
-   "link": "https://www.it-connect.fr/edge-lockdown-mode-webgl-webgpu/",
-   "description": "Microsoft teste dans Edge Canary un Lockdown Mode qui bloque WebGL et WebGPU pour contrer les attaques ciblées. Voici ce qu'il faut savoir sur ce mode. Le post Microsoft Edge : avec le Lockdown Mode, Microsoft veut bloquer les attaques a été publié sur IT-Connect .",
-   "date": "2026-11-23T10:30:00.000Z"
   },
   {
    "src": "ZATAZ",
@@ -432,13 +439,6 @@
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
    "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
    "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "UnderNews",
-   "title": "Kaspersky détecte plus de 27 000 attaques ciblant les joueurs dans l’attente de la sortie de GTA VI",
-   "link": "https://www.undernews.fr/undernews/kaspersky-detecte-plus-de-27-000-attaques-ciblant-les-joueurs-dans-lattente-de-la-sortie-de-gta-vi.html",
-   "description": "Les cybercriminels exploitent l’engouement autour du jeu à travers de faux pré-téléchargements, de faux outils d’activation et des portails de commande frauduleux. Tribune – Les chercheurs de Kaspersky ont mis au jour une vague de cyberattaques exploitant l’attente mondiale autour du lancement de Grand Theft Auto VI. Selon les données télémétriques de Kaspersky, 27 416 […] The post Kaspersky détec",
-   "date": "2026-11-19T18:17:20.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
