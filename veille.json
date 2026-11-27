@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:45:03.990Z",
+ "updated": "2026-11-27T23:14:46.304Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,34 @@
   }
  ],
  "items": [
+  {
+   "src": "IT-Connect",
+   "title": "VMware ESXi et Proxmox VE : des ransomwares déployés avec des identifiants mal protégés",
+   "link": "https://www.it-connect.fr/blacknevas-ransomware-vmware-esxi-vcenter/",
+   "description": "BlackNevas et The Gentlemen ont frappé des hyperviseurs VMware ESXi et Proxmox VE avec de simples identifiants volés ou stockés au mauvais endroit. Le post VMware ESXi et Proxmox VE : des ransomwares déployés avec des identifiants mal protégés a été publié sur IT-Connect .",
+   "date": "2026-11-27T19:45:50.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "Anthropic a trouvé le moyen de piéger un Claude désobéissant",
+   "link": "https://www.01net.com/actualites/anthropic-a-trouve-le-moyen-de-pieger-un-claude-desobeissant.html",
+   "description": "Anthropic a conçu Siren, un piège destiné à ses propres IA, en cas de problème. L'outil doit venir vérifier si un agent IA, comme Claude, est tenté d’enfreindre ses propres règles quand l'occasion se présente.",
+   "date": "2026-11-27T16:00:19.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Cyberattaques en série, les systèmes IT sous pression",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cyberattaques-en-serie-es-systemes-it-sous-pression",
+   "description": "Cloud militaire américain, infrastructures critiques suisses, administration britannique, SAP et AFP ont été touchés par des incidents de sécurité ces derniers jours. Ces attaques mettent en évidence la diversité des cibles et la fragilité de systèmes devenus essentiels, alors que l'IA accélère déjà certaines opérations offensives.",
+   "date": "2026-11-27T15:24:08.000Z"
+  },
+  {
+   "src": "Le Monde Informatique",
+   "title": "Le Royaume-Uni rejette une pétition réclamant l’interdiction de nouveaux datacenters dédiés à l'IA",
+   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/le-royaume-uni-rejette-une-petition-reclamant-l-interdiction-de-nouveaux-datacenters-dedies-a-l-ia",
+   "description": "Le gouvernement britannique a déclaré qu’il n’a “aucune intention” d'interdire la construction de nouveaux centres de données destinés à l'IA, malgré une pétition parlementaire dénonçant leur consommation de ressources et leurs conséquences environnementales. Les autorités privilégient un examen au cas par cas des projets, au nom de la souveraineté numérique et du développement de l'économie numér",
+   "date": "2026-11-27T14:50:50.000Z"
+  },
   {
    "src": "Le Monde Informatique",
    "title": "Binance rétablit les retraits après le piratage de 6,3 Md$ de crypto-actifs",
@@ -147,25 +175,11 @@
    "date": "2026-11-26T13:46:15.000Z"
   },
   {
-   "src": "Le Monde Informatique",
-   "title": "1Password victime d'une intrusion via GitHub",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/1password-victime-d-une-intrusion-via-github",
-   "description": "Le gestionnaire de mots de passe a subi une compromission de ses systèmes internes à la suite du piratage d'un compte GitHub d'entreprise. Si les coffres-forts chiffrés n'ont pas été affectés, des informations personnelles et des données techniques ont été exfiltrées, exposant les utilisateurs à des campagnes d'hameçonnage ciblées.",
-   "date": "2026-11-26T10:28:36.000Z"
-  },
-  {
    "src": "01net",
    "title": "Fuite de données chez 1Password : faut-il changer vos mots de passe de toute urgence ?",
    "link": "https://www.01net.com/actualites/fuite-de-donnees-chez-1password-faut-il-changer-vos-mots-de-passe-de-toute-urgence.html",
    "description": "Des pirates se sont introduits dans les systèmes de 1Password. Une fois à l'intérieur, ils ont dérobé les noms, les adresses e-mail et d’autres informations liées aux comptes de clients du gestionnaire de mots de passe. À la suite de cette cyberattaque, faut-il changer tous vos mots de passe ? On répond à toutes vos questions.",
    "date": "2026-11-26T08:33:18.000Z"
-  },
-  {
-   "src": "Le Monde Informatique",
-   "title": "De faux tests de recrutement ciblent les développeurs .NET via NuGet",
-   "link": "https://www.lemondeinformatique.fr/cybersecurite-conformite/de-faux-tests-de-recrutement-ciblent-les-developpeurs-net-via-nuget",
-   "description": "Une campagne malveillante cible les développeurs .NET en diffusant de faux exercices techniques de recrutement contenant des dépendances NuGet compromises. Dans un rapport publié le 23 novembre 2026, Socket indique avoir identifié 13 paquets suspects, déclinés en 28 versions et associés à quatre comptes de publication. À cette date, douze avaient été retirés de NuGet, mais le paquet WinUI.Button 1",
-   "date": "2026-11-26T08:15:00.000Z"
   },
   {
    "src": "01net",
@@ -273,13 +287,6 @@
    "date": "2026-11-24T17:00:26.000Z"
   },
   {
-   "src": "01net",
-   "title": "Un mois après le casse du siècle, les hackers de Binance accélèrent : 247 millions de dollars déjà blanchis",
-   "link": "https://www.01net.com/actualites/un-mois-apres-le-casse-du-siecle-les-hackers-de-binance-accelerent-247-millions-de-dollars-deja-blanchis.html",
-   "description": "Un mois après le plus gros vol de cryptomonnaies de l’histoire, le blanchiment d'argent s’accélère. Les pirates nord-coréens qui se sont attaqués à Binance ont déjà blanchi au moins 247 millions de dollars. Alors que les hackers nord-coréens appuient sur la pédale d'accélérateur pour disparaître sur la blockchain, la justice américaine tente de récupérer plus d’un milliard de dollars.",
-   "date": "2026-11-24T15:22:02.000Z"
-  },
-  {
    "src": "UnderNews",
    "title": "Le non-respect des normes de sécurité informatique entraîne la perte de contrats pour 1/4 des PME françaises",
    "link": "https://www.undernews.fr/reseau-securite/le-non-respect-des-normes-de-securite-informatique-entraine-la-perte-de-contrats-pour-1-4-des-pme-francaises.html",
@@ -301,11 +308,32 @@
    "date": "2026-11-24T10:33:39.000Z"
   },
   {
-   "src": "IT-Connect",
-   "title": "Neutralisé en 2019 par la gendarmerie, le ver USB Retadup revient pour distribuer CoffeeLoader",
-   "link": "https://www.it-connect.fr/retadup-ver-usb-coffeeloader/",
-   "description": "Démantelé en 2019 par la gendarmerie, le botnet du ver USB Retadup a été réactivé via ses anciens domaines. Il distribue désormais le loader CoffeeLoader. Le post Neutralisé en 2019 par la gendarmerie, le ver USB Retadup revient pour distribuer CoffeeLoader a été publié sur IT-Connect .",
-   "date": "2026-11-24T08:00:00.000Z"
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+   "date": "2026-11-24T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Laravel (24 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+   "description": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+   "date": "2026-11-24T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+   "date": "2026-11-24T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+   "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+   "date": "2026-11-24T00:00:00.000Z"
   },
   {
    "src": "UnderNews",
@@ -372,23 +400,37 @@
   },
   {
    "src": "CERT-FR (ANSSI)",
-   "title": "Bulletin d'actualité CERTFR-2026-ACT-049 (23 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-049/",
-   "description": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-   "date": "2026-11-23T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans SPIP (23 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1599/",
-   "description": "De multiples vulnérabilités ont été découvertes dans SPIP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
-   "date": "2026-11-23T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
    "title": "Multiples vulnérabilités dans MongoDB (23 novembre 2026)",
    "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1606/",
    "description": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+   "date": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Microsoft Office (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1604/",
+   "description": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+   "date": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans Microsoft Edge (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1603/",
+   "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+   "date": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Multiples vulnérabilités dans les produits Synology (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1607/",
+   "description": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+   "date": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "src": "CERT-FR (ANSSI)",
+   "title": "Vulnérabilité dans Mattermost Server (23 novembre 2026)",
+   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1605/",
+   "description": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
    "date": "2026-11-23T00:00:00.000Z"
   },
   {
@@ -397,48 +439,6 @@
    "link": "https://www.undernews.fr/alertes-securite/cyberattaque-contre-la-commission-europeenne.html",
    "description": "La Commission européenne a confirmé aujourd’hui avoir été la cible d’une cyberattaque menée à l’aide d’outils d’intelligence artificielle. Selon les premières informations publiées par Politico, plusieurs systèmes informatiques ont été perturbés pendant une dizaine de jours, tandis que l’ampleur d’une éventuelle compromission des données reste à déterminer. Tribune – À la suite de cette attaque, [",
    "date": "2026-11-20T08:15:13.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection SQL (SQLi). Google et Mandiant indiquent que la vulnérabilité...",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans les produits IBM (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1597/",
-   "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans le noyau Linux de Debian (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1594/",
-   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1596/",
-   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un déni de service.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Vulnérabilité dans KeyCloak (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1586/",
-   "description": "Une vulnérabilité a été découverte dans KeyCloak. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-   "date": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "src": "CERT-FR (ANSSI)",
-   "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (20 novembre 2026)",
-   "link": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1595/",
-   "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-   "date": "2026-11-20T00:00:00.000Z"
   },
   {
    "src": "CERT-FR (ANSSI)",
