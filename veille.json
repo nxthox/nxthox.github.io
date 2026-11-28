@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:36:35.662Z",
+ "updated": "2026-11-28T15:58:47.317Z",
  "sources": [
   {
    "nom": "CERT-FR (ANSSI)",
@@ -27,6 +27,20 @@
   }
  ],
  "items": [
+  {
+   "src": "01net",
+   "title": "Fuite géante de 2 milliards de mots de passe : le chercheur alerte les Français, « une cible plus rentable » pour les pirates",
+   "link": "https://www.01net.com/actualites/fuite-geante-de-2-milliards-de-mots-de-passe-le-chercheur-alerte-les-francais-une-cible-plus-rentable-pour-les-pirates.html",
+   "description": "Jeremiah Fowler, le chercheur qui a découvert une base de 2 milliards de mots de passe volés, met en garde les Français. Interrogé par 01net, il assure que la France fait partie des pays qui intéressent le plus les pirates qui ont volé des milliards de données.",
+   "date": "2026-11-28T11:11:21.000Z"
+  },
+  {
+   "src": "01net",
+   "title": "« Une fraude à double victime » : une nouvelle arnaque par mail déferle sur la France",
+   "link": "https://www.01net.com/actualites/une-fraude-a-double-victime-une-nouvelle-arnaque-par-mail-deferle-sur-la-france.html",
+   "description": "Une nouvelle arnaque par mail fait des ravages dans le monde. Intitulée CheckoutSwitch, cette arnaque déferle actuellement sur la France. Pour arriver à leurs fins, les escrocs se font passer pour DHL ou Amazon. Après avoir collecté des petites sommes, ils redirigent l’argent vers de véritables boutiques en ligne pour toucher une commission. C'est pourquoi on parle d'une « fraude à double victime ",
+   "date": "2026-11-28T07:02:03.000Z"
+  },
   {
    "src": "IT-Connect",
    "title": "VMware ESXi et Proxmox VE : des ransomwares déployés avec des identifiants mal protégés",
@@ -271,20 +285,6 @@
    "link": "https://www.it-connect.fr/vmware-vcenter-esx-cve-2026-123903-failles-novembre/",
    "description": "Cinq jours après la zero-day CVE-2026-123890, Broadcom corrige 23 failles VMware, dont la CVE-2026-123903 dans vCenter et deux failles critiques dans ESX. Le post VMware vCenter et ESX : trois nouvelles failles critiques, cinq jours après la faille zero-day a été publié sur IT-Connect .",
    "date": "2026-11-25T06:05:00.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "Fuite de données chez Decathlon : les informations de 163 000 clients ont été piratées",
-   "link": "https://www.01net.com/actualites/fuite-donnees-decathlon-donnees-163-000-clients-piratees.html",
-   "description": "Un pirate a mis en ligne les données de plus de 163 000 fiches clients Decathlon. Le répertoire volé contient des noms, des adresses et même des consignes de livraison précises, qui mettent en danger les Français. L’enseigne confirme avoir enregistré un « accès malveillant » chez l’un de ses prestataires.",
-   "date": "2026-11-24T17:33:28.000Z"
-  },
-  {
-   "src": "01net",
-   "title": "9,6 sur 10 : Google corrige l’une des failles Chrome les plus graves de l’année",
-   "link": "https://www.01net.com/actualites/96-sur-10-google-corrige-lune-des-failles-chrome-les-plus-graves-de-lannee.html",
-   "description": "Google déploie une nouvelle mise à jour de sécurité pour Chrome. Celle-ci corrige une faille critique qui pouvait permettre à des pirates d’exécuter du code malveillant en s'extirpant de la zone de protection du navigateur.",
-   "date": "2026-11-24T17:00:26.000Z"
   },
   {
    "src": "UnderNews",
